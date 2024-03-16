@@ -1,0 +1,23 @@
+\documentclass{report}
+\usepackage[pdftex]{graphicx}
+\usepackage{epstopdf}
+\usepackage{geometry}
+\include{settings}
+\geometry{
+  %top=1cm, % Adjust top margin
+  bottom=2cm, % Adjust bottom margin
+  left=1.5cm, % Adjust left margin
+  right=1.5cm % Adjust right margin
+}
+\epstopdfsetup{suffix=}
+
+\begin{document}
+\title{Lightspan Adventures Documentation}
+\author{Conor Woollatt}
+\maketitle
+\tableofcontents
+
+\include{./Games/16Tales/16Tales1}
+
+\end{document}
+

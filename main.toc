@@ -1,13 +1,28 @@
-\contentsline {chapter}{\numberline {1}16 Tales 1}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Transcriptions}{4}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}The Angry Moon}{4}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Coyote and Cottontail \& Coyote and the Beaver People}{5}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}The Dancing Stars \& The Friendly Wolf}{7}{subsection.1.1.3}%
-\contentsline {subsection}{\numberline {1.1.4}The Fire Bringer \& How Saynday Borought the Buffalo to the Indians}{9}{subsection.1.1.4}%
-\contentsline {chapter}{\numberline {2}16 Tales 2}{13}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Information}{13}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Transcriptions}{15}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}The Blind Man's Daughter}{15}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Jose and the Crocodile}{16}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Ma Liang and the Magic Brush}{18}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}The Tale of Urashima Taro}{20}{subsection.2.2.4}%
+\contentsline {chapter}{\numberline {1}Games}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}16 Tales - Volume 1}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Transcriptions}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}The Angry Moon}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Coyote and Cottontail \& Coyote and the Beaver People}{6}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}The Dancing Stars \& The Friendly Wolf}{8}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}The Fire Bringer \& How Saynday Borought the Buffalo to the Indians}{10}{subsection.2.1.4}%
+\contentsline {chapter}{\numberline {3}16 Tales - Volume 2}{14}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Information}{14}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Transcriptions}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}The Blind Man's Daughter}{16}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Jose and the Crocodile}{17}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Ma Liang and the Magic Brush}{19}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}The Tale of Urashima Taro}{21}{subsection.3.2.4}%
+\contentsline {chapter}{\numberline {4}16 Tales - Volume 3}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Information}{25}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Transcriptions}{27}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}The Flea}{27}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}The Lazy Fox \& Señor Coyote and Señor Fox}{29}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Tepozton, the Magic Boy from the Mountains}{32}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}The Tiger and the Rabbit}{34}{subsection.4.2.4}%
+\contentsline {chapter}{\numberline {5}16 Tales - Volume 4}{38}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Information}{38}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Transcriptions}{40}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Anance and the Golden Box}{40}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Brer Rabbit and the Tar Baby}{42}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}How Anance Got a Thin Waist \& Ananse's Visitor Turtle}{44}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Wakaima and the Clay Man}{46}{subsection.5.2.4}%

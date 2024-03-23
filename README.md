@@ -30,6 +30,8 @@ I'm hoping to change that by starting this project.
 
 The Lightspan Partnership is an example of a strange blip in the history of video games, and I would like to see more people be interested in this niche part of gaming history.
 
+I cannot guarantee that everything that is documented is 100% accurate, although I make a strong attempt for accuracy.
+
 - What's my progress?
 
 I will probably not be keeping track of every single section that I have completed in this at all times, but I hope to update it every now and again to reflect my progress.
@@ -38,10 +40,10 @@ Here's my current progress with the games:
 
 | Final list:                                                                    | Complete |
 | ------------------------------------------------------------------------------ | -------- |
-| 16 Tales                                                                       |   ✅       |
-| 16 Tales 2                                                                     |     ✅     |
-| 16 Tales 3                                                                     |       ✅   |
-| 16 Tales 4                                                                     |        ✅  |
+| 16 Tales                                                                       | ✅      |
+| 16 Tales 2                                                                     | ✅      |
+| 16 Tales 3                                                                     | ✅      |
+| 16 Tales 4                                                                     | ✅      |
 | Calamity Adventure 1: The Natural World                                        |          |
 | Calamity Adventure 2: People and Traditions                                    |          |
 | Calamity Adventure 3: Around the World                                         |          |
@@ -61,7 +63,7 @@ Here's my current progress with the games:
 | Every Child Can Succeed 7                                                      |          |
 | Faire Games: Language Arts                                                     |          |
 | Faire Games: Mathematics                                                       |          |
-| Family Connection: A Guide to Lightspan                                        |          |
+| Family Connection: A Guide to Lightspan                                        | ✅      |
 | Head to Toe 1                                                                  |          |
 | Head to Toe 2                                                                  |          |
 | Head to Toe 3                                                                  |          |

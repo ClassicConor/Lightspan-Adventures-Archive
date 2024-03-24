@@ -52,11 +52,19 @@
 \contentsline {section}{\numberline {6.4}Wakaima and the Clay Man}{48}{section.6.4}%
 \contentsline {subsection}{\numberline {6.4.1}Audio Summary}{48}{subsection.6.4.1}%
 \contentsline {subsection}{\numberline {6.4.2}Transcriptions}{48}{subsection.6.4.2}%
-\contentsline {chapter}{\numberline {7}Family Connection: A Guide to Lightspan}{52}{chapter.7}%
-\contentsline {section}{\numberline {7.1}List of screenshots:}{54}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Main Menu audio transcription}{56}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Introducing The Lightspan Partnership audio transcription}{56}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Powerful Learning Programs audio transcription}{56}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Lightspan Adventures: Grades K-2 audio transcription}{57}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Lightspan Adventures: Grades 3 \& 4 audio transcription}{57}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Lightspan Adventures: Grades 5 \& 6 audio transcription}{58}{section.7.7}%
+\contentsline {chapter}{\numberline {7}Creative - Overview}{52}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Creative Camp}{53}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Creative Isle}{56}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Creative Journey}{59}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Creative Voyage}{62}{section.10.1}%
+\contentsline {chapter}{\numberline {11}Family Connection: A Guide to Lightspan}{64}{chapter.11}%
+\contentsline {section}{\numberline {11.1}List of screenshots:}{66}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Main Menu audio transcription}{68}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Introducing The Lightspan Partnership audio transcription}{68}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Powerful Learning Programs audio transcription}{68}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Lightspan Adventures: Grades K-2 audio transcription}{69}{section.11.5}%
+\contentsline {section}{\numberline {11.6}Lightspan Adventures: Grades 3 \& 4 audio transcription}{69}{section.11.6}%
+\contentsline {section}{\numberline {11.7}Lightspan Adventures: Grades 5 \& 6 audio transcription}{70}{section.11.7}%
+\contentsline {chapter}{\numberline {12}Online Connection CD}{71}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Overview}{71}{section.12.1}%
+\contentsline {chapter}{\numberline {13}Road Writer}{73}{chapter.13}%

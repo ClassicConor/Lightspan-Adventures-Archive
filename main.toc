@@ -1,70 +1,112 @@
-\contentsline {chapter}{\numberline {1}Games}{3}{chapter.1}%
-\contentsline {chapter}{\numberline {2}16 Tales - Overview}{4}{chapter.2}%
-\contentsline {chapter}{\numberline {3}16 Tales - Volume 1}{6}{chapter.3}%
+\contentsline {chapter}{\numberline {1}Games}{4}{chapter.1}%
+\contentsline {chapter}{\numberline {2}16 Tales - Overview}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}16 Tales - Volume 1}{7}{chapter.3}%
 \contentsline {section}{\numberline {3.1}The Angry Moon}{8}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Audio Summary}{8}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}Transcriptions}{8}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Coyote and Cottontail \& Coyote and the Beaver People}{9}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Audio Summary}{9}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Transcriptions}{9}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}The Dancing Stars \& The Friendly Wolf}{12}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Audio Summary}{12}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Transcriptions}{12}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}The Fire Bringer \& How Saynday Borought the Buffalo to the Indians}{14}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Audio Summary}{14}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Transcriptions}{14}{subsection.3.4.2}%
-\contentsline {chapter}{\numberline {4}16 Tales - Volume 2}{17}{chapter.4}%
-\contentsline {section}{\numberline {4.1}The Blind Man's Daughter}{19}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Audio Summary}{19}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Transcriptions}{19}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4.2}Jose and the Crocodile}{20}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Audio Summary}{20}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Transcriptions}{21}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4.3}Ma Liang and the Magic Brush}{23}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Audio Summary}{23}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Transcriptions}{23}{subsection.4.3.2}%
-\contentsline {section}{\numberline {4.4}The Tale of Urashima Taro}{24}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Audio Summary}{24}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Transcriptions}{25}{subsection.4.4.2}%
-\contentsline {chapter}{\numberline {5}16 Tales - Volume 3}{27}{chapter.5}%
-\contentsline {section}{\numberline {5.1}The Flea}{29}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Audio Summary}{29}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Transcriptions}{29}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}The Lazy Fox \& Señor Coyote and Señor Fox}{31}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Audio Summary}{31}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Transcriptions}{32}{subsection.5.2.2}%
-\contentsline {section}{\numberline {5.3}Tepozton, the Magic Boy from the Mountains}{34}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Audio Summary}{34}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Transcriptions}{34}{subsection.5.3.2}%
-\contentsline {section}{\numberline {5.4}The Tiger and the Rabbit}{37}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Audio Summary}{37}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Transcriptions}{37}{subsection.5.4.2}%
-\contentsline {chapter}{\numberline {6}16 Tales - Volume 4}{40}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Anance and the Golden Box}{42}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Audio Summary}{42}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Transcriptions}{42}{subsection.6.1.2}%
-\contentsline {section}{\numberline {6.2}Brer Rabbit and the Tar Baby}{44}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Audio Summary}{44}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Transcriptions}{44}{subsection.6.2.2}%
-\contentsline {section}{\numberline {6.3}How Anance Got a Thin Waist \& Ananse's Visitor Turtle}{46}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Audio Summary}{46}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Transcriptions}{46}{subsection.6.3.2}%
-\contentsline {section}{\numberline {6.4}Wakaima and the Clay Man}{48}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Audio Summary}{48}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Transcriptions}{48}{subsection.6.4.2}%
-\contentsline {chapter}{\numberline {7}Creative - Overview}{52}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Creative Camp}{53}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Creative Isle}{56}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Creative Journey}{59}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Creative Voyage}{62}{section.10.1}%
-\contentsline {chapter}{\numberline {11}Family Connection: A Guide to Lightspan}{64}{chapter.11}%
-\contentsline {section}{\numberline {11.1}List of screenshots:}{66}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Main Menu audio transcription}{68}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Introducing The Lightspan Partnership audio transcription}{68}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Powerful Learning Programs audio transcription}{68}{section.11.4}%
-\contentsline {section}{\numberline {11.5}Lightspan Adventures: Grades K-2 audio transcription}{69}{section.11.5}%
-\contentsline {section}{\numberline {11.6}Lightspan Adventures: Grades 3 \& 4 audio transcription}{69}{section.11.6}%
-\contentsline {section}{\numberline {11.7}Lightspan Adventures: Grades 5 \& 6 audio transcription}{70}{section.11.7}%
-\contentsline {chapter}{\numberline {12}Online Connection CD}{71}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Overview}{71}{section.12.1}%
-\contentsline {chapter}{\numberline {13}Road Writer}{73}{chapter.13}%
+\contentsline {subsection}{\numberline {3.1.3}Credits}{10}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Coyote and Cottontail \& Coyote and the Beaver People}{10}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Audio Summary}{10}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Transcriptions}{10}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Credits}{13}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}The Dancing Stars \& The Friendly Wolf}{13}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Audio Summary}{13}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Transcriptions}{14}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Credits}{16}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}The Fire Bringer \& How Saynday Borought the Buffalo to the Indians}{16}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Audio Summary}{16}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Transcriptions}{17}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Credits}{19}{subsection.3.4.3}%
+\contentsline {chapter}{\numberline {4}16 Tales - Volume 2}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}The Blind Man's Daughter}{21}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Audio Summary}{21}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Transcriptions}{21}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Credits}{23}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Jose and the Crocodile}{23}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Audio Summary}{23}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Transcriptions}{23}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Credits}{26}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Ma Liang and the Magic Brush}{26}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Audio Summary}{26}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Transcriptions}{26}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Credits}{29}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}The Tale of Urashima Taro}{29}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Audio Summary}{29}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Transcriptions}{29}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Credits}{32}{subsection.4.4.3}%
+\contentsline {chapter}{\numberline {5}16 Tales - Volume 3}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}The Flea}{34}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Audio Summary}{34}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Transcriptions}{34}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Credits}{37}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}The Lazy Fox \& Señor Coyote and Señor Fox}{37}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Audio Summary}{37}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Transcriptions}{38}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Credits}{41}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Tepozton, the Magic Boy from the Mountains}{41}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Audio Summary}{41}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Transcriptions}{41}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Credits}{44}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}The Tiger and the Rabbit}{45}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Audio Summary}{45}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Transcriptions}{45}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Credits}{48}{subsection.5.4.3}%
+\contentsline {chapter}{\numberline {6}16 Tales - Volume 4}{49}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Anance and the Golden Box}{50}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Audio Summary}{50}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Transcriptions}{50}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Credits}{52}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Brer Rabbit and the Tar Baby}{53}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Audio Summary}{53}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Transcriptions}{53}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Credits}{56}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}How Anance Got a Thin Waist \& Ananse's Visitor Turtle}{56}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Audio Summary}{56}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Transcriptions}{56}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Credits}{59}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Wakaima and the Clay Man}{59}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Audio Summary}{59}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Transcriptions}{59}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Credits}{62}{subsection.6.4.3}%
+\contentsline {chapter}{\numberline {7}Creative - Overview}{63}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Creative Camp}{65}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Overview}{65}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Credits}{66}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Creative Isle}{69}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Overview}{69}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Credits}{70}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Creative Journey}{73}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Overview}{73}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Credits}{74}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Creative Voyage}{77}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Overview}{77}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Credits}{78}{section.10.5}%
+\contentsline {chapter}{\numberline {11}Family Connection: A Guide to Lightspan}{80}{chapter.11}%
+\contentsline {section}{\numberline {11.1}List of screenshots:}{82}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Main Menu audio transcription}{84}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Introducing The Lightspan Partnership audio transcription}{84}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Powerful Learning Programs audio transcription}{85}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Lightspan Adventures: Grades K-2 audio transcription}{86}{section.11.5}%
+\contentsline {section}{\numberline {11.6}Additional Videos}{86}{section.11.6}%
+\contentsline {subsection}{\numberline {11.6.1}Reading/Language Art: Mars Moose}{86}{subsection.11.6.1}%
+\contentsline {subsubsection}{Stay \& Play}{86}{section*.2}%
+\contentsline {subsubsection}{Cosmic Quest}{87}{section*.3}%
+\contentsline {subsubsection}{Walkabout}{87}{section*.4}%
+\contentsline {subsubsection}{Liquid Books}{88}{section*.5}%
+\contentsline {subsubsection}{On Screen Activities - General}{89}{section*.6}%
+\contentsline {subsubsection}{On Screen Activities - Stay \& Play}{89}{section*.7}%
+\contentsline {subsubsection}{On Screen Activities - Cosmic Quest}{89}{section*.8}%
+\contentsline {subsubsection}{On Screen Activities - Walkabout}{89}{section*.9}%
+\contentsline {subsubsection}{On Screen Activities - Liquid Books}{89}{section*.10}%
+\contentsline {subsubsection}{Off Screen Activities - General}{90}{section*.11}%
+\contentsline {subsubsection}{Off Screen Activities - Reading}{90}{section*.12}%
+\contentsline {subsubsection}{Off Screen Activities - Learning directional words}{90}{section*.13}%
+\contentsline {subsubsection}{Off Screen Activities - The Wonders of Nature}{91}{section*.14}%
+\contentsline {subsubsection}{Off Screen Activities - Everyday Activities}{91}{section*.15}%
+\contentsline {subsubsection}{Off Screen Activities - Assisting your child with writing and spelling new words}{91}{section*.16}%
+\contentsline {subsection}{\numberline {11.6.2}Mathematics - The Secret of Googol}{92}{subsection.11.6.2}%
+\contentsline {section}{\numberline {11.7}Lightspan Adventures: Grades 3 \& 4 audio transcription}{92}{section.11.7}%
+\contentsline {section}{\numberline {11.8}Lightspan Adventures: Grades 5 \& 6 audio transcription}{92}{section.11.8}%
+\contentsline {chapter}{\numberline {12}Online Connection CD}{93}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Overview}{93}{section.12.1}%
+\contentsline {chapter}{\numberline {13}Road Writer}{96}{chapter.13}%

@@ -50,10 +50,10 @@ Here's my current progress with the games:
 | Cali's Geo Tools                                                               |          |   |
 | Cosmic Cookoff: Language Arts                                                  |          |   |
 | Cosmic Cookoff: Mathematics                                                    |          |   |
-| Creative Camp                                                                  | 🟨      | Add credits |
-| Creative Isle                                                                  | 🟨      | Add credits |
-| Creative Journey                                                               | 🟨      | Add credits |
-| Creative Voyage                                                                | 🟨      | Add credits |
+| Creative Camp                                                                  | ✅      |  |
+| Creative Isle                                                                  | ✅      |  |
+| Creative Journey                                                               | ✅      |  |
+| Creative Voyage                                                                | ✅      |  |
 | Every Child Can Succeed 1                                                      |          |   |
 | Every Child Can Succeed 2                                                      |          |   |
 | Every Child Can Succeed 3                                                      |          |   |

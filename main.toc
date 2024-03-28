@@ -104,9 +104,34 @@
 \contentsline {subsubsection}{Off Screen Activities - The Wonders of Nature}{91}{section*.14}%
 \contentsline {subsubsection}{Off Screen Activities - Everyday Activities}{91}{section*.15}%
 \contentsline {subsubsection}{Off Screen Activities - Assisting your child with writing and spelling new words}{91}{section*.16}%
-\contentsline {subsection}{\numberline {11.6.2}Mathematics - The Secret of Googol}{92}{subsection.11.6.2}%
-\contentsline {section}{\numberline {11.7}Lightspan Adventures: Grades 3 \& 4 audio transcription}{92}{section.11.7}%
-\contentsline {section}{\numberline {11.8}Lightspan Adventures: Grades 5 \& 6 audio transcription}{92}{section.11.8}%
-\contentsline {chapter}{\numberline {12}Online Connection CD}{93}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Overview}{93}{section.12.1}%
-\contentsline {chapter}{\numberline {13}Road Writer}{96}{chapter.13}%
+\contentsline {subsection}{\numberline {11.6.2}Mathematics: The Secret of Googol}{91}{subsection.11.6.2}%
+\contentsline {subsubsection}{Tower}{91}{section*.17}%
+\contentsline {subsubsection}{Castle}{92}{section*.18}%
+\contentsline {subsubsection}{Ocean}{92}{section*.19}%
+\contentsline {subsubsection}{Sub}{93}{section*.20}%
+\contentsline {subsubsection}{On Screen Activities - Match shapes to written descriptions}{93}{section*.21}%
+\contentsline {subsubsection}{On Screen Activities - Reflected Images}{93}{section*.22}%
+\contentsline {subsubsection}{On Screen Activities - Recognise the pattern of shapes}{94}{section*.23}%
+\contentsline {subsubsection}{On Screen Activities - Explore Underwater Caves}{94}{section*.24}%
+\contentsline {subsubsection}{On Screen Activities - Repeating}{94}{section*.25}%
+\contentsline {subsubsection}{Off Screen Activities - Symmetry birthday card}{95}{section*.26}%
+\contentsline {subsubsection}{Off Screen Activities - Learning through everyday activities}{95}{section*.27}%
+\contentsline {subsubsection}{Off Screen Activities - Identify geometric shapes of road signs}{95}{section*.28}%
+\contentsline {subsubsection}{Off Screen Activities - Art and Geometry}{95}{section*.29}%
+\contentsline {subsubsection}{Off Screen Activities - Preparing a picnic}{95}{section*.30}%
+\contentsline {section}{\numberline {11.7}Lightspan Adventures: Grades 3 \& 4 audio transcription}{96}{section.11.7}%
+\contentsline {subsection}{\numberline {11.7.1}Reading/Language Arts: Mona \& Moki}{96}{subsection.11.7.1}%
+\contentsline {subsubsection}{On Screen Activities - Scrambled Letters}{96}{section*.31}%
+\contentsline {subsubsection}{On Screen Activities - Visualising Words}{96}{section*.32}%
+\contentsline {subsubsection}{On Screen Activities - The Meaning of Prefixes}{97}{section*.33}%
+\contentsline {subsubsection}{On Screen Activities - }{97}{section*.34}%
+\contentsline {subsubsection}{Off Screen Activities - Synonyms and Antonyms}{98}{section*.35}%
+\contentsline {subsubsection}{Off Screen Activities - }{98}{section*.36}%
+\contentsline {subsubsection}{Off Screen Activities - }{98}{section*.37}%
+\contentsline {subsubsection}{Off Screen Activities - }{98}{section*.38}%
+\contentsline {subsubsection}{Off Screen Activities - }{98}{section*.39}%
+\contentsline {subsection}{\numberline {11.7.2}Mathematics: Quaddle Family Mysteries}{98}{subsection.11.7.2}%
+\contentsline {section}{\numberline {11.8}Lightspan Adventures: Grades 5 \& 6 audio transcription}{98}{section.11.8}%
+\contentsline {chapter}{\numberline {12}Online Connection CD}{99}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Overview}{99}{section.12.1}%
+\contentsline {chapter}{\numberline {13}Road Writer}{102}{chapter.13}%

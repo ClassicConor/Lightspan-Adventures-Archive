@@ -1,4 +1,4 @@
-# The Lightspan Partnership archival project
+# The Lightspan Partnership archival and documentation project
 
 ![Lightspan Adventures](https://static.wikia.nocookie.net/briancoukis/images/f/f4/Lightspan_logo_remake_1_by_briancoukis88169_dd0be2l.png/revision/latest?cb=20190511142156)
 

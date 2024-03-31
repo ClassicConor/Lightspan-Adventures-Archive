@@ -38,6 +38,12 @@ I will probably not be keeping track of every single section that I have complet
 
 Here's my current progress with the games:
 
+Key:
+
+- ✅ - Complete
+- 🟨 - Ongoing
+- Blank - Not touched
+
 | Final list:                                                                    | Complete | What needs to be done |
 | ------------------------------------------------------------------------------ | -------- |-------- |
 | 16 Tales                                                                       | ✅      |  |
@@ -63,7 +69,7 @@ Here's my current progress with the games:
 | Every Child Can Succeed 7                                                      |          |   |
 | Faire Games: Language Arts                                                     |          |   |
 | Faire Games: Mathematics                                                       |          |   |
-| Family Connection: A Guide to Lightspan                                        | 🟨      | Add final transcriptions for Lightspan Adventure videos |
+| Family Connection: A Guide to Lightspan                                        | ✅      |   |
 | Head to Toe 1                                                                  |          |   |
 | Head to Toe 2                                                                  |          |   |
 | Head to Toe 3                                                                  |          |   |
@@ -98,13 +104,13 @@ Here's my current progress with the games:
 | Math on the Move!: Multiplication/Division Intermediate                        |          |   |
 | Mona & Moki: Drive Me Wild                                                     |          |   |
 | Mona & Moki: Drive Me Wilder                                                   |          |   |
-| Online Connection CD                                                           | ✅      |  |
+| Online Connection CD                                                           | ✅      |   |
 | P.K.'s Math Studio                                                             |          |   |
 | P.K.'s Place: Carlos at the Races!                                             |          |   |
 | P.K.'s Place: Daphne and the Seventh Wonder!                                   |          |   |
 | P.K.'s Place: Hoopo at Sea!                                                    |          |   |
 | P.K.'s Place: Party on the Patio!                                              |          |   |
-| Road Writer                                                                    | 🟨      | Add transcriptions from the game, expand already existing details, and add credits   |
+| Road Writer                                                                    | ✅      |   |
 | Science is Elementary 1                                                        |          |   |
 | Science is Elementary 2                                                        |          |   |
 | Science is Elementary 3                                                        |          |   |
@@ -146,13 +152,13 @@ Here's my current progress with the games:
 | Timeless Math: Space Flight Rescue                                             |          |   |
 | Unknown Variable 1: Masque Manor                                               |          |   |
 | Unknown Variable 2: Raven's Ridge                                              |          |   |
-| Write Away 1                                                                   |          |   |
-| Write Away 10                                                                  |          |   |
-| Write Away 2                                                                   |          |   |
-| Write Away 3                                                                   |          |   |
-| Write Away 4                                                                   |          |   |
-| Write Away 5                                                                   |          |   |
-| Write Away 6                                                                   |          |   |
-| Write Away 7                                                                   |          |   |
-| Write Away 8                                                                   |          |   |
-| Write Away 9                                                                   |          |   |
+| Write Away 1                                                                   |   🟨       | Fill in transcripts and add credits  |
+| Write Away 10                                                                  |    🟨      | Fill in transcripts and add credits  |
+| Write Away 2                                                                   |    🟨      | Fill in transcripts and add credits  |
+| Write Away 3                                                                   |      🟨    | Fill in transcripts and add credits  |
+| Write Away 4                                                                   |        🟨  | Fill in transcripts and add credits  |
+| Write Away 5                                                                   |         🟨 | Fill in transcripts and add credits  |
+| Write Away 6                                                                   |         🟨 | Fill in transcripts and add credits  |
+| Write Away 7                                                                   |        🟨  | Fill in transcripts and add credits  |
+| Write Away 8                                                                   |      🟨    |  Fill in transcripts and add credits |
+| Write Away 9                                                                   |    🟨      | Fill in transcripts and add credits  |

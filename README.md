@@ -169,3 +169,7 @@ Current work:
 - Begin writing a main, as well as filling in transcripts and audio descriptions for: Story Lane Theatre, Head To Toe, Every Child Can Succeed, and Science is Elementary
 - Create very simple template tex files for: Math Gallery Collection, Math on the Move, Mona and Moki, P.K., Str.at.e.s, The Quaddle Family Mysteries, The Secret of Googol, The Three Decoders, Timeless Jade Trade, Timeless Math and Unknown Variable
 - Fill in details for everything
+
+Note:
+
+- Because git limits file sizes, and because the PDF is over 100MB, you will need to load main.tex and create the PDF this way.

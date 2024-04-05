@@ -50,52 +50,52 @@ Key:
 | 16 Tales 2                                                                     | ✅      |  |
 | 16 Tales 3                                                                     | ✅      |  |
 | 16 Tales 4                                                                     | ✅      |  |
-| Calamity Adventure 1: The Natural World                                        |          |   |
-| Calamity Adventure 2: People and Traditions                                    |          |   |
-| Calamity Adventure 3: Around the World                                         |          |   |
-| Cali's Geo Tools                                                               |          |   |
-| Cosmic Cookoff: Language Arts                                                  |          |   |
-| Cosmic Cookoff: Mathematics                                                    |          |   |
+| Calamity 1: The Natural World                                                   | 🟨         |   |
+| Calamity 2: People and Traditions                                                |  🟨        |   |
+| Calamity 3: Around the World                                                      |   🟨       |   |
+| Cali's Geo Tools                                                               |    🟨      |   |
+| Cosmic Cookoff: Language Arts                                                  |   🟨       |   |
+| Cosmic Cookoff: Mathematics                                                    |   🟨       |   |
 | Creative Camp                                                                  | ✅      |  |
 | Creative Isle                                                                  | ✅      |  |
 | Creative Journey                                                               | ✅      |  |
 | Creative Voyage                                                                | ✅      |  |
-| Every Child Can Succeed 1                                                      |          |   |
-| Every Child Can Succeed 2                                                      |          |   |
-| Every Child Can Succeed 3                                                      |          |   |
-| Every Child Can Succeed 4                                                      |          |   |
-| Every Child Can Succeed 5                                                      |          |   |
-| Every Child Can Succeed 6                                                      |          |   |
-| Every Child Can Succeed 7                                                      |          |   |
-| Faire Games: Language Arts                                                     |          |   |
-| Faire Games: Mathematics                                                       |          |   |
+| Every Child Can Succeed 1                                                      |  🟨        | Complete transcriptions  |
+| Every Child Can Succeed 2                                                      |   🟨       | Complete transcriptions  |
+| Every Child Can Succeed 3                                                      |    🟨      | Complete transcriptions  |
+| Every Child Can Succeed 4                                                      |     🟨     | Complete transcriptions  |
+| Every Child Can Succeed 5                                                      |      🟨    | Complete transcriptions  |
+| Every Child Can Succeed 6                                                      |       🟨   | Complete transcriptions  |
+| Every Child Can Succeed 7                                                      |     🟨     | Complete transcriptions |
+| Faire Games: Language Arts                                                     |     🟨     |   |
+| Faire Games: Mathematics                                                       |     🟨     |   |
 | Family Connection: A Guide to Lightspan                                        | ✅      |   |
-| Head to Toe 1                                                                  |          |   |
-| Head to Toe 2                                                                  |          |   |
-| Head to Toe 3                                                                  |          |   |
-| Head to Toe 4                                                                  |          |   |
-| K9.5: Live in Airedale                                                         |          |   |
-| K9.5: The Hollywood Premiere                                                   |          |   |
-| K9.5: The Tail-Wag Tour                                                        |          |   |
-| K9.5: We are the Dogs                                                          |          |   |
-| K9.5: WebTunes                                                                 |          |   |
-| KazMania: Chaos in KazMania                                                    |          |   |
-| KazMania: Trail of Gems                                                        |          |   |
-| Liquid Books: Amrita's Tree Credito and the Coyote                             |          |   |
-| Liquid Books: Far-Fetched Frontier Tales                                       |          |   |
-| Liquid Books: Lety's Favorite Stories                                          |          |   |
-| Liquid Books: Pop-Out Prose                                                    |          |   |
-| Liquid Books: The Adventures of Adelita and Bo                                 |          |   |
-| Liquid Books: The Wandering Path                                               |          |   |
-| Mars Moose Cosmic Quest 1: City Sights                                         |          |   |
-| Mars Moose Cosmic Quest 2: Fairy Tale Island                                   |          |   |
-| Mars Moose Cosmic Quest 3: Race Through France                                 |          |   |
-| Mars Moose Stay & Play 1: In the Clubhouse                                     |          |   |
-| Mars Moose Stay & Play 2: In Mars' Bedroom                                     |          |   |
-| Mars Moose Stay & Play 3: In Lonnie's Classroom                                |          |   |
-| Mars Moose Walkabout 1: The Natural History Museum                             |          |   |
-| Mars Moose Walkabout 2: The Shakespeare Festival                               |          |   |
-| Mars Moose Walkabout 3: World Sports Day                                       |          |   |
+| Head to Toe 1                                                                  |  🟨        | Complete transcriptions  |
+| Head to Toe 2                                                                  |   🟨       | Complete transcriptions  |
+| Head to Toe 3                                                                  |    🟨      | Complete transcriptions  |
+| Head to Toe 4                                                                  |     🟨     | Complete transcriptions  |
+| K9.5: Live in Airedale                                                         |  🟨        |   |
+| K9.5: The Hollywood Premiere                                                   |   🟨       |   |
+| K9.5: The Tail-Wag Tour                                                        |   🟨       |   |
+| K9.5: We are the Dogs                                                          |   🟨       |   |
+| K9.5: WebTunes                                                                 |   🟨       |   |
+| KazMania: Chaos in KazMania                                                    |   🟨       |   |
+| KazMania: Trail of Gems                                                        |   🟨       |   |
+| Liquid Books: Amrita's Tree Credito and the Coyote                             |   🟨      |   |
+| Liquid Books: Far-Fetched Frontier Tales                                       |   🟨       |   |
+| Liquid Books: Lety's Favorite Stories                                          |   🟨       |   |
+| Liquid Books: Pop-Out Prose                                                    |   🟨       |   |
+| Liquid Books: The Adventures of Adelita and Bo                                 |   🟨       |   |
+| Liquid Books: The Wandering Path                                               |   🟨       |   |
+| Mars Moose Cosmic Quest 1: City Sights                                         |   🟨       |   |
+| Mars Moose Cosmic Quest 2: Fairy Tale Island                                   |   🟨       |   |
+| Mars Moose Cosmic Quest 3: Race Through France                                 |   🟨       |   |
+| Mars Moose Stay & Play 1: In the Clubhouse                                     |   🟨       |   |
+| Mars Moose Stay & Play 2: In Mars' Bedroom                                     |   🟨       |   |
+| Mars Moose Stay & Play 3: In Lonnie's Classroom                                |   🟨       |   |
+| Mars Moose Walkabout 1: The Natural History Museum                             |   🟨       |   |
+| Mars Moose Walkabout 2: The Shakespeare Festival                               |   🟨       |   |
+| Mars Moose Walkabout 3: World Sports Day                                       |   🟨       |   |
 | Math Gallery Collection 1                                                      |          |   |
 | Math Gallery Collection 2                                                      |          |   |
 | Math on the Move!: Addition/Subtraction Advanced                               |          |   |
@@ -111,14 +111,14 @@ Key:
 | P.K.'s Place: Hoopo at Sea!                                                    |          |   |
 | P.K.'s Place: Party on the Patio!                                              |          |   |
 | Road Writer                                                                    | ✅      |   |
-| Science is Elementary 1                                                        |          |   |
-| Science is Elementary 2                                                        |          |   |
-| Science is Elementary 3                                                        |          |   |
-| Story Lane Theater 1                                                           |          |   |
-| Story Lane Theater 2                                                           |          |   |
-| Story Lane Theater 3                                                           |          |   |
-| Story Lane Theater 4                                                           |          |   |
-| Story Lane Theater 5                                                           |          |   |
+| Science is Elementary 1                                                        |🟨          | Complete transcriptions  |
+| Science is Elementary 2                                                        | 🟨         | Complete transcriptions  |
+| Science is Elementary 3                                                        |  🟨        | Complete transcriptions  |
+| Story Lane Theater 1                                                           | 🟨         | Complete transcriptions  |
+| Story Lane Theater 2                                                           |  🟨        | Complete transcriptions  |
+| Story Lane Theater 3                                                           |   🟨       | Complete transcriptions   |
+| Story Lane Theater 4                                                           |    🟨      | Complete transcriptions |
+| Story Lane Theater 5                                                           |     🟨     | Complete transcriptions  |
 | Str.at.e.s Analogy-ology!                                                      |          |   |
 | Str.at.e.s Match-A-Batch                                                       |          |   |
 | Str.at.e.s Matchmania!                                                         |          |   |
@@ -152,13 +152,20 @@ Key:
 | Timeless Math: Space Flight Rescue                                             |          |   |
 | Unknown Variable 1: Masque Manor                                               |          |   |
 | Unknown Variable 2: Raven's Ridge                                              |          |   |
-| Write Away 1                                                                   |   🟨       | Fill in transcripts and add credits  |
-| Write Away 10                                                                  |    🟨      | Fill in transcripts and add credits  |
-| Write Away 2                                                                   |    🟨      | Fill in transcripts and add credits  |
-| Write Away 3                                                                   |      🟨    | Fill in transcripts and add credits  |
-| Write Away 4                                                                   |        🟨  | Fill in transcripts and add credits  |
-| Write Away 5                                                                   |         🟨 | Fill in transcripts and add credits  |
-| Write Away 6                                                                   |         🟨 | Fill in transcripts and add credits  |
-| Write Away 7                                                                   |        🟨  | Fill in transcripts and add credits  |
-| Write Away 8                                                                   |      🟨    |  Fill in transcripts and add credits |
-| Write Away 9                                                                   |    🟨      | Fill in transcripts and add credits  |
+| Write Away 1                                                                   |   🟨       | Fill in transcripts and add credits and images  |
+| Write Away 10                                                                  |    🟨      | Fill in transcripts and add credits and images |
+| Write Away 2                                                                   |    🟨      | Fill in transcripts and add credits and images |
+| Write Away 3                                                                   |      🟨    | Fill in transcripts and add credits and images |
+| Write Away 4                                                                   |        🟨  | Fill in transcripts and add credits and images |
+| Write Away 5                                                                   |         🟨 | Fill in transcripts and add credits and images |
+| Write Away 6                                                                   |         🟨 | Fill in transcripts and add credits and images |
+| Write Away 7                                                                   |        🟨  | Fill in transcripts and add credits and images |
+| Write Away 8                                                                   |      🟨    |  Fill in transcripts and add credits and images |
+| Write Away 9                                                                   |    🟨      | Fill in transcripts and add credits and images |
+
+Current work:
+
+- Completing transcripts for Write Away (up to 8), and eventually adding credits
+- Begin writing a main, as well as filling in transcripts and audio descriptions for: Story Lane Theatre, Head To Toe, Every Child Can Succeed, and Science is Elementary
+- Create very simple template tex files for: Math Gallery Collection, Math on the Move, Mona and Moki, P.K., Str.at.e.s, The Quaddle Family Mysteries, The Secret of Googol, The Three Decoders, Timeless Jade Trade, Timeless Math and Unknown Variable
+- Fill in details for everything

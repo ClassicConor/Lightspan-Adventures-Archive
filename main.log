@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.14)  5 APR 2024 14:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.14)  8 APR 2024 01:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1817,92 +1817,4 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.69.1}) 
 l.17     \item A
                  Treasure Hunt by Carley Moore \& Abby Mathis <./Games/WriteAway/Images/WriteAway7CD.png>] [254] [255
 
-] [256] [257] [258] [259] [260] [261] [262]) [263]
-\openout2 = `./Games/WriteAway/Pages/WriteAway8.aux'.
-
- (Games/WriteAway/Pages/WriteAway8.tex
-Chapter 70.
-<./Games/WriteAway/Images/WriteAway8CD.png, id=3336, 2914.89pt x 2903.84875pt>
-File: ./Games/WriteAway/Images/WriteAway8CD.png Graphic file (type png)
-<use ./Games/WriteAway/Images/WriteAway8CD.png>
-Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway8CD.png  used on input line 5.
-(pdftex.def)             Requested size: 215.0023pt x 214.1459pt.
-[264
-
-
-
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.70.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.17     \item A
-                 Young Woman Named Harris by Ashlee Dugger <./Games/WriteAway/Images/WriteAway8CD.png>] [265] [266
-
-] [267] [268] [269] [270] [271] [272]) [273]
-\openout2 = `./Games/WriteAway/Pages/WriteAway9.aux'.
-
- (Games/WriteAway/Pages/WriteAway9.tex
-Chapter 71.
-<./Games/WriteAway/Images/WriteAway9CD.png, id=3381, 2880.7625pt x 2882.77pt>
-File: ./Games/WriteAway/Images/WriteAway9CD.png Graphic file (type png)
-<use ./Games/WriteAway/Images/WriteAway9CD.png>
-Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway9CD.png  used on input line 5.
-(pdftex.def)             Requested size: 215.0023pt x 215.14272pt.
-[274
-
-
-
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.71.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.17     \item F
-                riendship by Candace Taylor <./Games/WriteAway/Images/WriteAway9CD.png>] [275]) [276
-
-]
-\openout2 = `./Games/WriteAway/Pages/WriteAway10.aux'.
-
- (Games/WriteAway/Pages/WriteAway10.tex
-Chapter 72.
-<./Games/WriteAway/Images/WriteAway10CD.png, id=3397, 2902.845pt x 2899.83376pt>
-File: ./Games/WriteAway/Images/WriteAway10CD.png Graphic file (type png)
-<use ./Games/WriteAway/Images/WriteAway10CD.png>
-Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway10CD.png  used on input line 5.
-(pdftex.def)             Requested size: 215.0023pt x 214.77902pt.
-[277
-
-
-
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{figure.72.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.17     \item M
-                y Mom by Garrick Benally <./Games/WriteAway/Images/WriteAway10CD.png>] [278]) [279
-
-] (main.aux (Games/Games.aux) (Games/16Tales/Pages/16TalesMain.aux) (Games/16Tales/Pages/16Tales1.aux) (Games/16Tales/Pages/16Tales2.aux) (Games/16Tales/Pages/16Tales3.aux) (Games/16Tales/Pages/16Tales4.aux) (Games/Calamity/Pages/CalamityMain.aux) (Games/Calamity/Pages/Calamity1TheNaturalWorld.aux) (Games/Calamity/Pages/Calamity2PeopleAndTraditions.aux) (Games/Calamity/Pages/Calamity3AroundTheWorld.aux) (Games/CalisGeoTools/Pages/CalisGeoTools.aux) (Games/CosmicCookoff/Pages/CosmicCookoffMain.aux) (Games/CosmicCookoff/Pages/CosmicCookoffLanguageArts.aux) (Games/CosmicCookoff/Pages/CosmicCookoffMathematics.aux) (Games/Creative/Pages/CreativeMain.aux) (Games/Creative/Pages/CreativeCamp.aux) (Games/Creative/Pages/CreativeIsle.aux) (Games/Creative/Pages/CreativeJourney.aux) (Games/Creative/Pages/CreativeVoyage.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceedMain.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed1.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed2.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed3.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed4.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed5.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed6.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed7.aux) (Games/FaireGames/Pages/FaireGamesMain.aux) (Games/FaireGames/Pages/FaireGamesLanguageArts.aux) (Games/FaireGames/Pages/FaireGamesMathematics.aux) (Games/FamilyConnection/Pages/FamilyConnectionAGuideToLightspan.aux) (Games/HeadtoToe/Pages/HeadToToeMain.aux) (Games/HeadtoToe/Pages/HeadToToe1.aux) (Games/HeadtoToe/Pages/HeadToToe2.aux) (Games/HeadtoToe/Pages/HeadToToe3.aux) (Games/HeadtoToe/Pages/HeadToToe4.aux) (Games/K9Dot5/Pages/K9Dot5Main.aux) (Games/K9Dot5/Pages/K9Dot5LivingInAireDale.aux) (Games/K9Dot5/Pages/K9Dot5TheHollywoodPremiere.aux) (Games/K9Dot5/Pages/K9Dot5TheTailWagTour.aux) (Games/K9Dot5/Pages/K9Dot5WeAreTheDogs.aux) (Games/K9Dot5/Pages/K9Dot5Webtunes.aux) (Games/KazMania/Pages/KazManiaMain.aux) (Games/KazMania/Pages/KazManiaChaosInKazMania.aux) (Games/KazMania/Pages/KazManiaTrailOfGems.aux) (Games/LiquidBooks/Pages/LiquidBooksMain.aux) (Games/LiquidBooks/Pages/LiquidBooksAmritasTreeCreditoAndTheCoyote.aux) (Games/LiquidBooks/Pages/LiquidBooksFarFetchedFrontierTales.aux) (Games/LiquidBooks/Pages/LiquidBooksLetysFavouriteStories.aux) (Games/LiquidBooks/Pages/LiquidBooksPopOutProse.aux) (Games/LiquidBooks/Pages/LiquidBooksTheAdventuresOfAdelitaAndBo.aux) (Games/LiquidBooks/Pages/LiquidBooksTheWanderingPath.aux) (Games/MarsMoose/Pages/MarsMooseMain.aux) (Games/MarsMoose/Pages/MarsMooseCosmicQuest1CitySights.aux) (Games/MarsMoose/Pages/MarsMooseCosmicQuest2FairyTaleIsland.aux) (Games/MarsMoose/Pages/MarsMooseCosmicQuest3RaceThroughFrance.aux) (Games/MarsMoose/Pages/MarsMooseStay&Play1InTheClubhouse.aux) (Games/MarsMoose/Pages/MarsMooseStay&Play2InMarsBedroom.aux) (Games/MarsMoose/Pages/MarsMooseStay&Play3InLonniesClassroom.aux) (Games/MarsMoose/Pages/MarsMooseWalkabout1TheNaturalHistoryMuseum.aux) (Games/MarsMoose/Pages/MarsMooseWalkabout2TheShakespeareFestival#.aux) (Games/MarsMoose/Pages/MarsMooseWalkabout3WorldSportsDay.aux) (Games/OnlineConnectionCD/Pages/OnlineConnectionCD.aux) (Games/RoadWriter/Pages/RoadWriter.aux) (Games/SchoolConnection/Pages/ScienceIsElementaryMain.aux) (Games/SchoolConnection/Pages/ScienceIsElementary1.aux) (Games/SchoolConnection/Pages/ScienceIsElementary2.aux) (Games/SchoolConnection/Pages/ScienceIsElementary3.aux) (Games/WriteAway/Pages/WriteAwayMain.aux) (Games/WriteAway/Pages/WriteAway1.aux) (Games/WriteAway/Pages/WriteAway2.aux) (Games/WriteAway/Pages/WriteAway3.aux) (Games/WriteAway/Pages/WriteAway4.aux) (Games/WriteAway/Pages/WriteAway5.aux) (Games/WriteAway/Pages/WriteAway6.aux) (Games/WriteAway/Pages/WriteAway7.aux) (Games/WriteAway/Pages/WriteAway8.aux) (Games/WriteAway/Pages/WriteAway9.aux) (Games/WriteAway/Pages/WriteAway10.aux))
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
- ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1CA0719CFF8A0B159BA88A6BC1FAFE67;72007.
- ) 
-Here is how much of TeX's memory you used:
- 17608 strings out of 475248
- 384675 string characters out of 5757812
- 1937785 words of memory out of 5000000
- 37572 multiletter control sequences out of 15000+600000
- 565520 words of font info for 62 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 77i,13n,84p,1462b,537s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\conor\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (280 pages, 151151627 bytes).
-PDF statistics:
- 3616 PDF objects out of 4296 (max. 8388607)
- 780 named destinations out of 1000 (max. 500000)
- 3538 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+] [256] [257] [258] [259] [260] [261] [262]) [263

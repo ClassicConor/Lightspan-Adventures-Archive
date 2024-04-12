@@ -2,11 +2,18 @@
 \usepackage[pdftex]{graphicx}
 \usepackage{epstopdf}
 \usepackage{geometry}
+\usepackage{subcaption}
 \include{settings}
 
 \epstopdfsetup{suffix=}
 
 \begin{document}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\leftmark}
+\fancyhead[LO]{}
+
 \title{Lightspan Adventures Documentation}
 \maketitle
 \tableofcontents

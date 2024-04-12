@@ -44,130 +44,130 @@ Key:
 - 🟨 - Ongoing
 - Blank - Not touched
 
-| Final list:                                                                    | Complete | What needs to be done |
-| ------------------------------------------------------------------------------ | -------- |-------- |
-| 16 Tales                                                                       | ✅      |  |
-| 16 Tales 2                                                                     | ✅      |  |
-| 16 Tales 3                                                                     | ✅      |  |
-| 16 Tales 4                                                                     | ✅      |  |
-| Calamity 1: The Natural World                                                   | 🟨         |   |
-| Calamity 2: People and Traditions                                                |  🟨        |   |
-| Calamity 3: Around the World                                                      |   🟨       |   |
-| Cali's Geo Tools                                                               |    🟨      |   |
-| Cosmic Cookoff: Language Arts                                                  |   🟨       |   |
-| Cosmic Cookoff: Mathematics                                                    |   🟨       |   |
-| Creative Camp                                                                  | ✅      |  |
-| Creative Isle                                                                  | ✅      |  |
-| Creative Journey                                                               | ✅      |  |
-| Creative Voyage                                                                | ✅      |  |
-| Every Child Can Succeed 1                                                      |  🟨        | Complete transcriptions  |
-| Every Child Can Succeed 2                                                      |   🟨       | Complete transcriptions  |
-| Every Child Can Succeed 3                                                      |    🟨      | Complete transcriptions  |
-| Every Child Can Succeed 4                                                      |     🟨     | Complete transcriptions  |
-| Every Child Can Succeed 5                                                      |      🟨    | Complete transcriptions  |
-| Every Child Can Succeed 6                                                      |       🟨   | Complete transcriptions  |
-| Every Child Can Succeed 7                                                      |     🟨     | Complete transcriptions |
-| Faire Games: Language Arts                                                     |     🟨     |   |
-| Faire Games: Mathematics                                                       |     🟨     |   |
-| Family Connection: A Guide to Lightspan                                        | ✅      |   |
-| Head to Toe 1                                                                  |  🟨        | Complete transcriptions  |
-| Head to Toe 2                                                                  |   🟨       | Complete transcriptions  |
-| Head to Toe 3                                                                  |    🟨      | Complete transcriptions  |
-| Head to Toe 4                                                                  |     🟨     | Complete transcriptions  |
-| K9.5: Live in Airedale                                                         |  🟨        |   |
-| K9.5: The Hollywood Premiere                                                   |   🟨       |   |
-| K9.5: The Tail-Wag Tour                                                        |   🟨       |   |
-| K9.5: We are the Dogs                                                          |   🟨       |   |
-| K9.5: WebTunes                                                                 |   🟨       |   |
-| KazMania: Chaos in KazMania                                                    |   🟨       |   |
-| KazMania: Trail of Gems                                                        |   🟨       |   |
-| Liquid Books: Amrita's Tree Credito and the Coyote                             |   🟨      |   |
-| Liquid Books: Far-Fetched Frontier Tales                                       |   🟨       |   |
-| Liquid Books: Lety's Favorite Stories                                          |   🟨       |   |
-| Liquid Books: Pop-Out Prose                                                    |   🟨       |   |
-| Liquid Books: The Adventures of Adelita and Bo                                 |   🟨       |   |
-| Liquid Books: The Wandering Path                                               |   🟨       |   |
-| Mars Moose Cosmic Quest 1: City Sights                                         |   🟨       |   |
-| Mars Moose Cosmic Quest 2: Fairy Tale Island                                   |   🟨       |   |
-| Mars Moose Cosmic Quest 3: Race Through France                                 |   🟨       |   |
-| Mars Moose Stay & Play 1: In the Clubhouse                                     |   🟨       |   |
-| Mars Moose Stay & Play 2: In Mars' Bedroom                                     |   🟨       |   |
-| Mars Moose Stay & Play 3: In Lonnie's Classroom                                |   🟨       |   |
-| Mars Moose Walkabout 1: The Natural History Museum                             |   🟨       |   |
-| Mars Moose Walkabout 2: The Shakespeare Festival                               |   🟨       |   |
-| Mars Moose Walkabout 3: World Sports Day                                       |   🟨       |   |
-| Math Gallery Collection 1                                                      |          |   |
-| Math Gallery Collection 2                                                      |          |   |
-| Math on the Move!: Addition/Subtraction Advanced                               |          |   |
-| Math on the Move!: Addition/Subtraction Intermediate                           |          |   |
-| Math on the Move!: Multiplication/Division Advanced                            |          |   |
-| Math on the Move!: Multiplication/Division Intermediate                        |          |   |
-| Mona & Moki: Drive Me Wild                                                     |          |   |
-| Mona & Moki: Drive Me Wilder                                                   |          |   |
-| Online Connection CD                                                           | ✅      |   |
-| P.K.'s Math Studio                                                             |          |   |
-| P.K.'s Place: Carlos at the Races!                                             |          |   |
-| P.K.'s Place: Daphne and the Seventh Wonder!                                   |          |   |
-| P.K.'s Place: Hoopo at Sea!                                                    |          |   |
-| P.K.'s Place: Party on the Patio!                                              |          |   |
-| Road Writer                                                                    | ✅      |   |
-| Science is Elementary 1                                                        |🟨          | Complete transcriptions  |
-| Science is Elementary 2                                                        | 🟨         | Complete transcriptions  |
-| Science is Elementary 3                                                        |  🟨        | Complete transcriptions  |
-| Story Lane Theater 1                                                           | 🟨         | Complete transcriptions  |
-| Story Lane Theater 2                                                           |  🟨        | Complete transcriptions  |
-| Story Lane Theater 3                                                           |   🟨       | Complete transcriptions   |
-| Story Lane Theater 4                                                           |    🟨      | Complete transcriptions |
-| Story Lane Theater 5                                                           |     🟨     | Complete transcriptions  |
-| Str.at.e.s Analogy-ology!                                                      |          |   |
-| Str.at.e.s Match-A-Batch                                                       |          |   |
-| Str.at.e.s Matchmania!                                                         |          |   |
-| Str.at.e.s Parallel Lives!                                                     |          |   |
-| Str.at.e.s Riddle Roundup!                                                     |          |   |
-| Str.at.e.s Riddle Wrangler!                                                    |          |   |
-| Str.at.e.s Title This! Title That!                                             |          |   |
-| Str.at.e.s Titlerama!                                                          |          |   |
-| The Quaddle Family Mysteries: The Case of the Scarce Scarab Garden             |          |   |
-| The Quaddle Family Mysteries: The Case of the Scarce Scarab Lobby/Kitchen      |          |   |
-| The Quaddle Family Mysteries: The Case of the Scarce Scarab Parlor/Family Room |          |   |
-| The Secret of Googol: Eggs All Around                                          |          |   |
-| The Secret of Googol: Googol Gulch - General Store, Math Arcade                |          |   |
-| The Secret of Googol: Googolfest - Arcade Isle, Moon Feast Isle                |          |   |
-| The Secret of Googol: Googolfest - Party Isle, Toy Isle                        |          |   |
-| The Secret of Googol: Reshaping Googol - Castle                                |          |   |
-| The Secret of Googol: Reshaping Googol - The Submarine                         |          |   |
-| The Secret of Googol: Reshaping Googol - The Tower                             |          |   |
-| The Secret of Googol: Reshaping Googol - Under the Ocean                       |          |   |
-| The Secret of Googol: The Googol Counting Fair - Corral, Fun House             |          |   |
-| The Secret of Googol: The Googol Counting Fair - Midways                       |          |   |
-| The Three Decoders: Key to the Carousel                                        |          |   |
-| The Three Decoders: Riddle of the Ring                                         |          |   |
-| Timeless Jade Trade                                                            |          |   |
-| Timeless Math: Brainswarm                                                      |          |   |
-| Timeless Math: Lunar Base                                                      |          |   |
-| Timeless Math: Maya - King Jaguar's Village                                    |          |   |
-| Timeless Math: Maya - Observatory                                              |          |   |
-| Timeless Math: Maya - Search and Rescue                                        |          |   |
-| Timeless Math: Rover Recovery                                                  |          |   |
-| Timeless Math: Space Flight Rescue                                             |          |   |
-| Unknown Variable 1: Masque Manor                                               |          |   |
-| Unknown Variable 2: Raven's Ridge                                              |          |   |
-| Write Away 1                                                                   |   🟨       | Fill in transcripts and add credits and images  |
-| Write Away 10                                                                  |    🟨      | Fill in transcripts and add credits and images |
-| Write Away 2                                                                   |    🟨      | Fill in transcripts and add credits and images |
-| Write Away 3                                                                   |      🟨    | Fill in transcripts and add credits and images |
-| Write Away 4                                                                   |        🟨  | Fill in transcripts and add credits and images |
-| Write Away 5                                                                   |         🟨 | Fill in transcripts and add credits and images |
-| Write Away 6                                                                   |         🟨 | Fill in transcripts and add credits and images |
-| Write Away 7                                                                   |        🟨  | Fill in transcripts and add credits and images |
-| Write Away 8                                                                   |      🟨    |  Fill in transcripts and add credits and images |
-| Write Away 9                                                                   |    🟨      | Fill in transcripts and add credits and images |
+| Final list:                                                                     | Complete | What needs to be done       |
+| ------------------------------------------------------------------------------- | -------- | --------------------------- |
+| 16 Tales                                                                        | ✅       |                             |
+| 16 Tales 2                                                                      | ✅       |                             |
+| 16 Tales 3                                                                      | ✅       |                             |
+| 16 Tales 4                                                                      | ✅       |                             |
+| Calamity 1: The Natural World                                                   | 🟨       |                             |
+| Calamity 2: People and Traditions                                               | 🟨       |                             |
+| Calamity 3: Around the World                                                    | 🟨       |                             |
+| Cali's Geo Tools                                                                | 🟨       |                             |
+| Cosmic Cookoff: Language Arts                                                   | 🟨       |                             |
+| Cosmic Cookoff: Mathematics                                                     | 🟨       |                             |
+| Creative Camp                                                                   | ✅       |                             |
+| Creative Isle                                                                   | ✅       |                             |
+| Creative Journey                                                                | ✅       |                             |
+| Creative Voyage                                                                 | ✅       |                             |
+| Every Child Can Succeed 1                                                       | 🟨       | Complete transcriptions     |
+| Every Child Can Succeed 2                                                       | 🟨       | Complete transcriptions     |
+| Every Child Can Succeed 3                                                       | 🟨       | Complete transcriptions     |
+| Every Child Can Succeed 4                                                       | 🟨       | Complete transcriptions     |
+| Every Child Can Succeed 5                                                       | 🟨       | Complete transcriptions     |
+| Every Child Can Succeed 6                                                       | 🟨       | Complete transcriptions     |
+| Every Child Can Succeed 7                                                       | 🟨       | Complete transcriptions     |
+| Faire Games: Language Arts                                                      | 🟨       |                             |
+| Faire Games: Mathematics                                                        | 🟨       |                             |
+| Family Connection: A Guide to Lightspan                                         | ✅       |                             |
+| Head to Toe 1                                                                   | 🟨       | Complete transcriptions     |
+| Head to Toe 2                                                                   | 🟨       | Complete transcriptions     |
+| Head to Toe 3                                                                   | 🟨       | Complete transcriptions     |
+| Head to Toe 4                                                                   | 🟨       | Complete transcriptions     |
+| K9.5: Live in Airedale                                                          | 🟨       |                             |
+| K9.5: The Hollywood Premiere                                                    | 🟨       |                             |
+| K9.5: The Tail-Wag Tour                                                         | 🟨       |                             |
+| K9.5: We are the Dogs                                                           | 🟨       |                             |
+| K9.5: WebTunes                                                                  | 🟨       |                             |
+| KazMania: Chaos in KazMania                                                     | 🟨       |                             |
+| KazMania: Trail of Gems                                                         | 🟨       |                             |
+| Liquid Books: Amrita's Tree Credito and the Coyote                              | 🟨       |                             |
+| Liquid Books: Far-Fetched Frontier Tales                                        | 🟨       |                             |
+| Liquid Books: Lety's Favorite Stories                                           | 🟨       |                             |
+| Liquid Books: Pop-Out Prose                                                     | 🟨       |                             |
+| Liquid Books: The Adventures of Adelita and Bo                                  | 🟨       |                             |
+| Liquid Books: The Wandering Path                                                | 🟨       |                             |
+| Mars Moose Cosmic Quest 1: City Sights                                          | 🟨       |                             |
+| Mars Moose Cosmic Quest 2: Fairy Tale Island                                    | 🟨       |                             |
+| Mars Moose Cosmic Quest 3: Race Through France                                  | 🟨       |                             |
+| Mars Moose Stay & Play 1: In the Clubhouse                                      | 🟨       |                             |
+| Mars Moose Stay & Play 2: In Mars' Bedroom                                      | 🟨       |                             |
+| Mars Moose Stay & Play 3: In Lonnie's Classroom                                 | 🟨       |                             |
+| Mars Moose Walkabout 1: The Natural History Museum                              | 🟨       |                             |
+| Mars Moose Walkabout 2: The Shakespeare Festival                                | 🟨       |                             |
+| Mars Moose Walkabout 3: World Sports Day                                        | 🟨       |                             |
+| Math Gallery Collection 1                                                       | 🟨       |                             |
+| Math Gallery Collection 2                                                       | 🟨       |                             |
+| Math on the Move!: Addition/Subtraction Advanced                                | 🟨       |                             |
+| Math on the Move!: Addition/Subtraction Intermediate                            | 🟨       |                             |
+| Math on the Move!: Multiplication/Division Advanced                             | 🟨       |                             |
+| Math on the Move!: Multiplication/Division Intermediate                         | 🟨       |                             |
+| Mona & Moki: Drive Me Wild                                                      | 🟨       |                             |
+| Mona & Moki: Drive Me Wilder                                                    | 🟨       |                             |
+| Online Connection CD                                                            | ✅       |                             |
+| P.K.'s Math Studio                                                              | 🟨       |                             |
+| P.K.'s Place: Carlos at the Races!                                              | 🟨       |                             |
+| P.K.'s Place: Daphne and the Seventh Wonder!                                    | 🟨       |                             |
+| P.K.'s Place: Hoopo at Sea!                                                     | 🟨       |                             |
+| P.K.'s Place: Party on the Patio!                                               | 🟨       |                             |
+| Road Writer                                                                     | ✅       |                             |
+| Science is Elementary 1                                                         | 🟨       | Complete transcriptions     |
+| Science is Elementary 2                                                         | 🟨       | Complete transcriptions     |
+| Science is Elementary 3                                                         | 🟨       | Complete transcriptions     |
+| Story Lane Theater 1                                                            | 🟨       | Complete transcriptions     |
+| Story Lane Theater 2                                                            | 🟨       | Complete transcriptions     |
+| Story Lane Theater 3                                                            | 🟨       | Complete transcriptions     |
+| Story Lane Theater 4                                                            | 🟨       | Complete transcriptions     |
+| Story Lane Theater 5                                                            | 🟨       | Complete transcriptions     |
+| Str.at.e.s Analogy-ology!                                                       | 🟨       |                             |
+| Str.at.e.s Match-A-Batch                                                        | 🟨       |                             |
+| Str.at.e.s Matchmania!                                                          | 🟨       |                             |
+| Str.at.e.s Parallel Lives!                                                      | 🟨       |                             |
+| Str.at.e.s Riddle Roundup!                                                      | 🟨       |                             |
+| Str.at.e.s Riddle Wrangler!                                                     | 🟨       |                             |
+| Str.at.e.s Title This! Title That!                                              | 🟨       |                             |
+| Str.at.e.s Titlerama!                                                           | 🟨       |                             |
+| The Quaddle Family Mysteries: The Case of the Scarce Scarab Garden              | 🟨       |                             |
+| The Quaddle Family Mysteries: The Case of the Scarce Scarab Lobby/Kitchen       | 🟨       |                             |
+| The Quaddle Family Mysteries: The Case of the Scarce Scarab Parlor/Family Room  | 🟨       |                             |
+| The Secret of Googol: Eggs All Around                                           | 🟨       |                             |
+| The Secret of Googol: Googol Gulch - General Store, Math Arcade                 | 🟨       |                             |
+| The Secret of Googol: Googolfest - Arcade Isle, Moon Feast Isle                 | 🟨       |                             |
+| The Secret of Googol: Googolfest - Party Isle, Toy Isle                         | 🟨       |                             |
+| The Secret of Googol: Reshaping Googol - Castle                                 | 🟨       |                             |
+| The Secret of Googol: Reshaping Googol - The Submarine                          | 🟨       |                             |
+| The Secret of Googol: Reshaping Googol - The Tower                              | 🟨       |                             |
+| The Secret of Googol: Reshaping Googol - Under the Ocean                        | 🟨       |                             |
+| The Secret of Googol: The Googol Counting Fair - Corral, Fun House              | 🟨       |                             |
+| The Secret of Googol: The Googol Counting Fair - Midways                        | 🟨       |                             |
+| The Three Decoders: Key to the Carousel                                         | 🟨       |                             |
+| The Three Decoders: Riddle of the Ring                                          | 🟨       |                             |
+| Timeless Jade Trade                                                             | 🟨       |                             |
+| Timeless Math: Brainswarm                                                       | 🟨       |                             |
+| Timeless Math: Lunar Base                                                       | 🟨       |                             |
+| Timeless Math: Maya - King Jaguar's Village                                     | 🟨       |                             |
+| Timeless Math: Maya - Observatory                                               | 🟨       |                             |
+| Timeless Math: Maya - Search and Rescue                                         | 🟨       |                             |
+| Timeless Math: Rover Recovery                                                   | 🟨       |                             |
+| Timeless Math: Space Flight Rescue                                              | 🟨       |                             |
+| Unknown Variable 1: Masque Manor                                                | 🟨       |                             |
+| Unknown Variable 2: Raven's Ridge                                               | 🟨       |                             |
+| Write Away 1                                                                    | 🟨       | Add credits and images      |
+| Write Away 2                                                                    | 🟨       | Add credits and images      |
+| Write Away 3                                                                    | 🟨       | Add credits and images      |
+| Write Away 4                                                                    | 🟨       | Add credits and images      |
+| Write Away 5                                                                    | 🟨       | Add credits and images      |
+| Write Away 6                                                                    | 🟨       | Add credits and images      |
+| Write Away 7                                                                    | 🟨       | Add credits and images      |
+| Write Away 8                                                                    | 🟨       | Add credits and images      |
+| Write Away 9                                                                    | 🟨       | Add credits and images      |
+| Write Away 10                                                                   | 🟨       | Add credits and images      |
+
+
 
 Current work:
 
 - Completing transcripts for Write Away (up to 9), and eventually adding credits and screenshots
-- Begin writing a main, as well as filling in transcripts and audio descriptions for: Story Lane Theatre, Head To Toe, Every Child Can Succeed, and Science is Elementary
-- Create very simple template tex files for: Math Gallery Collection, Math on the Move, Mona and Moki, P.K., Str.at.e.s, The Quaddle Family Mysteries, The Secret of Googol, The Three Decoders, Timeless Jade Trade, Timeless Math and Unknown Variable
 - Fill in details for everything
 
 Note:

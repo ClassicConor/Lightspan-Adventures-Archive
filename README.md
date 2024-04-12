@@ -152,16 +152,16 @@ Key:
 | Timeless Math: Space Flight Rescue                                              | 🟨       |                             |
 | Unknown Variable 1: Masque Manor                                                | 🟨       |                             |
 | Unknown Variable 2: Raven's Ridge                                               | 🟨       |                             |
-| Write Away 1                                                                    | 🟨       | Add credits and images      |
-| Write Away 2                                                                    | 🟨       | Add credits and images      |
-| Write Away 3                                                                    | 🟨       | Add credits and images      |
-| Write Away 4                                                                    | 🟨       | Add credits and images      |
-| Write Away 5                                                                    | 🟨       | Add credits and images      |
-| Write Away 6                                                                    | 🟨       | Add credits and images      |
-| Write Away 7                                                                    | 🟨       | Add credits and images      |
-| Write Away 8                                                                    | 🟨       | Add credits and images      |
-| Write Away 9                                                                    | 🟨       | Add credits and images      |
-| Write Away 10                                                                   | 🟨       | Add credits and images      |
+| Write Away 1                                                                    | ✅       |                             |
+| Write Away 2                                                                    | ✅       |                             |
+| Write Away 3                                                                    | ✅       |                             |
+| Write Away 4                                                                    | ✅       |                             |
+| Write Away 5                                                                    | ✅       |                             |
+| Write Away 6                                                                    | ✅       |                             |
+| Write Away 7                                                                    | ✅       |                             |
+| Write Away 8                                                                    | ✅       |                             |
+| Write Away 9                                                                    | ✅       |                             |
+| Write Away 10                                                                   | ✅       |                             |
 
 
 

@@ -60,7 +60,7 @@ Key:
 | Creative Isle                                                                   | ✅       |                             |
 | Creative Journey                                                                | ✅       |                             |
 | Creative Voyage                                                                 | ✅       |                             |
-| Every Child Can Succeed 1                                                       | 🟨       | Complete transcriptions     |
+| Every Child Can Succeed 1                                                       | ✅       |                             |
 | Every Child Can Succeed 2                                                       | 🟨       | Complete transcriptions     |
 | Every Child Can Succeed 3                                                       | 🟨       | Complete transcriptions     |
 | Every Child Can Succeed 4                                                       | 🟨       | Complete transcriptions     |

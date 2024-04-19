@@ -61,10 +61,10 @@ Key:
 | Creative Journey                                                                | ✅       |                             |
 | Creative Voyage                                                                 | ✅       |                             |
 | Every Child Can Succeed 1                                                       | ✅       |                             |
-| Every Child Can Succeed 2                                                       | ✅       | Complete transcriptions     |
-| Every Child Can Succeed 3                                                       | 🟨       | Complete transcriptions     |
-| Every Child Can Succeed 4                                                       | 🟨       | Complete transcriptions     |
-| Every Child Can Succeed 5                                                       | 🟨       | Complete transcriptions     |
+| Every Child Can Succeed 2                                                       | ✅       | Add images                  |
+| Every Child Can Succeed 3                                                       | ✅       | Add images                  |
+| Every Child Can Succeed 4                                                       | ✅       | Add images                  |
+| Every Child Can Succeed 5                                                       | ✅       | Add images                  |
 | Every Child Can Succeed 6                                                       | 🟨       | Complete transcriptions     |
 | Every Child Can Succeed 7                                                       | 🟨       | Complete transcriptions     |
 | Faire Games: Language Arts                                                      | 🟨       |                             |
@@ -163,12 +163,9 @@ Key:
 | Write Away 9                                                                    | ✅       |                             |
 | Write Away 10                                                                   | ✅       |                             |
 
-
-
 Current work:
 
-- Completing transcripts for Write Away (up to 9), and eventually adding credits and screenshots
-- Fill in details for everything
+- Completing transcripts for Every Child Can Succeed (currently halfway through ECCS 6). Need to add images also
 
 Note:
 

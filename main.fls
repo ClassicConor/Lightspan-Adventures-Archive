@@ -589,18 +589,6 @@ INPUT Games\WriteAway\Pages\WriteAway5.aux
 INPUT .\Games\WriteAway\Pages\WriteAway6.aux
 INPUT .\Games\WriteAway\Pages\WriteAway6.aux
 INPUT Games\WriteAway\Pages\WriteAway6.aux
-INPUT .\Games\WriteAway\Pages\WriteAway7.aux
-INPUT .\Games\WriteAway\Pages\WriteAway7.aux
-INPUT Games\WriteAway\Pages\WriteAway7.aux
-INPUT .\Games\WriteAway\Pages\WriteAway8.aux
-INPUT .\Games\WriteAway\Pages\WriteAway8.aux
-INPUT Games\WriteAway\Pages\WriteAway8.aux
-INPUT .\Games\WriteAway\Pages\WriteAway9.aux
-INPUT .\Games\WriteAway\Pages\WriteAway9.aux
-INPUT Games\WriteAway\Pages\WriteAway9.aux
-INPUT .\Games\WriteAway\Pages\WriteAway10.aux
-INPUT .\Games\WriteAway\Pages\WriteAway10.aux
-INPUT Games\WriteAway\Pages\WriteAway10.aux
 OUTPUT main.aux
 INPUT C:\Users\conor\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\conor\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -634,9 +622,6 @@ INPUT C:\Users\conor\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tf
 INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
-INPUT C:\Users\conor\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\conor\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\conor\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 OUTPUT main.toc
 INPUT .\Games\Games.tex
 INPUT .\Games\Games.tex
@@ -1051,6 +1036,7 @@ INPUT .\Games\FamilyConnection\Images\FamilyConnectionAGuidetoLightspanScreensho
 INPUT .\Games\FamilyConnection\Images\FamilyConnectionAGuidetoLightspanScreenshot2.png
 INPUT .\Games\FamilyConnection\Images\FamilyConnectionAGuidetoLightspanScreenshot2.png
 INPUT .\Games\FamilyConnection\Images\FamilyConnectionAGuidetoLightspanScreenshot2.png
+INPUT C:\Users\conor\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT .\Games\HeadtoToe\Pages\HeadToToeMain.tex
 INPUT .\Games\HeadtoToe\Pages\HeadToToeMain.tex
 OUTPUT Games\HeadtoToe\Pages\HeadToToeMain.aux
@@ -1317,6 +1303,8 @@ INPUT .\Games\OnlineConnectionCD\Images\OnlineConnectionCDDisk.png
 INPUT .\Games\OnlineConnectionCD\Images\OnlineConnectionCDDisk.png
 INPUT .\Games\OnlineConnectionCD\Images\OnlineConnectionCDDisk.png
 INPUT C:\Users\conor\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT C:\Users\conor\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\conor\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT .\Games\OnlineConnectionCD\Images\OnlineConnectionsCDExampleWebpage.jpg
 INPUT .\Games\OnlineConnectionCD\Images\OnlineConnectionsCDExampleWebpage.jpg
 INPUT .\Games\OnlineConnectionCD\Images\OnlineConnectionsCDExampleWebpage.jpg

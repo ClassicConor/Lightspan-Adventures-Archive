@@ -4,29 +4,21 @@
 
 - What is The Lightspan Partnership?
 
-The Lightspan Partnership was a collaboration between Lightspan, Inc. and educational institutions aimed at integrating technology into the classroom to enhance teaching and learning experiences.
-Lightspan, Inc. was a company that developed educational software and curriculum for K-12 students.
+The Lightspan Partnership was a collaboration between Lightspan, Inc. and educational institutions aimed at integrating technology into the classroom to enhance teaching and learning experiences. Lightspan, Inc. was a company that developed educational software and curriculum for K-12 students.
 
-During his time in office (1993-2001), Bill Clinton was a strong advocate for technology integration in education.
-His administration supported initiatives to increase access to technology in schools and to promote the use of educational technology to enhance teaching and learning.
-One of the recipients of these government grants was Lightspan.
+During his time in office (1993-2001), Bill Clinton was a strong advocate for technology integration in education. His administration supported initiatives to increase access to technology in schools and to promote the use of educational technology to enhance teaching and learning. One of the recipients of these government grants was Lightspan.
 
-The partnership involved providing schools with access to Lightspan's educational software and resources, which were designed to supplement traditional teaching methods and engage students in interactive learning activities.
-This software covered various subjects such as math, science, language arts, and social studies, and it often utilized multimedia elements like animations, videos, and interactive games to make learning more engaging and effective.
+The partnership involved providing schools with access to Lightspan's educational software and resources, which were designed to supplement traditional teaching methods and engage students in interactive learning activities. This software covered various subjects such as math, science, language arts, and social studies, and it often utilized multimedia elements like animations, videos, and interactive games to make learning more engaging and effective.
 
-Schools that participated in the Lightspan Partnership typically received training and support to help teachers effectively integrate the software into their curriculum.
-Additionally, Lightspan often worked closely with educators to develop customized educational content tailored to the specific needs and goals of the participating schools.
+Schools that participated in the Lightspan Partnership typically received training and support to help teachers effectively integrate the software into their curriculum. Additionally, Lightspan often worked closely with educators to develop customized educational content tailored to the specific needs and goals of the participating schools.
 
 Overall, the Lightspan Partnership aimed to harness the power of technology to improve educational outcomes and provide students with innovative learning experiences that would better prepare them for success in school and beyond.
 
 - Why am I documenting the Lightspan series of games?
 
-The Lightspan Partnership released over 116 games for the original PlayStation 1, which strangely, makes them the fourth largest publisher of video games for the console.
-In spite of this however, the amount of information related to the games that they released is extremely limited, and documentation overall is scarce.
-Not only have most people never heard of this prolific publisher, but for those that have, the chances are that most people who are aware of it are only aware of it due to the company's appearance on the Angry Video Game Nerd YouTube channel, and the single video that he dedicated to the games.
+The Lightspan Partnership released over 116 games for the original PlayStation 1, which strangely, makes them the fourth largest publisher of video games for the console. In spite of this however, the amount of information related to the games that they released is extremely limited, and documentation overall is scarce. Not only have most people never heard of this prolific publisher, but for those that have, the chances are that most people who are aware of it are only aware of it due to the company's appearance on the Angry Video Game Nerd YouTube channel, and the single video that he dedicated to the games.
 
-There is no central repository of information about these games, or the associated merchandise that exists alongside it.
-I'm hoping to change that by starting this project.
+There is no central repository of information about these games, or the associated merchandise that exists alongside it. I'm hoping to change that by starting this project.
 
 The Lightspan Partnership is an example of a strange blip in the history of video games, and I would like to see more people be interested in this niche part of gaming history.
 
@@ -165,8 +157,4 @@ Key:
 
 Current work:
 
-- Completing transcripts for Every Child Can Succeed (currently halfway through ECCS 6). Need to add images also
-
-Note:
-
-- Because git limits file sizes, and because the PDF is over 100MB, you will need to load main.tex and build the PDF manually.
+- Completing transcripts for Every Child Can Succeed (currently halfway through ECCS 6). Need to add images

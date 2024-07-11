@@ -36,7 +36,7 @@ Key:
 - 🟨 - Ongoing
 - Blank - Not touched
 
-| Final list:                                                                    | Complete | What needs to be done   |
+| List of Games:                                                                 | Complete | What needs to be done   |
 | ------------------------------------------------------------------------------ | -------- | ----------------------- |
 | 16 Tales                                                                       | ✅        |                         |
 | 16 Tales 2                                                                     | ✅        |                         |
@@ -53,12 +53,12 @@ Key:
 | Creative Journey                                                               | ✅        |                         |
 | Creative Voyage                                                                | ✅        |                         |
 | Every Child Can Succeed 1                                                      | ✅        |                         |
-| Every Child Can Succeed 2                                                      | ✅        | Add images              |
-| Every Child Can Succeed 3                                                      | ✅        | Add images              |
-| Every Child Can Succeed 4                                                      | ✅        | Add images              |
-| Every Child Can Succeed 5                                                      | ✅        | Add images              |
-| Every Child Can Succeed 6                                                      | ✅        | Add Images              |
-| Every Child Can Succeed 7                                                      | ✅        | Add Images              |
+| Every Child Can Succeed 2                                                      | ✅        |                         |
+| Every Child Can Succeed 3                                                      | ✅        |                         |
+| Every Child Can Succeed 4                                                      | ✅        |                         |
+| Every Child Can Succeed 5                                                      | ✅        |                         |
+| Every Child Can Succeed 6                                                      | ✅        |                         |
+| Every Child Can Succeed 7                                                      | ✅        |                         |
 | Faire Games: Language Arts                                                     | 🟨        |                         |
 | Faire Games: Mathematics                                                       | 🟨        |                         |
 | Family Connection: A Guide to Lightspan                                        | ✅        |                         |
@@ -103,9 +103,9 @@ Key:
 | P.K.'s Place: Hoopo at Sea!                                                    | 🟨        |                         |
 | P.K.'s Place: Party on the Patio!                                              | 🟨        |                         |
 | Road Writer                                                                    | ✅        |                         |
-| Science is Elementary 1                                                        | 🟨        | Complete transcriptions |
-| Science is Elementary 2                                                        | 🟨        | Complete transcriptions |
-| Science is Elementary 3                                                        | 🟨        | Complete transcriptions |
+| Science is Elementary 1                                                        | 🟨        | Add images              |
+| Science is Elementary 2                                                        | 🟨        | Add images              |
+| Science is Elementary 3                                                        | 🟨        | Add images              |
 | Story Lane Theater 1                                                           | 🟨        | Complete transcriptions |
 | Story Lane Theater 2                                                           | 🟨        | Complete transcriptions |
 | Story Lane Theater 3                                                           | 🟨        | Complete transcriptions |
@@ -157,4 +157,6 @@ Key:
 
 Current work:
 
-- Completing transcripts for Every Child Can Succeed (currently halfway through ECCS 6). Need to add images
+- Completing transcripts for Science is Elementary. Need to do 2 (already done 1 and 3)
+- Complete transcript edits for Story Lane Theatre
+- Complete the transcript edits for Head to Toe

@@ -106,9 +106,9 @@ Key:
 | Science is Elementary 1                                                        | 🟨        | Add images              |
 | Science is Elementary 2                                                        | 🟨        | Add images              |
 | Science is Elementary 3                                                        | 🟨        | Add images              |
-| Story Lane Theater 1                                                           | 🟨        | Complete transcriptions |
-| Story Lane Theater 2                                                           | 🟨        | Complete transcriptions |
-| Story Lane Theater 3                                                           | 🟨        | Complete transcriptions |
+| Story Lane Theater 1                                                           | 🟨        | Add images              |
+| Story Lane Theater 2                                                           | 🟨        | Add images              |
+| Story Lane Theater 3                                                           | 🟨        | Add images              |
 | Story Lane Theater 4                                                           | 🟨        | Complete transcriptions |
 | Story Lane Theater 5                                                           | 🟨        | Complete transcriptions |
 | Str.at.e.s Analogy-ology!                                                      | 🟨        |                         |
@@ -157,6 +157,6 @@ Key:
 
 Current work:
 
-- Completing transcripts for Science is Elementary. Need to do 2 (already done 1 and 3)
+- Add images to Science is Elementary
 - Complete transcript edits for Story Lane Theatre
 - Complete the transcript edits for Head to Toe

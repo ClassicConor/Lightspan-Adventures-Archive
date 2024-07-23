@@ -109,8 +109,8 @@ Key:
 | Story Lane Theater 1                                                           | 🟨        | Add images              |
 | Story Lane Theater 2                                                           | 🟨        | Add images              |
 | Story Lane Theater 3                                                           | 🟨        | Add images              |
-| Story Lane Theater 4                                                           | 🟨        | Complete transcriptions |
-| Story Lane Theater 5                                                           | 🟨        | Complete transcriptions |
+| Story Lane Theater 4                                                           | 🟨        | Add images              |
+| Story Lane Theater 5                                                           | 🟨        | Add images              |
 | Str.at.e.s Analogy-ology!                                                      | 🟨        |                         |
 | Str.at.e.s Match-A-Batch                                                       | 🟨        |                         |
 | Str.at.e.s Matchmania!                                                         | 🟨        |                         |
@@ -158,5 +158,5 @@ Key:
 Current work:
 
 - Add images to Science is Elementary
-- Complete transcript edits for Story Lane Theatre
-- Complete the transcript edits for Head to Toe
+- Add images to Story Lane Theatre
+- Complete the transcript edits for Head to Toe. Currently up to Head to Toe 1.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.14)  24 JUL 2024 01:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.14)  1 AUG 2024 16:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1328,36 +1328,36 @@ Chapter 33.
 
 ] [233
 
-] [234] [235] [236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247] [248] [249] [250] [251]) [252]
+] [234] [235] [236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247] [248] [249] [250] [251] [252] [253] [254]) [255]
 \openout2 = `Games/HeadtoToe/Pages/HeadToToe3.aux'.
 
  (Games/HeadtoToe/Pages/HeadToToe3.tex
 Chapter 34.
-[253
+[256
 
 
 
 
-] [254
+] [257
 
-] [255] [256] [257] [258] [259] [260] [261] [262] [263] [264] [265] [266] [267] [268] [269] [270] [271] [272]) [273]
+] [258] [259] [260] [261] [262] [263] [264] [265] [266] [267] [268] [269] [270] [271] [272] [273] [274] [275] [276] [277]) [278]
 \openout2 = `Games/HeadtoToe/Pages/HeadToToe4.aux'.
 
  (Games/HeadtoToe/Pages/HeadToToe4.tex
 Chapter 35.
-[274
+[279
 
 
 
 
-] [275
+] [280
 
-] [276] [277] [278] [279] [280] [281] [282] [283] [284] [285] [286]) [287]
+] [281] [282] [283] [284] [285] [286] [287] [288] [289] [290] [291] [292] [293] [294]) [295]
 \openout2 = `Games/K9Dot5/Pages/K9Dot5Main.aux'.
 
  (Games/K9Dot5/Pages/K9Dot5Main.tex
 Chapter 36.
-) [288
+) [296
 
 
 
@@ -1367,7 +1367,7 @@ Chapter 36.
 
  (Games/K9Dot5/Pages/K9Dot51LivingInAireDale.tex
 Chapter 37.
-) [289
+) [297
 
 
 
@@ -1377,7 +1377,7 @@ Chapter 37.
 
  (Games/K9Dot5/Pages/K9Dot52WeAreTheDogs.tex
 Chapter 38.
-) [290
+) [298
 
 
 
@@ -1387,7 +1387,7 @@ Chapter 38.
 
  (Games/K9Dot5/Pages/K9Dot53Webtunes.tex
 Chapter 39.
-) [291
+) [299
 
 
 
@@ -1397,7 +1397,7 @@ Chapter 39.
 
  (Games/K9Dot5/Pages/K9Dot54TheTailWagTour.tex
 Chapter 40.
-) [292
+) [300
 
 
 
@@ -1407,7 +1407,7 @@ Chapter 40.
 
  (Games/K9Dot5/Pages/K9Dot55TheHollywoodPremiere.tex
 Chapter 41.
-) [293
+) [301
 
 
 
@@ -1417,7 +1417,7 @@ Chapter 41.
 
  (Games/KazMania/Pages/KazManiaMain.tex
 Chapter 42.
-) [294
+) [302
 
 
 
@@ -1427,7 +1427,7 @@ Chapter 42.
 
  (Games/KazMania/Pages/KazMania1TrailOfGems.tex
 Chapter 43.
-) [295
+) [303
 
 
 
@@ -1437,7 +1437,7 @@ Chapter 43.
 
  (Games/KazMania/Pages/KazMania2ChaosInKazMania.tex
 Chapter 44.
-) [296
+) [304
 
 
 
@@ -1447,7 +1447,7 @@ Chapter 44.
 
  (Games/LiquidBooks/Pages/LiquidBooksMain.tex
 Chapter 45.
-) [297
+) [305
 
 
 
@@ -1457,7 +1457,7 @@ Chapter 45.
 
  (Games/LiquidBooks/Pages/LiquidBooks1LetysFavouriteStories.tex
 Chapter 46.
-) [298
+) [306
 
 
 
@@ -1467,7 +1467,7 @@ Chapter 46.
 
  (Games/LiquidBooks/Pages/LiquidBooks2AmritasTreeCreditoAndTheCoyote.tex
 Chapter 47.
-) [299
+) [307
 
 
 
@@ -1477,7 +1477,7 @@ Chapter 47.
 
  (Games/LiquidBooks/Pages/LiquidBooks3FarFetchedFrontierTales.tex
 Chapter 48.
-) [300
+) [308
 
 
 
@@ -1487,7 +1487,7 @@ Chapter 48.
 
  (Games/LiquidBooks/Pages/LiquidBooks4TheAdventuresOfAdelitaAndBo.tex
 Chapter 49.
-) [301
+) [309
 
 
 
@@ -1497,7 +1497,7 @@ Chapter 49.
 
  (Games/LiquidBooks/Pages/LiquidBooks5PopOutProse.tex
 Chapter 50.
-) [302
+) [310
 
 
 
@@ -1507,7 +1507,7 @@ Chapter 50.
 
  (Games/LiquidBooks/Pages/LiquidBooks6TheWanderingPath.tex
 Chapter 51.
-) [303
+) [311
 
 
 
@@ -1517,7 +1517,7 @@ Chapter 51.
 
  (Games/MarsMoose/Pages/MarsMooseMain.tex
 Chapter 52.
-) [304
+) [312
 
 
 
@@ -1527,7 +1527,7 @@ Chapter 52.
 
  (Games/MarsMoose/Pages/MarsMooseCosmicQuest1CitySights.tex
 Chapter 53.
-) [305
+) [313
 
 
 
@@ -1537,7 +1537,7 @@ Chapter 53.
 
  (Games/MarsMoose/Pages/MarsMooseCosmicQuest2FairyTaleIsland.tex
 Chapter 54.
-) [306
+) [314
 
 
 
@@ -1547,7 +1547,7 @@ Chapter 54.
 
  (Games/MarsMoose/Pages/MarsMooseCosmicQuest3RaceThroughFrance.tex
 Chapter 55.
-) [307
+) [315
 
 
 
@@ -1557,7 +1557,7 @@ Chapter 55.
 
  (Games/MarsMoose/Pages/MarsMooseStay&Play1InTheClubhouse.tex
 Chapter 56.
-) [308
+) [316
 
 
 
@@ -1567,7 +1567,7 @@ Chapter 56.
 
  (Games/MarsMoose/Pages/MarsMooseStay&Play2InMarsBedroom.tex
 Chapter 57.
-) [309
+) [317
 
 
 
@@ -1577,7 +1577,7 @@ Chapter 57.
 
  (Games/MarsMoose/Pages/MarsMooseStay&Play3InLonniesClassroom.tex
 Chapter 58.
-) [310
+) [318
 
 
 
@@ -1587,7 +1587,7 @@ Chapter 58.
 
  (Games/MarsMoose/Pages/MarsMooseWalkabout1TheNaturalHistoryMuseum.tex
 Chapter 59.
-) [311
+) [319
 
 
 
@@ -1597,7 +1597,7 @@ Chapter 59.
 
  (Games/MarsMoose/Pages/MarsMooseWalkabout2TheShakespeareFestival.tex
 Chapter 60.
-) [312
+) [320
 
 
 
@@ -1607,7 +1607,7 @@ Chapter 60.
 
  (Games/MarsMoose/Pages/MarsMooseWalkabout3WorldSportsDay.tex
 Chapter 61.
-) [313
+) [321
 
 
 
@@ -1617,7 +1617,7 @@ Chapter 61.
 
  (Games/MathGalleryCollection/Pages/MathGalleryCollectionMain.tex
 Chapter 62.
-) [314
+) [322
 
 
 
@@ -1627,7 +1627,7 @@ Chapter 62.
 
  (Games/MathGalleryCollection/Pages/MathGalleryCollection1.tex
 Chapter 63.
-) [315
+) [323
 
 
 
@@ -1637,7 +1637,7 @@ Chapter 63.
 
  (Games/MathGalleryCollection/Pages/MathGalleryCollection2.tex
 Chapter 64.
-) [316
+) [324
 
 
 
@@ -1647,7 +1647,7 @@ Chapter 64.
 
  (Games/MathOnTheMove/Pages/MathOnTheMoveMain.tex
 Chapter 65.
-) [317
+) [325
 
 
 
@@ -1657,7 +1657,7 @@ Chapter 65.
 
  (Games/MathOnTheMove/Pages/MathOnTheMove1AdditionSubtractionIntermediate.tex
 Chapter 66.
-) [318
+) [326
 
 
 
@@ -1667,7 +1667,7 @@ Chapter 66.
 
  (Games/MathOnTheMove/Pages/MathOnTheMove1AdditionSubtractionAdvanced.tex
 Chapter 67.
-) [319
+) [327
 
 
 
@@ -1677,7 +1677,7 @@ Chapter 67.
 
  (Games/MathOnTheMove/Pages/MathOnTheMove2MultiplicationDivisionIntermediate.tex
 Chapter 68.
-) [320
+) [328
 
 
 
@@ -1687,7 +1687,7 @@ Chapter 68.
 
  (Games/MathOnTheMove/Pages/MathOnTheMove2MultiplicationDivisionAdvanced.tex
 Chapter 69.
-) [321
+) [329
 
 
 
@@ -1697,7 +1697,7 @@ Chapter 69.
 
  (Games/Mona&Moki/Pages/Mona&MokeMain.tex
 Chapter 70.
-) [322
+) [330
 
 
 
@@ -1707,7 +1707,7 @@ Chapter 70.
 
  (Games/Mona&Moki/Pages/Mona&Moke1DriveMeWild.tex
 Chapter 71.
-) [323
+) [331
 
 
 
@@ -1717,7 +1717,7 @@ Chapter 71.
 
  (Games/Mona&Moki/Pages/Mona&Moke2DriveMeWilder.tex
 Chapter 72.
-) [324
+) [332
 
 
 
@@ -1727,12 +1727,12 @@ Chapter 72.
 
  (Games/OnlineConnectionCD/Pages/OnlineConnectionCD.tex
 Chapter 73.
-<./Games/OnlineConnectionCD/Images/OnlineConnectionCDDisk.png, id=4228, 607.26875pt x 625.33624pt>
+<./Games/OnlineConnectionCD/Images/OnlineConnectionCDDisk.png, id=4261, 607.26875pt x 625.33624pt>
 File: ./Games/OnlineConnectionCD/Images/OnlineConnectionCDDisk.png Graphic file (type png)
 <use ./Games/OnlineConnectionCD/Images/OnlineConnectionCDDisk.png>
 Package pdftex.def Info: ./Games/OnlineConnectionCD/Images/OnlineConnectionCDDisk.png  used on input line 5.
 (pdftex.def)             Requested size: 215.0023pt x 221.39955pt.
-[325
+[333
 
 
 
@@ -1747,22 +1747,22 @@ Overfull \hbox (136.51826pt too wide) in paragraph at lines 32--33
 \OT1/cmtt/m/n/10 web . archive . org / web / 20170822221459 / https : / / game-[]rave . com / ?gamepress _ reviews = lightspan-[]online-[]connection-[]cd#$[]\OT1/cmr/m/n/10 . 
  []
 
-<./Games/OnlineConnectionCD/Images/OnlineConnectionsCDExampleWebpage.jpg, id=4238, 1284.8pt x 722.7pt>
+<./Games/OnlineConnectionCD/Images/OnlineConnectionsCDExampleWebpage.jpg, id=4271, 1284.8pt x 722.7pt>
 File: ./Games/OnlineConnectionCD/Images/OnlineConnectionsCDExampleWebpage.jpg Graphic file (type jpg)
 <use ./Games/OnlineConnectionCD/Images/OnlineConnectionsCDExampleWebpage.jpg>
 Package pdftex.def Info: ./Games/OnlineConnectionCD/Images/OnlineConnectionsCDExampleWebpage.jpg  used on input line 36.
 (pdftex.def)             Requested size: 215.0023pt x 120.93858pt.
-<./Games/OnlineConnectionCD/Images/OnlineConnectionsCDStartScreen.jpg, id=4239, 903.375pt x 507.8975pt>
+<./Games/OnlineConnectionCD/Images/OnlineConnectionsCDStartScreen.jpg, id=4272, 903.375pt x 507.8975pt>
 File: ./Games/OnlineConnectionCD/Images/OnlineConnectionsCDStartScreen.jpg Graphic file (type jpg)
 <use ./Games/OnlineConnectionCD/Images/OnlineConnectionsCDStartScreen.jpg>
 Package pdftex.def Info: ./Games/OnlineConnectionCD/Images/OnlineConnectionsCDStartScreen.jpg  used on input line 42.
 (pdftex.def)             Requested size: 215.0023pt x 120.87491pt.
-) [326 <./Games/OnlineConnectionCD/Images/OnlineConnectionsCDExampleWebpage.jpg>] [327 <./Games/OnlineConnectionCD/Images/OnlineConnectionsCDStartScreen.jpg>]
+) [334 <./Games/OnlineConnectionCD/Images/OnlineConnectionsCDExampleWebpage.jpg>] [335 <./Games/OnlineConnectionCD/Images/OnlineConnectionsCDStartScreen.jpg>]
 \openout2 = `Games/PK/Pages/PKMain.aux'.
 
  (Games/PK/Pages/PKMain.tex
 Chapter 74.
-) [328
+) [336
 
 
 
@@ -1772,7 +1772,7 @@ Chapter 74.
 
  (Games/PK/Pages/PKsMathStudio.tex
 Chapter 75.
-) [329
+) [337
 
 
 
@@ -1782,7 +1782,7 @@ Chapter 75.
 
  (Games/PK/Pages/PKsPlace1PartyOnThePatio.tex
 Chapter 76.
-) [330
+) [338
 
 
 
@@ -1792,7 +1792,7 @@ Chapter 76.
 
  (Games/PK/Pages/PKsPlace2HoopoAtSea.tex
 Chapter 77.
-) [331
+) [339
 
 
 
@@ -1802,7 +1802,7 @@ Chapter 77.
 
  (Games/PK/Pages/PKsPlace3CarlosAtTheRaces.tex
 Chapter 78.
-) [332
+) [340
 
 
 
@@ -1812,7 +1812,7 @@ Chapter 78.
 
  (Games/PK/Pages/PKsPlace4DaphneAndTheSeventhWonder.tex
 Chapter 79.
-) [333
+) [341
 
 
 
@@ -1822,22 +1822,22 @@ Chapter 79.
 
  (Games/RoadWriter/Pages/RoadWriter.tex
 Chapter 80.
-<./Games/RoadWriter/Images/RoadWriterCDCover.jpg, id=4277, 353.82187pt x 352.31625pt>
+<./Games/RoadWriter/Images/RoadWriterCDCover.jpg, id=4310, 353.82187pt x 352.31625pt>
 File: ./Games/RoadWriter/Images/RoadWriterCDCover.jpg Graphic file (type jpg)
 <use ./Games/RoadWriter/Images/RoadWriterCDCover.jpg>
 Package pdftex.def Info: ./Games/RoadWriter/Images/RoadWriterCDCover.jpg  used on input line 5.
 (pdftex.def)             Requested size: 215.0023pt x 214.09007pt.
-[334
+[342
 
 
 
 
- <./Games/RoadWriter/Images/RoadWriterCDCover.jpg>] [335]) [336] [337]
+ <./Games/RoadWriter/Images/RoadWriterCDCover.jpg>] [343]) [344] [345]
 \openout2 = `Games/ScienceIsElementary/Pages/ScienceIsElementaryMain.aux'.
 
  (Games/ScienceIsElementary/Pages/ScienceIsElementaryMain.tex
 Chapter 81.
-) [338
+) [346
 
 
 
@@ -1847,43 +1847,43 @@ Chapter 81.
 
  (Games/ScienceIsElementary/Pages/ScienceIsElementary1.tex
 Chapter 82.
-[339
+[347
 
 
 
 
-] [340
+] [348
 
-] [341] [342] [343] [344] [345] [346] [347] [348] [349] [350] [351]) [352]
+] [349] [350] [351] [352] [353] [354] [355] [356] [357] [358] [359]) [360]
 \openout2 = `Games/ScienceIsElementary/Pages/ScienceIsElementary2.aux'.
 
  (Games/ScienceIsElementary/Pages/ScienceIsElementary2.tex
 Chapter 83.
-[353
+[361
 
 
 
 
-] [354
+] [362
 
-] [355] [356] [357] [358] [359] [360] [361] [362] [363]) [364]
+] [363] [364] [365] [366] [367] [368] [369] [370] [371]) [372]
 \openout2 = `Games/ScienceIsElementary/Pages/ScienceIsElementary3.aux'.
 
  (Games/ScienceIsElementary/Pages/ScienceIsElementary3.tex
 Chapter 84.
-[365
+[373
 
 
 
 
-] [366
+] [374
 
-] [367] [368] [369] [370] [371] [372]) [373]
+] [375] [376] [377] [378] [379] [380]) [381]
 \openout2 = `Games/StoryLaneTheater/Pages/StoryLaneTheaterMain.aux'.
 
  (Games/StoryLaneTheater/Pages/StoryLaneTheaterMain.tex
 Chapter 85.
-) [374
+) [382
 
 
 
@@ -1893,7 +1893,7 @@ Chapter 85.
 
  (Games/StoryLaneTheater/Pages/StoryLaneTheater1.tex
 Chapter 86.
-[375
+[383
 
 
 
@@ -1903,62 +1903,62 @@ Overfull \hbox (1.3574pt too wide) in paragraph at lines 25--26
 \OT1/cmr/m/n/10 Anansi con-tains two cap-ti-vat-ing tra-di-tional Ja-maican folk-tales about the tail-spinning spi-der Anansi.
  []
 
-[376
+[384
 
-] [377] [378] [379] [380] [381] [382] [383] [384] [385] [386] [387]) [388]
+] [385] [386] [387] [388] [389] [390] [391] [392] [393] [394] [395]) [396]
 \openout2 = `Games/StoryLaneTheater/Pages/StoryLaneTheater2.aux'.
 
  (Games/StoryLaneTheater/Pages/StoryLaneTheater2.tex
 Chapter 87.
-[389
+[397
 
 
 
 
-] [390
+] [398
 
-] [391] [392] [393] [394] [395] [396] [397] [398] [399] [400] [401]) [402]
+] [399] [400] [401] [402] [403] [404] [405] [406] [407] [408] [409]) [410]
 \openout2 = `Games/StoryLaneTheater/Pages/StoryLaneTheater3.aux'.
 
  (Games/StoryLaneTheater/Pages/StoryLaneTheater3.tex
 Chapter 88.
-[403
+[411
 
 
 
 
-] [404
+] [412
 
-] [405] [406] [407] [408] [409] [410] [411] [412] [413] [414] [415]) [416]
+] [413] [414] [415] [416] [417] [418] [419] [420] [421] [422] [423]) [424]
 \openout2 = `Games/StoryLaneTheater/Pages/StoryLaneTheater4.aux'.
 
  (Games/StoryLaneTheater/Pages/StoryLaneTheater4.tex
 Chapter 89.
-[417
+[425
 
 
 
 
-] [418
+] [426
 
-] [419] [420] [421] [422] [423] [424] [425] [426] [427] [428]) [429]
+] [427] [428] [429] [430] [431] [432] [433] [434] [435] [436]) [437]
 \openout2 = `Games/StoryLaneTheater/Pages/StoryLaneTheater5.aux'.
 
  (Games/StoryLaneTheater/Pages/StoryLaneTheater5.tex
 Chapter 90.
-[430
+[438
 
 
 
 
-] [431
+] [439
 
-] [432] [433] [434] [435] [436] [437] [438] [439] [440] [441]) [442]
+] [440] [441] [442] [443] [444] [445] [446] [447] [448] [449]) [450]
 \openout2 = `Games/strates/Pages/stratesMain.aux'.
 
  (Games/strates/Pages/stratesMain.tex
 Chapter 91.
-) [443
+) [451
 
 
 
@@ -1968,7 +1968,7 @@ Chapter 91.
 
  (Games/strates/Pages/strates1Match-A-Batch.tex
 Chapter 92.
-) [444
+) [452
 
 
 
@@ -1978,7 +1978,7 @@ Chapter 92.
 
  (Games/strates/Pages/strates2Matchmania.tex
 Chapter 93.
-) [445
+) [453
 
 
 
@@ -1988,7 +1988,7 @@ Chapter 93.
 
  (Games/strates/Pages/strates3TitleThisTitleThat.tex
 Chapter 94.
-) [446
+) [454
 
 
 
@@ -1998,7 +1998,7 @@ Chapter 94.
 
  (Games/strates/Pages/strates4Titlerama.tex
 Chapter 95.
-) [447
+) [455
 
 
 
@@ -2008,7 +2008,7 @@ Chapter 95.
 
  (Games/strates/Pages/strates5ParallelLives.tex
 Chapter 96.
-) [448
+) [456
 
 
 
@@ -2018,7 +2018,7 @@ Chapter 96.
 
  (Games/strates/Pages/strates6Analogy-ology.tex
 Chapter 97.
-) [449
+) [457
 
 
 
@@ -2028,7 +2028,7 @@ Chapter 97.
 
  (Games/strates/Pages/strates7RiddleRoundup.tex
 Chapter 98.
-) [450
+) [458
 
 
 
@@ -2038,7 +2038,7 @@ Chapter 98.
 
  (Games/strates/Pages/strates8RiddleWrangler.tex
 Chapter 99.
-) [451
+) [459
 
 
 
@@ -2048,7 +2048,7 @@ Chapter 99.
 
  (Games/TheQuaddleFamilyMysteries/Pages/TheQuaddleFamilyMysteriesMain.tex
 Chapter 100.
-) [452
+) [460
 
 
 
@@ -2058,7 +2058,7 @@ Chapter 100.
 
  (Games/TheQuaddleFamilyMysteries/Pages/TheQuaddleFamilyMysteries1TheCaseOfTheScarceScarabLobbyAndKitchen.tex
 Chapter 101.
-) [453
+) [461
 
 
 
@@ -2068,7 +2068,7 @@ Chapter 101.
 
  (Games/TheQuaddleFamilyMysteries/Pages/TheQuaddleFamilyMysteries2TheCaseOfTheScarceScarabGarden.tex
 Chapter 102.
-) [454
+) [462
 
 
 
@@ -2078,7 +2078,7 @@ Chapter 102.
 
  (Games/TheQuaddleFamilyMysteries/Pages/TheQuaddleFamilyMysteries3TheCaseOfTheScarceScarabParlorAndFamilyRoom.tex
 Chapter 103.
-) [455
+) [463
 
 
 
@@ -2088,7 +2088,7 @@ Chapter 103.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogolMain.tex
 Chapter 104.
-) [456
+) [464
 
 
 
@@ -2098,7 +2098,7 @@ Chapter 104.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol1aReshapingGoogolTheSubmarine.tex
 Chapter 105.
-) [457
+) [465
 
 
 
@@ -2108,7 +2108,7 @@ Chapter 105.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol1bReshapingGoogolTheTower.tex
 Chapter 106.
-) [458
+) [466
 
 
 
@@ -2118,7 +2118,7 @@ Chapter 106.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol2aReshapingGoogolTheCastle.tex
 Chapter 107.
-) [459
+) [467
 
 
 
@@ -2128,7 +2128,7 @@ Chapter 107.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol2bReshapingGoogolUnderTheOcean.tex
 Chapter 108.
-) [460
+) [468
 
 
 
@@ -2138,7 +2138,7 @@ Chapter 108.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol3TheGoogolCountingFairMidways.tex
 Chapter 109.
-) [461
+) [469
 
 
 
@@ -2148,7 +2148,7 @@ Chapter 109.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol4TheGoogolCountingFairCorralAndFunHouse.tex
 Chapter 110.
-) [462
+) [470
 
 
 
@@ -2158,7 +2158,7 @@ Chapter 110.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol5GoogolfestPartyIsleAndToyIsle.tex
 Chapter 111.
-) [463
+) [471
 
 
 
@@ -2168,7 +2168,7 @@ Chapter 111.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol6GoogolfestArcadeIsleAndMoonFeastIsle.tex
 Chapter 112.
-) [464
+) [472
 
 
 
@@ -2178,7 +2178,7 @@ Chapter 112.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol7EggsAllAroundEggTrekAndBalloonPicnic.tex
 Chapter 113.
-) [465
+) [473
 
 
 
@@ -2188,7 +2188,7 @@ Chapter 113.
 
  (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol8GoogolGulchGeneralStoreAndMathArcade.tex
 Chapter 114.
-) [466
+) [474
 
 
 
@@ -2198,7 +2198,7 @@ Chapter 114.
 
  (Games/TheThreeDecoders/Pages/TheThreeDecodersMain.tex
 Chapter 115.
-) [467
+) [475
 
 
 
@@ -2208,7 +2208,7 @@ Chapter 115.
 
  (Games/TheThreeDecoders/Pages/TheThreeDecoders1RiddleOfTheRing.tex
 Chapter 116.
-) [468
+) [476
 
 
 
@@ -2218,7 +2218,7 @@ Chapter 116.
 
  (Games/TheThreeDecoders/Pages/TheThreeDecoders2KeyToTheCarousel.tex
 Chapter 117.
-) [469
+) [477
 
 
 
@@ -2228,7 +2228,7 @@ Chapter 117.
 
  (Games/TimelessJadeTrade/Pages/TimelessJadeTrade.tex
 Chapter 118.
-) [470
+) [478
 
 
 
@@ -2238,7 +2238,7 @@ Chapter 118.
 
  (Games/TimelessMath/Pages/TimelessMathMain.tex
 Chapter 119.
-) [471
+) [479
 
 
 
@@ -2248,7 +2248,7 @@ Chapter 119.
 
  (Games/TimelessMath/Pages/TimelessMath1MayaSearchAndRescue.tex
 Chapter 120.
-) [472
+) [480
 
 
 
@@ -2258,7 +2258,7 @@ Chapter 120.
 
  (Games/TimelessMath/Pages/TimelessMath2MayaObservatory.tex
 Chapter 121.
-) [473
+) [481
 
 
 
@@ -2268,7 +2268,7 @@ Chapter 121.
 
  (Games/TimelessMath/Pages/TimelessMath3MayaKingJaguarsVillage.tex
 Chapter 122.
-) [474
+) [482
 
 
 
@@ -2278,7 +2278,7 @@ Chapter 122.
 
  (Games/TimelessMath/Pages/TimelessMath4LunarRace.tex
 Chapter 123.
-) [475
+) [483
 
 
 
@@ -2288,7 +2288,7 @@ Chapter 123.
 
  (Games/TimelessMath/Pages/TimelessMath5SpaceFlightRescue.tex
 Chapter 124.
-) [476
+) [484
 
 
 
@@ -2298,7 +2298,7 @@ Chapter 124.
 
  (Games/TimelessMath/Pages/TimelessMath6Brainswarm.tex
 Chapter 125.
-) [477
+) [485
 
 
 
@@ -2308,7 +2308,7 @@ Chapter 125.
 
  (Games/TimelessMath/Pages/TimelessMath7RoverRecovery.tex
 Chapter 126.
-) [478
+) [486
 
 
 
@@ -2318,7 +2318,7 @@ Chapter 126.
 
  (Games/UnknownVariable/Pages/UnknownVariableMain.tex
 Chapter 127.
-) [479
+) [487
 
 
 
@@ -2328,7 +2328,7 @@ Chapter 127.
 
  (Games/UnknownVariable/Pages/UnknownVariable1MasqueManor.tex
 Chapter 128.
-) [480
+) [488
 
 
 
@@ -2338,7 +2338,7 @@ Chapter 128.
 
  (Games/UnknownVariable/Pages/UnknownVariable2RavensRidge.tex
 Chapter 129.
-) [481
+) [489
 
 
 
@@ -2348,106 +2348,427 @@ Chapter 129.
 
  (Games/WriteAway/Pages/WriteAwayMain.tex
 Chapter 130.
-[482
+[490
 
 
 
 
-] [483]) [484]
+] [491]) [492]
 \openout2 = `Games/WriteAway/Pages/WriteAway1.aux'.
 
  (Games/WriteAway/Pages/WriteAway1.tex
 Chapter 131.
-<./Games/WriteAway/Images/WriteAway1CD.png, id=4912, 2918.905pt x 2898.83pt>
+<./Games/WriteAway/Images/WriteAway1CD.png, id=4946, 2918.905pt x 2898.83pt>
 File: ./Games/WriteAway/Images/WriteAway1CD.png Graphic file (type png)
 <use ./Games/WriteAway/Images/WriteAway1CD.png>
 Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway1CD.png  used on input line 5.
 (pdftex.def)             Requested size: 215.0023pt x 213.5104pt.
-[485
+[493
 
 
 
 
- <./Games/WriteAway/Images/WriteAway1CD.png>] [486] [487
+ <./Games/WriteAway/Images/WriteAway1CD.png>] [494] [495
 
-] [488] [489] [490] [491] [492] [493] [494] [495]
-<Games/WriteAway/Images/WriteAway1Screenshot1.png, id=4961, 1445.4pt x 1084.05pt>
+] [496] [497] [498] [499] [500] [501] [502] [503]
+<Games/WriteAway/Images/WriteAway1Screenshot1.png, id=4994, 1445.4pt x 1084.05pt>
 File: Games/WriteAway/Images/WriteAway1Screenshot1.png Graphic file (type png)
 <use Games/WriteAway/Images/WriteAway1Screenshot1.png>
 Package pdftex.def Info: Games/WriteAway/Images/WriteAway1Screenshot1.png  used on input line 766.
 (pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
-<Games/WriteAway/Images/WriteAway1Screenshot2.png, id=4962, 1445.4pt x 1084.05pt>
+<Games/WriteAway/Images/WriteAway1Screenshot2.png, id=4995, 1445.4pt x 1084.05pt>
 File: Games/WriteAway/Images/WriteAway1Screenshot2.png Graphic file (type png)
 <use Games/WriteAway/Images/WriteAway1Screenshot2.png>
 Package pdftex.def Info: Games/WriteAway/Images/WriteAway1Screenshot2.png  used on input line 771.
 (pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
-<Games/WriteAway/Images/WriteAway1Screenshot3.png, id=4963, 1445.4pt x 1084.05pt>
+<Games/WriteAway/Images/WriteAway1Screenshot3.png, id=4996, 1445.4pt x 1084.05pt>
 File: Games/WriteAway/Images/WriteAway1Screenshot3.png Graphic file (type png)
 <use Games/WriteAway/Images/WriteAway1Screenshot3.png>
 Package pdftex.def Info: Games/WriteAway/Images/WriteAway1Screenshot3.png  used on input line 777.
 (pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
-<Games/WriteAway/Images/WriteAway1Screenshot4.png, id=4964, 1445.4pt x 1084.05pt>
+<Games/WriteAway/Images/WriteAway1Screenshot4.png, id=4997, 1445.4pt x 1084.05pt>
 File: Games/WriteAway/Images/WriteAway1Screenshot4.png Graphic file (type png)
 <use Games/WriteAway/Images/WriteAway1Screenshot4.png>
 Package pdftex.def Info: Games/WriteAway/Images/WriteAway1Screenshot4.png  used on input line 782.
 (pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
-) [496
+) [504
 
  <./Games/WriteAway/Images/WriteAway1Screenshot1.png> <./Games/WriteAway/Images/WriteAway1Screenshot2.png> <./Games/WriteAway/Images/WriteAway1Screenshot3.png> <./Games/WriteAway/Images/WriteAway1Screenshot4.png>]
 \openout2 = `Games/WriteAway/Pages/WriteAway2.aux'.
 
  (Games/WriteAway/Pages/WriteAway2.tex
 Chapter 132.
-<./Games/WriteAway/Images/WriteAway2CD.png, id=4974, 2892.8075pt x 2870.725pt>
+<./Games/WriteAway/Images/WriteAway2CD.png, id=5008, 2892.8075pt x 2870.725pt>
 File: ./Games/WriteAway/Images/WriteAway2CD.png Graphic file (type png)
 <use ./Games/WriteAway/Images/WriteAway2CD.png>
 Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway2CD.png  used on input line 5.
 (pdftex.def)             Requested size: 215.0023pt x 213.32391pt.
-[497
+[505
 
 
 
 
- <./Games/WriteAway/Images/WriteAway2CD.png>] [498] [499
+ <./Games/WriteAway/Images/WriteAway2CD.png>] [506] [507
 
-] [500] [501] [502] [503] [504] [505] [506] [507]
-<Games/WriteAway/Images/WriteAway2Screenshot1.png, id=5023, 1445.4pt x 1084.05pt>
+] [508] [509] [510] [511] [512] [513] [514] [515]
+<Games/WriteAway/Images/WriteAway2Screenshot1.png, id=5056, 1445.4pt x 1084.05pt>
 File: Games/WriteAway/Images/WriteAway2Screenshot1.png Graphic file (type png)
 <use Games/WriteAway/Images/WriteAway2Screenshot1.png>
 Package pdftex.def Info: Games/WriteAway/Images/WriteAway2Screenshot1.png  used on input line 812.
 (pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
-<Games/WriteAway/Images/WriteAway2Screenshot2.png, id=5024, 1445.4pt x 1084.05pt>
+<Games/WriteAway/Images/WriteAway2Screenshot2.png, id=5057, 1445.4pt x 1084.05pt>
 File: Games/WriteAway/Images/WriteAway2Screenshot2.png Graphic file (type png)
 <use Games/WriteAway/Images/WriteAway2Screenshot2.png>
 Package pdftex.def Info: Games/WriteAway/Images/WriteAway2Screenshot2.png  used on input line 817.
 (pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
-<Games/WriteAway/Images/WriteAway2Screenshot3.png, id=5025, 1445.4pt x 1084.05pt>
+<Games/WriteAway/Images/WriteAway2Screenshot3.png, id=5058, 1445.4pt x 1084.05pt>
 File: Games/WriteAway/Images/WriteAway2Screenshot3.png Graphic file (type png)
 <use Games/WriteAway/Images/WriteAway2Screenshot3.png>
 Package pdftex.def Info: Games/WriteAway/Images/WriteAway2Screenshot3.png  used on input line 823.
 (pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
-<Games/WriteAway/Images/WriteAway2Screenshot4.png, id=5026, 1445.4pt x 1084.05pt>
+<Games/WriteAway/Images/WriteAway2Screenshot4.png, id=5059, 1445.4pt x 1084.05pt>
 File: Games/WriteAway/Images/WriteAway2Screenshot4.png Graphic file (type png)
 <use Games/WriteAway/Images/WriteAway2Screenshot4.png>
 Package pdftex.def Info: Games/WriteAway/Images/WriteAway2Screenshot4.png  used on input line 828.
 (pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
-) [508
+) [516
 
  <./Games/WriteAway/Images/WriteAway2Screenshot1.png> <./Games/WriteAway/Images/WriteAway2Screenshot2.png> <./Games/WriteAway/Images/WriteAway2Screenshot3.png> <./Games/WriteAway/Images/WriteAway2Screenshot4.png>]
 \openout2 = `Games/WriteAway/Pages/WriteAway3.aux'.
 
  (Games/WriteAway/Pages/WriteAway3.tex
 Chapter 133.
-<./Games/WriteAway/Images/WriteAway3CD.png, id=5036, 2892.8075pt x 2874.74pt>
+<./Games/WriteAway/Images/WriteAway3CD.png, id=5070, 2892.8075pt x 2874.74pt>
 File: ./Games/WriteAway/Images/WriteAway3CD.png Graphic file (type png)
 <use ./Games/WriteAway/Images/WriteAway3CD.png>
 Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway3CD.png  used on input line 5.
 (pdftex.def)             Requested size: 215.0023pt x 213.62227pt.
-[509
+[517
 
 
 
 
- <./Games/WriteAway/Images/WriteAway3CD.png>
-!pdfTeX error: pdflatex: fflush() failed (Invalid argument)
- ==> Fatal error occurred, no output PDF file produced!
+ <./Games/WriteAway/Images/WriteAway3CD.png>] [518] [519
+
+] [520] [521] [522] [523] [524] [525] [526] [527] [528] [529]
+<Games/WriteAway/Images/WriteAway3Screenshot1.png, id=5127, 1445.4pt x 1084.05pt>
+File: Games/WriteAway/Images/WriteAway3Screenshot1.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway3Screenshot1.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway3Screenshot1.png  used on input line 947.
+(pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
+<Games/WriteAway/Images/WriteAway3Screenshot2.png, id=5128, 1445.4pt x 1084.05pt>
+File: Games/WriteAway/Images/WriteAway3Screenshot2.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway3Screenshot2.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway3Screenshot2.png  used on input line 952.
+(pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
+<Games/WriteAway/Images/WriteAway3Screenshot3.png, id=5129, 1445.4pt x 1084.05pt>
+File: Games/WriteAway/Images/WriteAway3Screenshot3.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway3Screenshot3.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway3Screenshot3.png  used on input line 958.
+(pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
+<Games/WriteAway/Images/WriteAway3Screenshot4.png, id=5130, 1445.4pt x 1084.05pt>
+File: Games/WriteAway/Images/WriteAway3Screenshot4.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway3Screenshot4.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway3Screenshot4.png  used on input line 963.
+(pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
+) [530
+
+ <./Games/WriteAway/Images/WriteAway3Screenshot1.png> <./Games/WriteAway/Images/WriteAway3Screenshot2.png> <./Games/WriteAway/Images/WriteAway3Screenshot3.png> <./Games/WriteAway/Images/WriteAway3Screenshot4.png>]
+\openout2 = `Games/WriteAway/Pages/WriteAway4.aux'.
+
+ (Games/WriteAway/Pages/WriteAway4.tex
+Chapter 134.
+<./Games/WriteAway/Images/WriteAway4CD.png, id=5140, 2902.845pt x 2898.83pt>
+File: ./Games/WriteAway/Images/WriteAway4CD.png Graphic file (type png)
+<use ./Games/WriteAway/Images/WriteAway4CD.png>
+Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway4CD.png  used on input line 5.
+(pdftex.def)             Requested size: 215.0023pt x 214.70468pt.
+[531
+
+
+
+
+ <./Games/WriteAway/Images/WriteAway4CD.png>] [532] [533
+
+] [534] [535] [536] [537] [538] [539] [540] [541] [542]
+<Games/WriteAway/Images/WriteAway4Screenshot1.png, id=5193, 1445.4pt x 1084.05pt>
+File: Games/WriteAway/Images/WriteAway4Screenshot1.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway4Screenshot1.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway4Screenshot1.png  used on input line 957.
+(pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
+<Games/WriteAway/Images/WriteAway4Screenshot2.png, id=5194, 1445.4pt x 1084.05pt>
+File: Games/WriteAway/Images/WriteAway4Screenshot2.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway4Screenshot2.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway4Screenshot2.png  used on input line 962.
+(pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
+File: Games/WriteAway/Images/WriteAway4Screenshot2.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway4Screenshot2.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway4Screenshot2.png  used on input line 968.
+(pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
+File: Games/WriteAway/Images/WriteAway4Screenshot2.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway4Screenshot2.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway4Screenshot2.png  used on input line 973.
+(pdftex.def)             Requested size: 193.50076pt x 145.11638pt.
+) [543 <./Games/WriteAway/Images/WriteAway4Screenshot1.png> <./Games/WriteAway/Images/WriteAway4Screenshot2.png>]
+\openout2 = `Games/WriteAway/Pages/WriteAway5.aux'.
+
+ (Games/WriteAway/Pages/WriteAway5.tex
+Chapter 135.
+<./Games/WriteAway/Images/WriteAway5CD.png, id=5202, 2886.785pt x 2882.77pt>
+File: ./Games/WriteAway/Images/WriteAway5CD.png Graphic file (type png)
+<use ./Games/WriteAway/Images/WriteAway5CD.png>
+Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway5CD.png  used on input line 5.
+(pdftex.def)             Requested size: 215.0023pt x 214.70285pt.
+[544
+
+
+
+
+ <./Games/WriteAway/Images/WriteAway5CD.png>] [545] [546
+
+] [547] [548] [549] [550] [551] [552] [553] [554] [555] [556]
+<Games/WriteAway/Images/WriteAway5Screenshot1.png, id=5259, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway5Screenshot1.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway5Screenshot1.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway5Screenshot1.png  used on input line 985.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway5Screenshot2.png, id=5260, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway5Screenshot2.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway5Screenshot2.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway5Screenshot2.png  used on input line 990.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway5Screenshot3.png, id=5261, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway5Screenshot3.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway5Screenshot3.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway5Screenshot3.png  used on input line 996.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway5Screenshot4.png, id=5262, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway5Screenshot4.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway5Screenshot4.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway5Screenshot4.png  used on input line 1001.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+) [557
+
+ <./Games/WriteAway/Images/WriteAway5Screenshot1.png> <./Games/WriteAway/Images/WriteAway5Screenshot2.png> <./Games/WriteAway/Images/WriteAway5Screenshot3.png> <./Games/WriteAway/Images/WriteAway5Screenshot4.png>]
+\openout2 = `Games/WriteAway/Pages/WriteAway6.aux'.
+
+ (Games/WriteAway/Pages/WriteAway6.tex
+Chapter 136.
+<./Games/WriteAway/Images/WriteAway6CD.png, id=5272, 2886.785pt x 2882.77pt>
+File: ./Games/WriteAway/Images/WriteAway6CD.png Graphic file (type png)
+<use ./Games/WriteAway/Images/WriteAway6CD.png>
+Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway6CD.png  used on input line 5.
+(pdftex.def)             Requested size: 215.0023pt x 214.70285pt.
+[558
+
+
+
+
+ <./Games/WriteAway/Images/WriteAway6CD.png>] [559] [560
+
+] [561] [562] [563] [564] [565] [566] [567] [568] [569] [570] [571] [572]
+<Games/WriteAway/Images/WriteAway6Screenshot1.jpg, id=5338, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway6Screenshot1.jpg Graphic file (type jpg)
+<use Games/WriteAway/Images/WriteAway6Screenshot1.jpg>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway6Screenshot1.jpg  used on input line 1202.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway6Screenshot2.png, id=5339, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway6Screenshot2.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway6Screenshot2.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway6Screenshot2.png  used on input line 1207.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway6Screenshot3.png, id=5340, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway6Screenshot3.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway6Screenshot3.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway6Screenshot3.png  used on input line 1213.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway6Screenshot4.png, id=5341, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway6Screenshot4.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway6Screenshot4.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway6Screenshot4.png  used on input line 1218.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+) [573
+
+ <./Games/WriteAway/Images/WriteAway6Screenshot1.jpg> <./Games/WriteAway/Images/WriteAway6Screenshot2.png> <./Games/WriteAway/Images/WriteAway6Screenshot3.png> <./Games/WriteAway/Images/WriteAway6Screenshot4.png>]
+\openout2 = `Games/WriteAway/Pages/WriteAway7.aux'.
+
+ (Games/WriteAway/Pages/WriteAway7.tex
+Chapter 137.
+<./Games/WriteAway/Images/WriteAway7CD.png, id=5351, 2886.785pt x 2914.89pt>
+File: ./Games/WriteAway/Images/WriteAway7CD.png Graphic file (type png)
+<use ./Games/WriteAway/Images/WriteAway7CD.png>
+Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway7CD.png  used on input line 5.
+(pdftex.def)             Requested size: 215.0023pt x 217.09508pt.
+[574
+
+
+
+
+ <./Games/WriteAway/Images/WriteAway7CD.png>] [575] [576
+
+] [577] [578] [579] [580] [581] [582] [583] [584] [585]
+<Games/WriteAway/Images/WriteAway7Screenshot1.png, id=5404, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway7Screenshot1.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway7Screenshot1.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway7Screenshot1.png  used on input line 868.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway7Screenshot2.png, id=5405, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway7Screenshot2.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway7Screenshot2.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway7Screenshot2.png  used on input line 873.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway7Screenshot3.png, id=5406, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway7Screenshot3.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway7Screenshot3.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway7Screenshot3.png  used on input line 879.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway7Screenshot4.png, id=5407, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway7Screenshot4.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway7Screenshot4.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway7Screenshot4.png  used on input line 884.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+) [586
+
+ <./Games/WriteAway/Images/WriteAway7Screenshot1.png> <./Games/WriteAway/Images/WriteAway7Screenshot2.png> <./Games/WriteAway/Images/WriteAway7Screenshot3.png> <./Games/WriteAway/Images/WriteAway7Screenshot4.png>]
+\openout2 = `Games/WriteAway/Pages/WriteAway8.aux'.
+
+ (Games/WriteAway/Pages/WriteAway8.tex
+Chapter 138.
+<./Games/WriteAway/Images/WriteAway8CD.png, id=5417, 2914.89pt x 2903.84875pt>
+File: ./Games/WriteAway/Images/WriteAway8CD.png Graphic file (type png)
+<use ./Games/WriteAway/Images/WriteAway8CD.png>
+Package pdftex.def Info: ./Games/WriteAway/Images/WriteAway8CD.png  used on input line 5.
+(pdftex.def)             Requested size: 215.0023pt x 214.1459pt.
+[587
+
+
+
+
+ <./Games/WriteAway/Images/WriteAway8CD.png>] [588] [589
+
+] [590] [591] [592] [593] [594] [595] [596] [597]
+<Games/WriteAway/Images/WriteAway8Screenshot1.png, id=5466, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway8Screenshot1.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway8Screenshot1.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway8Screenshot1.png  used on input line 784.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway8Screenshot2.png, id=5467, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway8Screenshot2.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway8Screenshot2.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway8Screenshot2.png  used on input line 789.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway8Screenshot3.png, id=5468, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway8Screenshot3.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway8Screenshot3.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway8Screenshot3.png  used on input line 795.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway8Screenshot4.png, id=5469, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway8Screenshot4.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway8Screenshot4.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway8Screenshot4.png  used on input line 800.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+) [598
+
+ <./Games/WriteAway/Images/WriteAway8Screenshot1.png> <./Games/WriteAway/Images/WriteAway8Screenshot2.png> <./Games/WriteAway/Images/WriteAway8Screenshot3.png> <./Games/WriteAway/Images/WriteAway8Screenshot4.png>]
+\openout2 = `Games/WriteAway/Pages/WriteAway9.aux'.
+
+ (Games/WriteAway/Pages/WriteAway9.tex
+Chapter 139.
+<Games/WriteAway/Images/WriteAway9CD.png, id=5479, 2880.7625pt x 2882.77pt>
+File: Games/WriteAway/Images/WriteAway9CD.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway9CD.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway9CD.png  used on input line 5.
+(pdftex.def)             Requested size: 215.0023pt x 215.14272pt.
+[599
+
+
+
+
+ <./Games/WriteAway/Images/WriteAway9CD.png>] [600] [601
+
+] [602] [603] [604] [605] [606] [607]
+<Games/WriteAway/Images/WriteAway9Screenshot1.png, id=5520, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway9Screenshot1.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway9Screenshot1.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway9Screenshot1.png  used on input line 637.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway9Screenshot2.png, id=5521, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway9Screenshot2.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway9Screenshot2.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway9Screenshot2.png  used on input line 642.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway9Screenshot3.png, id=5522, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway9Screenshot3.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway9Screenshot3.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway9Screenshot3.png  used on input line 648.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway9Screenshot4.png, id=5523, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway9Screenshot4.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway9Screenshot4.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway9Screenshot4.png  used on input line 653.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+) [608
+
+ <./Games/WriteAway/Images/WriteAway9Screenshot1.png> <./Games/WriteAway/Images/WriteAway9Screenshot2.png> <./Games/WriteAway/Images/WriteAway9Screenshot3.png> <./Games/WriteAway/Images/WriteAway9Screenshot4.png>]
+\openout2 = `Games/WriteAway/Pages/WriteAway10.aux'.
+
+ (Games/WriteAway/Pages/WriteAway10.tex
+Chapter 140.
+<Games/WriteAway/Images/WriteAway10CD.png, id=5533, 2902.845pt x 2899.83376pt>
+File: Games/WriteAway/Images/WriteAway10CD.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway10CD.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway10CD.png  used on input line 5.
+(pdftex.def)             Requested size: 215.0023pt x 214.77902pt.
+[609
+
+
+
+
+ <./Games/WriteAway/Images/WriteAway10CD.png>] [610] [611
+
+] [612] [613] [614] [615] [616] [617] [618] [619] [620]
+<Games/WriteAway/Images/WriteAway10Screenshot1.png, id=5586, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway10Screenshot1.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway10Screenshot1.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway10Screenshot1.png  used on input line 947.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway10Screenshot2.png, id=5587, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway10Screenshot2.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway10Screenshot2.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway10Screenshot2.png  used on input line 953.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway10Screenshot3.png, id=5588, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway10Screenshot3.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway10Screenshot3.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway10Screenshot3.png  used on input line 960.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+<Games/WriteAway/Images/WriteAway10Screenshot4.png, id=5589, 963.6pt x 722.7pt>
+File: Games/WriteAway/Images/WriteAway10Screenshot4.png Graphic file (type png)
+<use Games/WriteAway/Images/WriteAway10Screenshot4.png>
+Package pdftex.def Info: Games/WriteAway/Images/WriteAway10Screenshot4.png  used on input line 966.
+(pdftex.def)             Requested size: 193.50076pt x 145.12189pt.
+) [621
+
+ <./Games/WriteAway/Images/WriteAway10Screenshot1.png> <./Games/WriteAway/Images/WriteAway10Screenshot2.png> <./Games/WriteAway/Images/WriteAway10Screenshot3.png> <./Games/WriteAway/Images/WriteAway10Screenshot4.png>] (main.aux (Games/Games.aux) (Games/16Tales/Pages/16TalesMain.aux) (Games/16Tales/Pages/16Tales1.aux) (Games/16Tales/Pages/16Tales2.aux) (Games/16Tales/Pages/16Tales3.aux) (Games/16Tales/Pages/16Tales4.aux) (Games/Calamity/Pages/CalamityMain.aux) (Games/Calamity/Pages/Calamity1TheNaturalWorld.aux) (Games/Calamity/Pages/Calamity2PeopleAndTraditions.aux) (Games/Calamity/Pages/Calamity3AroundTheWorld.aux) (Games/CalisGeoTools/Pages/CalisGeoTools.aux) (Games/CosmicCookoff/Pages/CosmicCookoffMain.aux) (Games/CosmicCookoff/Pages/CosmicCookoffLanguageArts.aux) (Games/CosmicCookoff/Pages/CosmicCookoffMathematics.aux) (Games/Creative/Pages/CreativeMain.aux) (Games/Creative/Pages/CreativeCamp.aux) (Games/Creative/Pages/CreativeIsle.aux) (Games/Creative/Pages/CreativeJourney.aux) (Games/Creative/Pages/CreativeVoyage.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceedMain.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed1.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed2.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed3.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed4.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed5.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed6.aux) (Games/EveryChildCanSucceed/Pages/EveryChildCanSucceed7.aux) (Games/FaireGames/Pages/FaireGamesMain.aux) (Games/FaireGames/Pages/FaireGamesLanguageArts.aux) (Games/FaireGames/Pages/FaireGamesMathematics.aux) (Games/FamilyConnection/Pages/FamilyConnectionAGuideToLightspan.aux) (Games/HeadtoToe/Pages/HeadToToeMain.aux) (Games/HeadtoToe/Pages/HeadToToe1.aux) (Games/HeadtoToe/Pages/HeadToToe2.aux) (Games/HeadtoToe/Pages/HeadToToe3.aux) (Games/HeadtoToe/Pages/HeadToToe4.aux) (Games/K9Dot5/Pages/K9Dot5Main.aux) (Games/K9Dot5/Pages/K9Dot51LivingInAireDale.aux) (Games/K9Dot5/Pages/K9Dot52WeAreTheDogs.aux) (Games/K9Dot5/Pages/K9Dot53Webtunes.aux) (Games/K9Dot5/Pages/K9Dot54TheTailWagTour.aux) (Games/K9Dot5/Pages/K9Dot55TheHollywoodPremiere.aux) (Games/KazMania/Pages/KazManiaMain.aux) (Games/KazMania/Pages/KazMania1TrailOfGems.aux) (Games/KazMania/Pages/KazMania2ChaosInKazMania.aux) (Games/LiquidBooks/Pages/LiquidBooksMain.aux) (Games/LiquidBooks/Pages/LiquidBooks1LetysFavouriteStories.aux) (Games/LiquidBooks/Pages/LiquidBooks2AmritasTreeCreditoAndTheCoyote.aux) (Games/LiquidBooks/Pages/LiquidBooks3FarFetchedFrontierTales.aux) (Games/LiquidBooks/Pages/LiquidBooks4TheAdventuresOfAdelitaAndBo.aux) (Games/LiquidBooks/Pages/LiquidBooks5PopOutProse.aux) (Games/LiquidBooks/Pages/LiquidBooks6TheWanderingPath.aux) (Games/MarsMoose/Pages/MarsMooseMain.aux) (Games/MarsMoose/Pages/MarsMooseCosmicQuest1CitySights.aux) (Games/MarsMoose/Pages/MarsMooseCosmicQuest2FairyTaleIsland.aux) (Games/MarsMoose/Pages/MarsMooseCosmicQuest3RaceThroughFrance.aux) (Games/MarsMoose/Pages/MarsMooseStay&Play1InTheClubhouse.aux) (Games/MarsMoose/Pages/MarsMooseStay&Play2InMarsBedroom.aux) (Games/MarsMoose/Pages/MarsMooseStay&Play3InLonniesClassroom.aux) (Games/MarsMoose/Pages/MarsMooseWalkabout1TheNaturalHistoryMuseum.aux) (Games/MarsMoose/Pages/MarsMooseWalkabout2TheShakespeareFestival.aux) (Games/MarsMoose/Pages/MarsMooseWalkabout3WorldSportsDay.aux) (Games/MathGalleryCollection/Pages/MathGalleryCollectionMain.aux) (Games/MathGalleryCollection/Pages/MathGalleryCollection1.aux) (Games/MathGalleryCollection/Pages/MathGalleryCollection2.aux) (Games/MathOnTheMove/Pages/MathOnTheMoveMain.aux) (Games/MathOnTheMove/Pages/MathOnTheMove1AdditionSubtractionIntermediate.aux) (Games/MathOnTheMove/Pages/MathOnTheMove1AdditionSubtractionAdvanced.aux) (Games/MathOnTheMove/Pages/MathOnTheMove2MultiplicationDivisionIntermediate.aux) (Games/MathOnTheMove/Pages/MathOnTheMove2MultiplicationDivisionAdvanced.aux) (Games/Mona&Moki/Pages/Mona&MokeMain.aux) (Games/Mona&Moki/Pages/Mona&Moke1DriveMeWild.aux) (Games/Mona&Moki/Pages/Mona&Moke2DriveMeWilder.aux) (Games/OnlineConnectionCD/Pages/OnlineConnectionCD.aux) (Games/PK/Pages/PKMain.aux) (Games/PK/Pages/PKsMathStudio.aux) (Games/PK/Pages/PKsPlace1PartyOnThePatio.aux) (Games/PK/Pages/PKsPlace2HoopoAtSea.aux) (Games/PK/Pages/PKsPlace3CarlosAtTheRaces.aux) (Games/PK/Pages/PKsPlace4DaphneAndTheSeventhWonder.aux) (Games/RoadWriter/Pages/RoadWriter.aux) (Games/ScienceIsElementary/Pages/ScienceIsElementaryMain.aux) (Games/ScienceIsElementary/Pages/ScienceIsElementary1.aux) (Games/ScienceIsElementary/Pages/ScienceIsElementary2.aux) (Games/ScienceIsElementary/Pages/ScienceIsElementary3.aux) (Games/StoryLaneTheater/Pages/StoryLaneTheaterMain.aux) (Games/StoryLaneTheater/Pages/StoryLaneTheater1.aux) (Games/StoryLaneTheater/Pages/StoryLaneTheater2.aux) (Games/StoryLaneTheater/Pages/StoryLaneTheater3.aux) (Games/StoryLaneTheater/Pages/StoryLaneTheater4.aux) (Games/StoryLaneTheater/Pages/StoryLaneTheater5.aux) (Games/strates/Pages/stratesMain.aux) (Games/strates/Pages/strates1Match-A-Batch.aux) (Games/strates/Pages/strates2Matchmania.aux) (Games/strates/Pages/strates3TitleThisTitleThat.aux) (Games/strates/Pages/strates4Titlerama.aux) (Games/strates/Pages/strates5ParallelLives.aux) (Games/strates/Pages/strates6Analogy-ology.aux) (Games/strates/Pages/strates7RiddleRoundup.aux) (Games/strates/Pages/strates8RiddleWrangler.aux) (Games/TheQuaddleFamilyMysteries/Pages/TheQuaddleFamilyMysteriesMain.aux) (Games/TheQuaddleFamilyMysteries/Pages/TheQuaddleFamilyMysteries1TheCaseOfTheScarceScarabLobbyAndKitchen.aux) (Games/TheQuaddleFamilyMysteries/Pages/TheQuaddleFamilyMysteries2TheCaseOfTheScarceScarabGarden.aux) (Games/TheQuaddleFamilyMysteries/Pages/TheQuaddleFamilyMysteries3TheCaseOfTheScarceScarabParlorAndFamilyRoom.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogolMain.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol1aReshapingGoogolTheSubmarine.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol1bReshapingGoogolTheTower.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol2aReshapingGoogolTheCastle.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol2bReshapingGoogolUnderTheOcean.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol3TheGoogolCountingFairMidways.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol4TheGoogolCountingFairCorralAndFunHouse.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol5GoogolfestPartyIsleAndToyIsle.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol6GoogolfestArcadeIsleAndMoonFeastIsle.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol7EggsAllAroundEggTrekAndBalloonPicnic.aux) (Games/TheSecretofGoogol/Pages/TheSecretOfGoogol8GoogolGulchGeneralStoreAndMathArcade.aux) (Games/TheThreeDecoders/Pages/TheThreeDecodersMain.aux) (Games/TheThreeDecoders/Pages/TheThreeDecoders1RiddleOfTheRing.aux) (Games/TheThreeDecoders/Pages/TheThreeDecoders2KeyToTheCarousel.aux) (Games/TimelessJadeTrade/Pages/TimelessJadeTrade.aux) (Games/TimelessMath/Pages/TimelessMathMain.aux) (Games/TimelessMath/Pages/TimelessMath1MayaSearchAndRescue.aux) (Games/TimelessMath/Pages/TimelessMath2MayaObservatory.aux) (Games/TimelessMath/Pages/TimelessMath3MayaKingJaguarsVillage.aux) (Games/TimelessMath/Pages/TimelessMath4LunarRace.aux) (Games/TimelessMath/Pages/TimelessMath5SpaceFlightRescue.aux) (Games/TimelessMath/Pages/TimelessMath6Brainswarm.aux) (Games/TimelessMath/Pages/TimelessMath7RoverRecovery.aux) (Games/UnknownVariable/Pages/UnknownVariableMain.aux) (Games/UnknownVariable/Pages/UnknownVariable1MasqueManor.aux) (Games/UnknownVariable/Pages/UnknownVariable2RavensRidge.aux) (Games/WriteAway/Pages/WriteAwayMain.aux) (Games/WriteAway/Pages/WriteAway1.aux) (Games/WriteAway/Pages/WriteAway2.aux) (Games/WriteAway/Pages/WriteAway3.aux) (Games/WriteAway/Pages/WriteAway4.aux) (Games/WriteAway/Pages/WriteAway5.aux) (Games/WriteAway/Pages/WriteAway6.aux) (Games/WriteAway/Pages/WriteAway7.aux) (Games/WriteAway/Pages/WriteAway8.aux) (Games/WriteAway/Pages/WriteAway9.aux) (Games/WriteAway/Pages/WriteAway10.aux))
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: E463318991A02CD69D737091276132D4;99415.
+ ) 
+Here is how much of TeX's memory you used:
+ 21588 strings out of 475248
+ 557455 string characters out of 5757812
+ 1938785 words of memory out of 5000000
+ 40588 multiletter control sequences out of 15000+600000
+ 565466 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 77i,12n,84p,4276b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\conor\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/conor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (622 pages, 215175482 bytes).
+PDF statistics:
+ 5911 PDF objects out of 6186 (max. 8388607)
+ 1266 named destinations out of 1440 (max. 500000)
+ 4822 words of extra memory for PDF output out of 10000 (max. 10000000)
+

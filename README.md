@@ -62,7 +62,7 @@ Key:
 | Faire Games: Language Arts                                                     | 🟨        |                         |
 | Faire Games: Mathematics                                                       | 🟨        |                         |
 | Family Connection: A Guide to Lightspan                                        | ✅        |                         |
-| Head to Toe 1                                                                  | 🟨        | Complete transcriptions |
+| Head to Toe 1                                                                  | 🟨        | Add images              |
 | Head to Toe 2                                                                  | 🟨        | Complete transcriptions |
 | Head to Toe 3                                                                  | 🟨        | Complete transcriptions |
 | Head to Toe 4                                                                  | 🟨        | Complete transcriptions |
@@ -159,4 +159,4 @@ Current work:
 
 - Add images to Science is Elementary
 - Add images to Story Lane Theatre
-- Complete the transcript edits for Head to Toe. Currently up to Head to Toe 1.
+- Complete the transcript edits for Head to Toe. Currently up to Head to Toe 4.

@@ -157,6 +157,6 @@ Key:
 
 Current work:
 
-- Add images to Science is Elementary
-- Add images to Story Lane Theatre
-- Complete the transcript edits for Head to Toe. Currently up to Head to Toe 4.
+- Add images and descriptions to Science is Elementary
+- Add images and descriptions to Story Lane Theatre
+- Add images and descriptions for Head to Toe

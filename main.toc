@@ -1,586 +1,647 @@
-\contentsline {chapter}{\numberline {1}Games}{16}{chapter.1}%
-\contentsline {chapter}{\numberline {2}16 Tales - Overview}{17}{chapter.2}%
-\contentsline {chapter}{\numberline {3}16 Tales - Volume 1}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}The Angry Moon}{20}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Audio Summary}{20}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Transcriptions}{20}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Credits}{22}{subsection.3.1.3}%
-\contentsline {section}{\numberline {3.2}Coyote and Cottontail \& Coyote and the Beaver People}{22}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Audio Summary}{22}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Transcriptions}{22}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Credits}{25}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}The Dancing Stars \& The Friendly Wolf}{25}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Audio Summary}{25}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Transcriptions}{26}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Credits}{28}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}The Fire Bringer \& How Saynday Borought the Buffalo to the Indians}{28}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Audio Summary}{28}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Transcriptions}{29}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Credits}{31}{subsection.3.4.3}%
-\contentsline {chapter}{\numberline {4}16 Tales - Volume 2}{32}{chapter.4}%
-\contentsline {section}{\numberline {4.1}The Blind Man's Daughter}{33}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Audio Summary}{33}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Transcriptions}{33}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Credits}{35}{subsection.4.1.3}%
-\contentsline {section}{\numberline {4.2}Jose and the Crocodile}{35}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Audio Summary}{35}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Transcriptions}{35}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Credits}{38}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Ma Liang and the Magic Brush}{38}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Audio Summary}{38}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Transcriptions}{38}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Credits}{41}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}The Tale of Urashima Taro}{41}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Audio Summary}{41}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Transcriptions}{41}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Credits}{44}{subsection.4.4.3}%
-\contentsline {chapter}{\numberline {5}16 Tales - Volume 3}{45}{chapter.5}%
-\contentsline {section}{\numberline {5.1}The Flea}{46}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Audio Summary}{46}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Transcriptions}{46}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.1.3}Credits}{49}{subsection.5.1.3}%
-\contentsline {section}{\numberline {5.2}The Lazy Fox \& Señor Coyote and Señor Fox}{49}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Audio Summary}{49}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Transcriptions}{50}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Credits}{53}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5.3}Tepozton, the Magic Boy from the Mountains}{53}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Audio Summary}{53}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Transcriptions}{53}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}Credits}{56}{subsection.5.3.3}%
-\contentsline {section}{\numberline {5.4}The Tiger and the Rabbit}{57}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Audio Summary}{57}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Transcriptions}{57}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Credits}{60}{subsection.5.4.3}%
-\contentsline {chapter}{\numberline {6}16 Tales - Volume 4}{61}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Anance and the Golden Box}{62}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Audio Summary}{62}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Transcriptions}{62}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Credits}{64}{subsection.6.1.3}%
-\contentsline {section}{\numberline {6.2}Brer Rabbit and the Tar Baby}{65}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Audio Summary}{65}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Transcriptions}{65}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Credits}{68}{subsection.6.2.3}%
-\contentsline {section}{\numberline {6.3}How Anance Got a Thin Waist \& Ananse's Visitor Turtle}{68}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Audio Summary}{68}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Transcriptions}{68}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Credits}{71}{subsection.6.3.3}%
-\contentsline {section}{\numberline {6.4}Wakaima and the Clay Man}{71}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Audio Summary}{71}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Transcriptions}{71}{subsection.6.4.2}%
-\contentsline {subsection}{\numberline {6.4.3}Credits}{74}{subsection.6.4.3}%
-\contentsline {chapter}{\numberline {7}Calamity - Overview}{75}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Calamity 1: The Natural World}{76}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Calamity 2: People and Traditions}{77}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Calamity 3: Around The World}{78}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Cali's Geo Tools}{79}{chapter.11}%
-\contentsline {chapter}{\numberline {12}Cosmic Cookoff - Overview}{80}{chapter.12}%
-\contentsline {chapter}{\numberline {13}Cosmic Cookoff: Language Arts}{81}{chapter.13}%
-\contentsline {chapter}{\numberline {14}Cosmic Cookoff: Mathematics}{82}{chapter.14}%
-\contentsline {chapter}{\numberline {15}Creative - Overview}{83}{chapter.15}%
-\contentsline {chapter}{\numberline {16}Creative Camp}{85}{chapter.16}%
-\contentsline {section}{\numberline {16.1}Overview}{85}{section.16.1}%
-\contentsline {section}{\numberline {16.2}Credits}{86}{section.16.2}%
-\contentsline {chapter}{\numberline {17}Creative Isle}{89}{chapter.17}%
-\contentsline {section}{\numberline {17.1}Overview}{89}{section.17.1}%
-\contentsline {section}{\numberline {17.2}Credits}{90}{section.17.2}%
-\contentsline {chapter}{\numberline {18}Creative Journey}{93}{chapter.18}%
-\contentsline {section}{\numberline {18.1}Overview}{93}{section.18.1}%
-\contentsline {section}{\numberline {18.2}Credits}{94}{section.18.2}%
-\contentsline {section}{\numberline {18.3}Creative Voyage}{97}{section.18.3}%
-\contentsline {section}{\numberline {18.4}Overview}{97}{section.18.4}%
-\contentsline {section}{\numberline {18.5}Credits}{98}{section.18.5}%
-\contentsline {chapter}{\numberline {19}Every Child Can Succeed - Overview}{100}{chapter.19}%
-\contentsline {section}{\numberline {19.1}Screenshots}{102}{section.19.1}%
-\contentsline {chapter}{\numberline {20}Every Child Can Succeed 1}{103}{chapter.20}%
-\contentsline {section}{\numberline {20.1}Promises to Keep: Achieving Success in Our Schools}{104}{section.20.1}%
-\contentsline {subsection}{\numberline {20.1.1}Audio Summary}{104}{subsection.20.1.1}%
-\contentsline {subsection}{\numberline {20.1.2}Transcription}{104}{subsection.20.1.2}%
-\contentsline {section}{\numberline {20.2}Using Every Child Can Succeed}{109}{section.20.2}%
-\contentsline {subsection}{\numberline {20.2.1}Audio Summary}{109}{subsection.20.2.1}%
-\contentsline {subsection}{\numberline {20.2.2}Transcription}{109}{subsection.20.2.2}%
-\contentsline {chapter}{\numberline {21}Every Child Can Succeed 2}{112}{chapter.21}%
-\contentsline {section}{\numberline {21.1}Staff Development}{113}{section.21.1}%
-\contentsline {subsection}{\numberline {21.1.1}Audio Summary}{113}{subsection.21.1.1}%
-\contentsline {subsection}{\numberline {21.1.2}Transcription}{113}{subsection.21.1.2}%
-\contentsline {section}{\numberline {21.2}Instructional Leadership}{115}{section.21.2}%
-\contentsline {subsection}{\numberline {21.2.1}Audio Summary}{115}{subsection.21.2.1}%
-\contentsline {subsection}{\numberline {21.2.2}Transcription}{115}{subsection.21.2.2}%
-\contentsline {section}{\numberline {21.3}School Leadership}{119}{section.21.3}%
-\contentsline {subsection}{\numberline {21.3.1}Audio Summary}{119}{subsection.21.3.1}%
-\contentsline {subsection}{\numberline {21.3.2}Transcription}{119}{subsection.21.3.2}%
-\contentsline {chapter}{\numberline {22}Every Child Can Succeed 3}{123}{chapter.22}%
-\contentsline {section}{\numberline {22.1}High Expectations}{124}{section.22.1}%
-\contentsline {subsection}{\numberline {22.1.1}Audio Summary}{124}{subsection.22.1.1}%
-\contentsline {subsection}{\numberline {22.1.2}Transcription}{124}{subsection.22.1.2}%
-\contentsline {section}{\numberline {22.2}Parent Involvement}{127}{section.22.2}%
-\contentsline {subsection}{\numberline {22.2.1}Audio Summary}{127}{subsection.22.2.1}%
-\contentsline {subsection}{\numberline {22.2.2}Transcription}{127}{subsection.22.2.2}%
-\contentsline {section}{\numberline {22.3}Productive Climate and Culture}{131}{section.22.3}%
-\contentsline {subsection}{\numberline {22.3.1}Audio Summary}{131}{subsection.22.3.1}%
-\contentsline {subsection}{\numberline {22.3.2}Transcription}{131}{subsection.22.3.2}%
-\contentsline {chapter}{\numberline {23}Every Child Can Succeed 4}{135}{chapter.23}%
-\contentsline {section}{\numberline {23.1}Monitoring Student Progress}{136}{section.23.1}%
-\contentsline {subsection}{\numberline {23.1.1}Audio Summary}{136}{subsection.23.1.1}%
-\contentsline {subsection}{\numberline {23.1.2}Transcription}{136}{subsection.23.1.2}%
-\contentsline {section}{\numberline {23.2}Effective Instructional Stategies}{139}{section.23.2}%
-\contentsline {subsection}{\numberline {23.2.1}Audio Summary}{139}{subsection.23.2.1}%
-\contentsline {subsection}{\numberline {23.2.2}Transcription}{139}{subsection.23.2.2}%
-\contentsline {section}{\numberline {23.3}Learning Essential Skills}{143}{section.23.3}%
-\contentsline {subsection}{\numberline {23.3.1}Audio Summary}{143}{subsection.23.3.1}%
-\contentsline {subsection}{\numberline {23.3.2}Transcription}{143}{subsection.23.3.2}%
-\contentsline {chapter}{\numberline {24}Every Child Can Succeed 5}{148}{chapter.24}%
-\contentsline {section}{\numberline {24.1}The Vannn School: A History of Success in Pittsburgh}{149}{section.24.1}%
-\contentsline {subsection}{\numberline {24.1.1}Audio Summary}{149}{subsection.24.1.1}%
-\contentsline {subsection}{\numberline {24.1.2}Transcription}{149}{subsection.24.1.2}%
-\contentsline {section}{\numberline {24.2}New Suncook School: Achievement in the Woods of Maine}{153}{section.24.2}%
-\contentsline {subsection}{\numberline {24.2.1}Audio Summary}{153}{subsection.24.2.1}%
-\contentsline {subsection}{\numberline {24.2.2}Transcription}{153}{subsection.24.2.2}%
-\contentsline {chapter}{\numberline {25}Every Child Can Succeed 6}{159}{chapter.25}%
-\contentsline {section}{\numberline {25.1}Northwest Passages: Alki and Beacon Hill in Seattle}{160}{section.25.1}%
-\contentsline {subsection}{\numberline {25.1.1}Audio Summary}{160}{subsection.25.1.1}%
-\contentsline {subsection}{\numberline {25.1.2}Transcription}{160}{subsection.25.1.2}%
-\contentsline {section}{\numberline {25.2}Charles Rice Learning Center: An Oasis in Dallas}{165}{section.25.2}%
-\contentsline {subsection}{\numberline {25.2.1}Audio Summary}{165}{subsection.25.2.1}%
-\contentsline {subsection}{\numberline {25.2.2}Transcription}{166}{subsection.25.2.2}%
-\contentsline {chapter}{\numberline {26}Every Child Can Succeed 7}{172}{chapter.26}%
-\contentsline {section}{\numberline {26.1}L. A. Stories: Bennet-Kew and Euclid Avenue}{173}{section.26.1}%
-\contentsline {subsection}{\numberline {26.1.1}Audio Summary}{173}{subsection.26.1.1}%
-\contentsline {subsection}{\numberline {26.1.2}Transcription}{173}{subsection.26.1.2}%
-\contentsline {section}{\numberline {26.2}Thorncliffe Community School: Student-Centered Learning in Edmonton}{177}{section.26.2}%
-\contentsline {subsection}{\numberline {26.2.1}Audio Summary}{177}{subsection.26.2.1}%
-\contentsline {subsection}{\numberline {26.2.2}Transcription}{177}{subsection.26.2.2}%
-\contentsline {chapter}{\numberline {27}Faire Games - Overview}{183}{chapter.27}%
-\contentsline {chapter}{\numberline {28}Faire Games: Language Arts}{184}{chapter.28}%
-\contentsline {chapter}{\numberline {29}Faire Games: Mathematics}{185}{chapter.29}%
-\contentsline {chapter}{\numberline {30}Family Connection: A Guide to Lightspan}{186}{chapter.30}%
-\contentsline {section}{\numberline {30.1}List of screenshots:}{188}{section.30.1}%
-\contentsline {section}{\numberline {30.2}Main Menu audio transcription}{190}{section.30.2}%
-\contentsline {section}{\numberline {30.3}Introducing The Lightspan Partnership audio transcription}{190}{section.30.3}%
-\contentsline {section}{\numberline {30.4}Powerful Learning Programs audio transcription}{191}{section.30.4}%
-\contentsline {section}{\numberline {30.5}Lightspan Adventures: Grades K-2 audio transcription}{192}{section.30.5}%
-\contentsline {section}{\numberline {30.6}Additional Videos}{192}{section.30.6}%
-\contentsline {subsection}{\numberline {30.6.1}Reading/Language Art: Mars Moose}{192}{subsection.30.6.1}%
-\contentsline {subsubsection}{Stay \& Play}{192}{section*.35}%
-\contentsline {subsubsection}{Cosmic Quest}{193}{section*.36}%
-\contentsline {subsubsection}{Walkabout}{193}{section*.37}%
-\contentsline {subsubsection}{Liquid Books}{194}{section*.38}%
-\contentsline {subsubsection}{On Screen Activities - General}{195}{section*.39}%
-\contentsline {subsubsection}{On Screen Activities - Stay \& Play}{195}{section*.40}%
-\contentsline {subsubsection}{On Screen Activities - Cosmic Quest}{195}{section*.41}%
-\contentsline {subsubsection}{On Screen Activities - Walkabout}{195}{section*.42}%
-\contentsline {subsubsection}{On Screen Activities - Liquid Books}{195}{section*.43}%
-\contentsline {subsubsection}{Off Screen Activities - General}{196}{section*.44}%
-\contentsline {subsubsection}{Off Screen Activities - Reading}{196}{section*.45}%
-\contentsline {subsubsection}{Off Screen Activities - Learning directional words}{196}{section*.46}%
-\contentsline {subsubsection}{Off Screen Activities - The Wonders of Nature}{197}{section*.47}%
-\contentsline {subsubsection}{Off Screen Activities - Everyday Activities}{197}{section*.48}%
-\contentsline {subsubsection}{Off Screen Activities - Assisting your child with writing and spelling new words}{197}{section*.49}%
-\contentsline {subsection}{\numberline {30.6.2}Mathematics: The Secret of Googol}{197}{subsection.30.6.2}%
-\contentsline {subsubsection}{Tower}{197}{section*.50}%
-\contentsline {subsubsection}{Castle}{198}{section*.51}%
-\contentsline {subsubsection}{Ocean}{198}{section*.52}%
-\contentsline {subsubsection}{Sub}{199}{section*.53}%
-\contentsline {subsubsection}{On Screen Activities - Match shapes to written descriptions}{199}{section*.54}%
-\contentsline {subsubsection}{On Screen Activities - Reflected Images}{199}{section*.55}%
-\contentsline {subsubsection}{On Screen Activities - Recognise the pattern of shapes}{200}{section*.56}%
-\contentsline {subsubsection}{On Screen Activities - Explore Underwater Caves}{200}{section*.57}%
-\contentsline {subsubsection}{On Screen Activities - Repeating}{200}{section*.58}%
-\contentsline {subsubsection}{Off Screen Activities - Symmetry birthday card}{201}{section*.59}%
-\contentsline {subsubsection}{Off Screen Activities - Learning through everyday activities}{201}{section*.60}%
-\contentsline {subsubsection}{Off Screen Activities - Identify geometric shapes of road signs}{201}{section*.61}%
-\contentsline {subsubsection}{Off Screen Activities - Art and Geometry}{201}{section*.62}%
-\contentsline {subsubsection}{Off Screen Activities - Preparing a picnic}{201}{section*.63}%
-\contentsline {section}{\numberline {30.7}Lightspan Adventures: Grades 3 \& 4 audio transcription}{202}{section.30.7}%
-\contentsline {subsection}{\numberline {30.7.1}Reading/Language Arts: Mona \& Moki}{202}{subsection.30.7.1}%
-\contentsline {subsubsection}{On Screen Activities - Scrambled Letters}{202}{section*.64}%
-\contentsline {subsubsection}{On Screen Activities - Visualising Words}{202}{section*.65}%
-\contentsline {subsubsection}{On Screen Activities - The Meaning of Prefixes}{202}{section*.66}%
-\contentsline {subsubsection}{On Screen Activities - Using the Process of Elimination}{203}{section*.67}%
-\contentsline {subsubsection}{Off Screen Activities - Synonyms and Antonyms}{204}{section*.68}%
-\contentsline {subsubsection}{Off Screen Activities - Create a Story for your Child}{204}{section*.69}%
-\contentsline {subsubsection}{Off Screen Activities - Word Scramble Fun with Signs}{204}{section*.70}%
-\contentsline {subsubsection}{Off Screen Activities - Create Riddles}{204}{section*.71}%
-\contentsline {subsubsection}{Off Screen Activities - Magazine and Newspaper Cutting}{204}{section*.72}%
-\contentsline {subsubsection}{Off Screen Activities - }{204}{section*.73}%
-\contentsline {subsection}{\numberline {30.7.2}Mathematics: Quaddle Family Mysteries}{205}{subsection.30.7.2}%
-\contentsline {section}{\numberline {30.8}Lightspan Adventures: Grades 5 \& 6 audio transcription}{205}{section.30.8}%
-\contentsline {subsection}{\numberline {30.8.1}Mathematics: Timeless Math}{206}{subsection.30.8.1}%
-\contentsline {subsection}{\numberline {30.8.2}Reading/Language Arts: str.at.e.s}{207}{subsection.30.8.2}%
-\contentsline {chapter}{\numberline {31}Head To Toe Overview}{208}{chapter.31}%
-\contentsline {chapter}{\numberline {32}Head To Toe 1}{209}{chapter.32}%
-\contentsline {section}{\numberline {32.1}In the Beginning}{210}{section.32.1}%
-\contentsline {subsection}{\numberline {32.1.1}Audio Summary}{210}{subsection.32.1.1}%
-\contentsline {subsection}{\numberline {32.1.2}Transcription}{210}{subsection.32.1.2}%
-\contentsline {subsection}{\numberline {32.1.3}Credits}{216}{subsection.32.1.3}%
-\contentsline {section}{\numberline {32.2}Cells\dots Your Starting Place}{216}{section.32.2}%
-\contentsline {subsection}{\numberline {32.2.1}Audio Summary}{216}{subsection.32.2.1}%
-\contentsline {subsection}{\numberline {32.2.2}Transcription}{216}{subsection.32.2.2}%
-\contentsline {subsection}{\numberline {32.2.3}Credits}{220}{subsection.32.2.3}%
-\contentsline {section}{\numberline {32.3}In a Heartbeat}{220}{section.32.3}%
-\contentsline {subsection}{\numberline {32.3.1}Audio Summary}{220}{subsection.32.3.1}%
-\contentsline {subsection}{\numberline {32.3.2}Transcription}{220}{subsection.32.3.2}%
-\contentsline {subsection}{\numberline {32.3.3}Credits}{225}{subsection.32.3.3}%
-\contentsline {section}{\numberline {32.4}Muscles\dots Holding You Together}{225}{section.32.4}%
-\contentsline {subsection}{\numberline {32.4.1}Audio Summary}{225}{subsection.32.4.1}%
-\contentsline {subsection}{\numberline {32.4.2}Transcription}{225}{subsection.32.4.2}%
-\contentsline {subsection}{\numberline {32.4.3}Credits}{231}{subsection.32.4.3}%
-\contentsline {chapter}{\numberline {33}Head To Toe 2}{232}{chapter.33}%
-\contentsline {section}{\numberline {33.1}Standing Tall}{233}{section.33.1}%
-\contentsline {subsection}{\numberline {33.1.1}Audio Summary}{233}{subsection.33.1.1}%
-\contentsline {subsection}{\numberline {33.1.2}Transcription}{233}{subsection.33.1.2}%
-\contentsline {subsection}{\numberline {33.1.3}Credits}{238}{subsection.33.1.3}%
-\contentsline {section}{\numberline {33.2}Fresh Air}{238}{section.33.2}%
-\contentsline {subsection}{\numberline {33.2.1}Audio Summary}{238}{subsection.33.2.1}%
-\contentsline {subsection}{\numberline {33.2.2}Transcription}{238}{subsection.33.2.2}%
-\contentsline {subsection}{\numberline {33.2.3}Credits}{243}{subsection.33.2.3}%
-\contentsline {section}{\numberline {33.3}Fueling Up}{243}{section.33.3}%
-\contentsline {subsection}{\numberline {33.3.1}Audio Summary}{243}{subsection.33.3.1}%
-\contentsline {subsection}{\numberline {33.3.2}Transcription}{243}{subsection.33.3.2}%
-\contentsline {subsection}{\numberline {33.3.3}Credits}{248}{subsection.33.3.3}%
-\contentsline {section}{\numberline {33.4}From Fuel to Waste}{249}{section.33.4}%
-\contentsline {subsection}{\numberline {33.4.1}Audio Summary}{249}{subsection.33.4.1}%
-\contentsline {subsection}{\numberline {33.4.2}Transcription}{249}{subsection.33.4.2}%
-\contentsline {subsection}{\numberline {33.4.3}Credits}{255}{subsection.33.4.3}%
-\contentsline {chapter}{\numberline {34}Head To Toe 3}{256}{chapter.34}%
-\contentsline {section}{\numberline {34.1}Control Center}{257}{section.34.1}%
-\contentsline {subsection}{\numberline {34.1.1}Audio Summary}{257}{subsection.34.1.1}%
-\contentsline {subsection}{\numberline {34.1.2}Transcription}{257}{subsection.34.1.2}%
-\contentsline {subsection}{\numberline {34.1.3}Credits}{262}{subsection.34.1.3}%
-\contentsline {section}{\numberline {34.2}Fighting Germs and Diseases}{262}{section.34.2}%
-\contentsline {subsection}{\numberline {34.2.1}Audio Summary}{262}{subsection.34.2.1}%
-\contentsline {subsection}{\numberline {34.2.2}Transcription}{262}{subsection.34.2.2}%
-\contentsline {subsection}{\numberline {34.2.3}Credits}{266}{subsection.34.2.3}%
-\contentsline {section}{\numberline {34.3}Sounds}{267}{section.34.3}%
-\contentsline {subsection}{\numberline {34.3.1}Audio Summary}{267}{subsection.34.3.1}%
-\contentsline {subsection}{\numberline {34.3.2}Transcription}{267}{subsection.34.3.2}%
-\contentsline {subsection}{\numberline {34.3.3}Credits}{272}{subsection.34.3.3}%
-\contentsline {section}{\numberline {34.4}Sights}{272}{section.34.4}%
-\contentsline {subsection}{\numberline {34.4.1}Audio Summary}{272}{subsection.34.4.1}%
-\contentsline {subsection}{\numberline {34.4.2}Transcription}{272}{subsection.34.4.2}%
-\contentsline {subsection}{\numberline {34.4.3}Credits}{278}{subsection.34.4.3}%
-\contentsline {chapter}{\numberline {35}Head To Toe 4}{279}{chapter.35}%
-\contentsline {section}{\numberline {35.1}A Healthy Smile}{280}{section.35.1}%
-\contentsline {subsection}{\numberline {35.1.1}Audio Summary}{280}{subsection.35.1.1}%
-\contentsline {subsection}{\numberline {35.1.2}Transcription}{280}{subsection.35.1.2}%
-\contentsline {subsection}{\numberline {35.1.3}Credits}{284}{subsection.35.1.3}%
-\contentsline {section}{\numberline {35.2}Staying Healthy}{284}{section.35.2}%
-\contentsline {subsection}{\numberline {35.2.1}Audio Summary}{284}{subsection.35.2.1}%
-\contentsline {subsection}{\numberline {35.2.2}Transcription}{285}{subsection.35.2.2}%
-\contentsline {subsection}{\numberline {35.2.3}Credits}{290}{subsection.35.2.3}%
-\contentsline {section}{\numberline {35.3}Safety First}{290}{section.35.3}%
-\contentsline {subsection}{\numberline {35.3.1}Audio Summary}{290}{subsection.35.3.1}%
-\contentsline {subsection}{\numberline {35.3.2}Transcription}{290}{subsection.35.3.2}%
-\contentsline {subsection}{\numberline {35.3.3}Credits}{295}{subsection.35.3.3}%
-\contentsline {chapter}{\numberline {36}K9.5 - Overview}{296}{chapter.36}%
-\contentsline {chapter}{\numberline {37}K9.5 1: Living in Airedale}{297}{chapter.37}%
-\contentsline {chapter}{\numberline {38}K9.5 2: We are the Dogs!}{298}{chapter.38}%
-\contentsline {chapter}{\numberline {39}K9.5 3: Webtunes}{299}{chapter.39}%
-\contentsline {chapter}{\numberline {40}K9.5 4: The Tail-Wag Tour}{300}{chapter.40}%
-\contentsline {chapter}{\numberline {41}K9.5 5: The Hollywood Premiere}{301}{chapter.41}%
-\contentsline {chapter}{\numberline {42}KazMania - Overview}{302}{chapter.42}%
-\contentsline {chapter}{\numberline {43}KazMania 1: Train of Gems}{303}{chapter.43}%
-\contentsline {chapter}{\numberline {44}KazMania 2: Chaos in KazMania}{304}{chapter.44}%
-\contentsline {chapter}{\numberline {45}Liquid Books - Overview}{305}{chapter.45}%
-\contentsline {chapter}{\numberline {46}Liquid Books 1 - Letty's Favourite Stories}{306}{chapter.46}%
-\contentsline {chapter}{\numberline {47}Liquid Books 2 - Amrita's Tree Credito and The Coyote}{307}{chapter.47}%
-\contentsline {chapter}{\numberline {48}Liquid Books 3 - Far-Fetched Frontier Tales}{308}{chapter.48}%
-\contentsline {chapter}{\numberline {49}Liquid Books 4 - The Adventures of Adelita and Bo}{309}{chapter.49}%
-\contentsline {chapter}{\numberline {50}Liquid Books 5 - Pop-Out Prose}{310}{chapter.50}%
-\contentsline {chapter}{\numberline {51}Liquid Books 6 - The Wandering Path}{311}{chapter.51}%
-\contentsline {chapter}{\numberline {52}Mars Moose - Overview}{312}{chapter.52}%
-\contentsline {chapter}{\numberline {53}Mars Moose Cosmic Quest 1: City Sights}{313}{chapter.53}%
-\contentsline {chapter}{\numberline {54}Mars Moose Cosmic Quest 2: Fairy Tale Island}{314}{chapter.54}%
-\contentsline {chapter}{\numberline {55}Mars Moose Cosmic Quest 3: Race Through France}{315}{chapter.55}%
-\contentsline {chapter}{\numberline {56}Mars Moose Stay \& Play 1: In the Clubhouse}{316}{chapter.56}%
-\contentsline {chapter}{\numberline {57}Mars Moose Stay \& Play 2: In Mars' Bedroom}{317}{chapter.57}%
-\contentsline {chapter}{\numberline {58}Mars Moose Stay \& Play 3: In Lonnie's Classroom}{318}{chapter.58}%
-\contentsline {chapter}{\numberline {59}Mars Moose Walkabout 1: The Natural History Museum}{319}{chapter.59}%
-\contentsline {chapter}{\numberline {60}Mars Moose Walkabout 2: The Shakespeare Festival}{320}{chapter.60}%
-\contentsline {chapter}{\numberline {61}Mars Moose Walkabout 3: World Sports Day}{321}{chapter.61}%
-\contentsline {chapter}{\numberline {62}Math Gallery Collection - Overview}{322}{chapter.62}%
-\contentsline {chapter}{\numberline {63}Math Gallery Collection 1}{323}{chapter.63}%
-\contentsline {chapter}{\numberline {64}Math Gallery Collection 2}{324}{chapter.64}%
-\contentsline {chapter}{\numberline {65}Math On The Move!: Overview}{325}{chapter.65}%
-\contentsline {chapter}{\numberline {66}Math On The Move! 1: Addition/Subtraction Intermediate}{326}{chapter.66}%
-\contentsline {chapter}{\numberline {67}Math On The Move! 1: Addition/Subtraction Advanced}{327}{chapter.67}%
-\contentsline {chapter}{\numberline {68}Math On The Move! 2: Multiplication/Division Advanced}{328}{chapter.68}%
-\contentsline {chapter}{\numberline {69}Math On The Move! 2: Multiplication/Division Intermediate}{329}{chapter.69}%
-\contentsline {chapter}{\numberline {70}Mona \& Moki - Overview}{330}{chapter.70}%
-\contentsline {chapter}{\numberline {71}Mona \& Moki 1 - Drive Me Wild}{331}{chapter.71}%
-\contentsline {chapter}{\numberline {72}Mona \& Moki 2 - Drive Me Wilder}{332}{chapter.72}%
-\contentsline {chapter}{\numberline {73}Online Connection CD}{333}{chapter.73}%
-\contentsline {section}{\numberline {73.1}Overview}{333}{section.73.1}%
-\contentsline {chapter}{\numberline {74}P.K. - Overview}{336}{chapter.74}%
-\contentsline {chapter}{\numberline {75}P.K.'s Math Studio}{337}{chapter.75}%
-\contentsline {chapter}{\numberline {76}P.K.'s Place 1 - Party on the Patio!}{338}{chapter.76}%
-\contentsline {chapter}{\numberline {77}P.K.'s Place 2 - Hoopo at Sea!}{339}{chapter.77}%
-\contentsline {chapter}{\numberline {78}P.K.'s Place 3 - Carlos at The Races!}{340}{chapter.78}%
-\contentsline {chapter}{\numberline {79}P.K.'s Place 4 - Daphne and the Seventh Wonder!}{341}{chapter.79}%
-\contentsline {chapter}{\numberline {80}Road Writer}{342}{chapter.80}%
-\contentsline {section}{\numberline {80.1}Transcriptions}{343}{section.80.1}%
-\contentsline {subsection}{\numberline {80.1.1}Home Screen - Chaucer}{343}{subsection.80.1.1}%
-\contentsline {subsection}{\numberline {80.1.2}Home Screen - Ralph}{343}{subsection.80.1.2}%
-\contentsline {subsection}{\numberline {80.1.3}Home Screen - Gwyn}{343}{subsection.80.1.3}%
-\contentsline {subsection}{\numberline {80.1.4}Home Screen - Miguel}{344}{subsection.80.1.4}%
-\contentsline {subsection}{\numberline {80.1.5}Road Writer Song}{344}{subsection.80.1.5}%
-\contentsline {subsection}{\numberline {80.1.6}Writing Assignment - Introduction}{344}{subsection.80.1.6}%
-\contentsline {subsection}{\numberline {80.1.7}Writing Assignment - Conclusion}{344}{subsection.80.1.7}%
-\contentsline {section}{\numberline {80.2}Credits}{345}{section.80.2}%
-\contentsline {chapter}{\numberline {81}Science Is Elementary - Overview}{346}{chapter.81}%
-\contentsline {chapter}{\numberline {82}Science Is Elementary 1}{347}{chapter.82}%
-\contentsline {section}{\numberline {82.1}Let's Explore Plants}{348}{section.82.1}%
-\contentsline {subsection}{\numberline {82.1.1}Audio Summary}{348}{subsection.82.1.1}%
-\contentsline {subsection}{\numberline {82.1.2}Transcription}{348}{subsection.82.1.2}%
-\contentsline {subsection}{\numberline {82.1.3}Credits}{351}{subsection.82.1.3}%
-\contentsline {section}{\numberline {82.2}Let's Explore Animals}{351}{section.82.2}%
-\contentsline {subsection}{\numberline {82.2.1}Audio Summary}{351}{subsection.82.2.1}%
-\contentsline {subsection}{\numberline {82.2.2}Transcription}{351}{subsection.82.2.2}%
-\contentsline {subsection}{\numberline {82.2.3}Credits}{354}{subsection.82.2.3}%
-\contentsline {section}{\numberline {82.3}Let's Explore Sound}{354}{section.82.3}%
-\contentsline {subsection}{\numberline {82.3.1}Audio Summary}{354}{subsection.82.3.1}%
-\contentsline {subsection}{\numberline {82.3.2}Transcription}{354}{subsection.82.3.2}%
-\contentsline {subsection}{\numberline {82.3.3}Credits}{358}{subsection.82.3.3}%
-\contentsline {section}{\numberline {82.4}Let's Explore Light and Shadows}{358}{section.82.4}%
-\contentsline {subsection}{\numberline {82.4.1}Audio Summary}{358}{subsection.82.4.1}%
-\contentsline {subsection}{\numberline {82.4.2}Transcription}{358}{subsection.82.4.2}%
-\contentsline {subsection}{\numberline {82.4.3}Credits}{360}{subsection.82.4.3}%
-\contentsline {chapter}{\numberline {83}Science Is Elementary 2}{361}{chapter.83}%
-\contentsline {section}{\numberline {83.1}Let's Explore Water}{362}{section.83.1}%
-\contentsline {subsection}{\numberline {83.1.1}Audio Summary}{362}{subsection.83.1.1}%
-\contentsline {subsection}{\numberline {83.1.2}Transcription}{362}{subsection.83.1.2}%
-\contentsline {subsection}{\numberline {83.1.3}Credits}{365}{subsection.83.1.3}%
-\contentsline {section}{\numberline {83.2}Let's Explore Tools and Work}{365}{section.83.2}%
-\contentsline {subsection}{\numberline {83.2.1}Audio Summary}{365}{subsection.83.2.1}%
-\contentsline {subsection}{\numberline {83.2.2}Transcription}{366}{subsection.83.2.2}%
-\contentsline {subsection}{\numberline {83.2.3}Credits}{369}{subsection.83.2.3}%
-\contentsline {section}{\numberline {83.3}Let's Explore Magnets}{369}{section.83.3}%
-\contentsline {subsection}{\numberline {83.3.1}Audio Summary}{369}{subsection.83.3.1}%
-\contentsline {subsection}{\numberline {83.3.2}Transcription}{369}{subsection.83.3.2}%
-\contentsline {subsection}{\numberline {83.3.3}Credits}{372}{subsection.83.3.3}%
-\contentsline {chapter}{\numberline {84}Science Is Elementary 3}{373}{chapter.84}%
-\contentsline {section}{\numberline {84.1}Let's Explore Air}{374}{section.84.1}%
-\contentsline {subsection}{\numberline {84.1.1}Audio Summary}{374}{subsection.84.1.1}%
-\contentsline {subsection}{\numberline {84.1.2}Transcription}{374}{subsection.84.1.2}%
-\contentsline {subsection}{\numberline {84.1.3}Credits}{376}{subsection.84.1.3}%
-\contentsline {section}{\numberline {84.2}Let's Explore Weather and the Seasons}{376}{section.84.2}%
-\contentsline {subsection}{\numberline {84.2.1}Audio Summary}{376}{subsection.84.2.1}%
-\contentsline {subsection}{\numberline {84.2.2}Transcription}{376}{subsection.84.2.2}%
-\contentsline {subsection}{\numberline {84.2.3}Credits}{378}{subsection.84.2.3}%
-\contentsline {section}{\numberline {84.3}Let's Explore Soil and Rocks}{379}{section.84.3}%
-\contentsline {subsection}{\numberline {84.3.1}Audio Summary}{379}{subsection.84.3.1}%
-\contentsline {subsection}{\numberline {84.3.2}Transcription}{379}{subsection.84.3.2}%
-\contentsline {subsection}{\numberline {84.3.3}Credits}{381}{subsection.84.3.3}%
-\contentsline {chapter}{\numberline {85}Story Lane Theater - Overview}{382}{chapter.85}%
-\contentsline {chapter}{\numberline {86}Story Lane Theater 1}{383}{chapter.86}%
-\contentsline {section}{\numberline {86.1}Anansi}{384}{section.86.1}%
-\contentsline {subsection}{\numberline {86.1.1}Audio Summary}{384}{subsection.86.1.1}%
-\contentsline {subsection}{\numberline {86.1.2}Transcription}{384}{subsection.86.1.2}%
-\contentsline {subsection}{\numberline {86.1.3}Credits}{390}{subsection.86.1.3}%
-\contentsline {section}{\numberline {86.2}Brer Rabbit and Boss Lion}{390}{section.86.2}%
-\contentsline {subsection}{\numberline {86.2.1}Audio Summary}{390}{subsection.86.2.1}%
-\contentsline {subsection}{\numberline {86.2.2}Transcription}{390}{subsection.86.2.2}%
-\contentsline {subsection}{\numberline {86.2.3}Credits}{396}{subsection.86.2.3}%
-\contentsline {chapter}{\numberline {87}Story Lane Theater 2}{397}{chapter.87}%
-\contentsline {section}{\numberline {87.1}Finn McCoul}{398}{section.87.1}%
-\contentsline {subsection}{\numberline {87.1.1}Audio Summary}{398}{subsection.87.1.1}%
-\contentsline {subsection}{\numberline {87.1.2}Transcription}{398}{subsection.87.1.2}%
-\contentsline {subsection}{\numberline {87.1.3}Credits}{404}{subsection.87.1.3}%
-\contentsline {section}{\numberline {87.2}John Henry}{405}{section.87.2}%
-\contentsline {subsection}{\numberline {87.2.1}Audio Summary}{405}{subsection.87.2.1}%
-\contentsline {subsection}{\numberline {87.2.2}Transcription}{405}{subsection.87.2.2}%
-\contentsline {subsection}{\numberline {87.2.3}Credits}{410}{subsection.87.2.3}%
-\contentsline {chapter}{\numberline {88}Story Lane Theater 3}{411}{chapter.88}%
-\contentsline {section}{\numberline {88.1}Koi and the Kola Nuts}{412}{section.88.1}%
-\contentsline {subsection}{\numberline {88.1.1}Audio Summary}{412}{subsection.88.1.1}%
-\contentsline {subsection}{\numberline {88.1.2}Transcription}{412}{subsection.88.1.2}%
-\contentsline {subsection}{\numberline {88.1.3}Credits}{418}{subsection.88.1.3}%
-\contentsline {section}{\numberline {88.2}Mose the Fireman}{419}{section.88.2}%
-\contentsline {subsection}{\numberline {88.2.1}Audio Summary}{419}{subsection.88.2.1}%
-\contentsline {subsection}{\numberline {88.2.2}Transcription}{419}{subsection.88.2.2}%
-\contentsline {subsection}{\numberline {88.2.3}Credits}{424}{subsection.88.2.3}%
-\contentsline {chapter}{\numberline {89}Story Lane Theater 4}{425}{chapter.89}%
-\contentsline {section}{\numberline {89.1}Following the Drinking Gourd}{426}{section.89.1}%
-\contentsline {subsection}{\numberline {89.1.1}Audio Summary}{426}{subsection.89.1.1}%
-\contentsline {subsection}{\numberline {89.1.2}Transcription}{426}{subsection.89.1.2}%
-\contentsline {subsection}{\numberline {89.1.3}Credits}{432}{subsection.89.1.3}%
-\contentsline {section}{\numberline {89.2}King Midas and the Golden Touch}{432}{section.89.2}%
-\contentsline {subsection}{\numberline {89.2.1}Audio Summary}{432}{subsection.89.2.1}%
-\contentsline {subsection}{\numberline {89.2.2}Transcription}{432}{subsection.89.2.2}%
-\contentsline {subsection}{\numberline {89.2.3}Credits}{437}{subsection.89.2.3}%
-\contentsline {chapter}{\numberline {90}Story Lane Theater 5}{438}{chapter.90}%
-\contentsline {section}{\numberline {90.1}Peachboy}{439}{section.90.1}%
-\contentsline {subsection}{\numberline {90.1.1}Audio Summary}{439}{subsection.90.1.1}%
-\contentsline {subsection}{\numberline {90.1.2}Transcription}{439}{subsection.90.1.2}%
-\contentsline {subsection}{\numberline {90.1.3}Credits}{444}{subsection.90.1.3}%
-\contentsline {section}{\numberline {90.2}The Tiger and the Brahmin}{444}{section.90.2}%
-\contentsline {subsection}{\numberline {90.2.1}Audio Summary}{444}{subsection.90.2.1}%
-\contentsline {subsection}{\numberline {90.2.2}Transcription}{445}{subsection.90.2.2}%
-\contentsline {subsection}{\numberline {90.2.3}Credits}{450}{subsection.90.2.3}%
-\contentsline {chapter}{\numberline {91}str.at.e.s - Overview}{451}{chapter.91}%
-\contentsline {chapter}{\numberline {92}str.at.e.s 1 - Match-A-Batch!}{452}{chapter.92}%
-\contentsline {chapter}{\numberline {93}str.at.e.s 2 - Matchmania!}{453}{chapter.93}%
-\contentsline {chapter}{\numberline {94}str.at.e.s 3 - Title This! Title That!}{454}{chapter.94}%
-\contentsline {chapter}{\numberline {95}str.at.e.s 4 - Titlerama!}{455}{chapter.95}%
-\contentsline {chapter}{\numberline {96}str.at.e.s 5 - Parallel Lives!}{456}{chapter.96}%
-\contentsline {chapter}{\numberline {97}str.at.e.s 6 - Analogy-ology!}{457}{chapter.97}%
-\contentsline {chapter}{\numberline {98}str.at.e.s 7 - Riddle Roundup!}{458}{chapter.98}%
-\contentsline {chapter}{\numberline {99}str.at.e.s 8 - Riddle Wrangler!}{459}{chapter.99}%
-\contentsline {chapter}{\numberline {100}The Quaddle Family Mysteries - Overview}{460}{chapter.100}%
-\contentsline {chapter}{\numberline {101}The Quaddle Family Mysteries 1 - The Case of the Scarce Scarab - Lobby and Kitchen}{461}{chapter.101}%
-\contentsline {chapter}{\numberline {102}The Quaddle Family Mysteries 2 - The Case of the Scarce Scarab - Garden}{462}{chapter.102}%
-\contentsline {chapter}{\numberline {103}The Quaddle Family Mysteries 3 - The Case of the Scarce Scarab - Parlor and Family Room}{463}{chapter.103}%
-\contentsline {chapter}{\numberline {104}The Secret of Googol - Overview}{464}{chapter.104}%
-\contentsline {chapter}{\numberline {105}The Secret of Googol 1A: Reshaping Googol - The Submarine}{465}{chapter.105}%
-\contentsline {chapter}{\numberline {106}The Secret of Googol 1B: Reshaping Googol - The Tower}{466}{chapter.106}%
-\contentsline {chapter}{\numberline {107}The Secret of Googol 2A: Reshaping Googol - The Castle}{467}{chapter.107}%
-\contentsline {chapter}{\numberline {108}The Secret of Googol 2B: Reshaping Googol - Under the Ocean}{468}{chapter.108}%
-\contentsline {chapter}{\numberline {109}The Secret of Googol 3: The Googol Counting Fair - Midways}{469}{chapter.109}%
-\contentsline {chapter}{\numberline {110}The Secret of Googol 4: The Googol Counting Fair - Corral and Fun House}{470}{chapter.110}%
-\contentsline {chapter}{\numberline {111}The Secret of Googol 5: Googolfest - Party Isle and Toy Isle}{471}{chapter.111}%
-\contentsline {chapter}{\numberline {112}The Secret of Googol 6: Googolfest - Arcade Isle and Moon Feast Isle}{472}{chapter.112}%
-\contentsline {chapter}{\numberline {113}The Secret of Googol 7: Eggs All Around - Egg Trek and Balloon Picnic}{473}{chapter.113}%
-\contentsline {chapter}{\numberline {114}The Secret of Googol 8: Googol Gulch - General Store and Math Arcade}{474}{chapter.114}%
-\contentsline {chapter}{\numberline {115}The Three Decoders - Overview}{475}{chapter.115}%
-\contentsline {chapter}{\numberline {116}The Three Decoders 1 - Riddle of the Ring}{476}{chapter.116}%
-\contentsline {chapter}{\numberline {117}The Three Decoders 2 - Key to the Carousel}{477}{chapter.117}%
-\contentsline {chapter}{\numberline {118}Timeless Jade Trade - Overview}{478}{chapter.118}%
-\contentsline {chapter}{\numberline {119}Timeless Math - Overview}{479}{chapter.119}%
-\contentsline {chapter}{\numberline {120}Timeless Math 1: Maya - Search And Rescue}{480}{chapter.120}%
-\contentsline {chapter}{\numberline {121}Timeless Math 2: Maya - Observatory}{481}{chapter.121}%
-\contentsline {chapter}{\numberline {122}Timeless Math 3: Maya - King Jaguars Village}{482}{chapter.122}%
-\contentsline {chapter}{\numberline {123}Timeless Math 4 - Lunar Race}{483}{chapter.123}%
-\contentsline {chapter}{\numberline {124}Timeless Math 5 - Space Flight Rescue}{484}{chapter.124}%
-\contentsline {chapter}{\numberline {125}Timeless Math 6 - Brainswarm}{485}{chapter.125}%
-\contentsline {chapter}{\numberline {126}Timeless Math 7 - Rover Recovery}{486}{chapter.126}%
-\contentsline {chapter}{\numberline {127}Unknown Variable - Overview}{487}{chapter.127}%
-\contentsline {chapter}{\numberline {128}Unknown Variable 1 - Masque Manor}{488}{chapter.128}%
-\contentsline {chapter}{\numberline {129}Unknown Variable 2 - Ravens Ridge}{489}{chapter.129}%
-\contentsline {chapter}{\numberline {130}Write Away - Overview}{490}{chapter.130}%
-\contentsline {chapter}{\numberline {131}Write Away 1}{493}{chapter.131}%
-\contentsline {section}{\numberline {131.1}Transcriptions}{495}{section.131.1}%
-\contentsline {subsection}{\numberline {131.1.1}The Magic Umbrella by Deeana Downes}{495}{subsection.131.1.1}%
-\contentsline {subsection}{\numberline {131.1.2}In My Desk by Jonathan Garcia}{496}{subsection.131.1.2}%
-\contentsline {subsection}{\numberline {131.1.3}Baby Nathan by Mrs. Brozda's Second Grade Class}{496}{subsection.131.1.3}%
-\contentsline {subsection}{\numberline {131.1.4}Wonder Parrot by Derek Lawson}{497}{subsection.131.1.4}%
-\contentsline {subsection}{\numberline {131.1.5}The Butterfly Basket by Anne McCorkhill}{498}{subsection.131.1.5}%
-\contentsline {subsection}{\numberline {131.1.6}Team Work by Zachary Frank}{499}{subsection.131.1.6}%
-\contentsline {subsection}{\numberline {131.1.7}The Mixed Up Googles by Anna Bell and Sarah Berry}{500}{subsection.131.1.7}%
-\contentsline {subsection}{\numberline {131.1.8}The Boy Who Went Into Space by Nicolas Allen}{501}{subsection.131.1.8}%
-\contentsline {subsection}{\numberline {131.1.9}Write Away Conclusion}{503}{subsection.131.1.9}%
-\contentsline {section}{\numberline {131.2}Credits}{503}{section.131.2}%
-\contentsline {section}{\numberline {131.3}Screenshots}{504}{section.131.3}%
-\contentsline {chapter}{\numberline {132}Write Away 2}{505}{chapter.132}%
-\contentsline {section}{\numberline {132.1}Transcriptions}{507}{section.132.1}%
-\contentsline {subsection}{\numberline {132.1.1}The Space Adventure by Emily Barkelew \& Alexandra Gibney}{507}{subsection.132.1.1}%
-\contentsline {subsection}{\numberline {132.1.2}I Hate the Fall by Stephanie Sentel}{508}{subsection.132.1.2}%
-\contentsline {subsection}{\numberline {132.1.3}The Monster That Jean Scared by Jean Lowrey}{508}{subsection.132.1.3}%
-\contentsline {subsection}{\numberline {132.1.4}How to Brush Your Teeth by John Knight}{510}{subsection.132.1.4}%
-\contentsline {subsection}{\numberline {132.1.5}Hair by Brittany Cantrell}{511}{subsection.132.1.5}%
-\contentsline {subsection}{\numberline {132.1.6}Frasier's Big Weekend by Clark Munson}{512}{subsection.132.1.6}%
-\contentsline {subsection}{\numberline {132.1.7}Chester the Crocodile by Ms. Brozda's Class}{513}{subsection.132.1.7}%
-\contentsline {subsection}{\numberline {132.1.8}Brattylocks by Meredith Sutton}{514}{subsection.132.1.8}%
-\contentsline {subsection}{\numberline {132.1.9}Write Away Conclusion}{515}{subsection.132.1.9}%
-\contentsline {section}{\numberline {132.2}Credits}{515}{section.132.2}%
-\contentsline {section}{\numberline {132.3}Screenshots}{516}{section.132.3}%
-\contentsline {chapter}{\numberline {133}Write Away 3}{517}{chapter.133}%
-\contentsline {section}{\numberline {133.1}Transcription}{519}{section.133.1}%
-\contentsline {subsection}{\numberline {133.1.1}Fluffy the Snowman by Doyle Bonaduce}{519}{subsection.133.1.1}%
-\contentsline {subsection}{\numberline {133.1.2}The Bunny That Cried by Samantha Anderson}{520}{subsection.133.1.2}%
-\contentsline {subsection}{\numberline {133.1.3}Wild Wyoming by Charles Barryman \& Ansley Stewart}{520}{subsection.133.1.3}%
-\contentsline {subsection}{\numberline {133.1.4}Pizza by Greg Hernandez}{522}{subsection.133.1.4}%
-\contentsline {subsection}{\numberline {133.1.5}Halloween Mystery by Julie Chen}{523}{subsection.133.1.5}%
-\contentsline {subsection}{\numberline {133.1.6}The Boy and the Alien by Brandon Walker}{524}{subsection.133.1.6}%
-\contentsline {subsection}{\numberline {133.1.7}The Bossy Princess by Chris Jackson}{525}{subsection.133.1.7}%
-\contentsline {subsection}{\numberline {133.1.8}Obtuse Man and Square Boy by Ryan Hammond}{527}{subsection.133.1.8}%
-\contentsline {subsection}{\numberline {133.1.9}Write Away Conclusion}{528}{subsection.133.1.9}%
-\contentsline {section}{\numberline {133.2}Credits}{529}{section.133.2}%
-\contentsline {section}{\numberline {133.3}Screenshots}{530}{section.133.3}%
-\contentsline {chapter}{\numberline {134}Write Away 4}{531}{chapter.134}%
-\contentsline {section}{\numberline {134.1}Transcriptions}{533}{section.134.1}%
-\contentsline {subsection}{\numberline {134.1.1}The Fearless Lion by Desirae Hernandez}{533}{subsection.134.1.1}%
-\contentsline {subsection}{\numberline {134.1.2}The Earth by Jasmine Walker}{534}{subsection.134.1.2}%
-\contentsline {subsection}{\numberline {134.1.3}Supersurf by James Mungo}{534}{subsection.134.1.3}%
-\contentsline {subsection}{\numberline {134.1.4}Good Night to All by Stacy Winn}{536}{subsection.134.1.4}%
-\contentsline {subsection}{\numberline {134.1.5}The Test by Brad Sherwood}{537}{subsection.134.1.5}%
-\contentsline {subsection}{\numberline {134.1.6}The Storm by Mark Herman}{539}{subsection.134.1.6}%
-\contentsline {subsection}{\numberline {134.1.7}The Dancing Princess by Tara Brechun}{540}{subsection.134.1.7}%
-\contentsline {subsection}{\numberline {134.1.8}Attack of the Ninja Junkfood by Colin Devane}{541}{subsection.134.1.8}%
-\contentsline {subsection}{\numberline {134.1.9}Write Away Conclusion}{542}{subsection.134.1.9}%
-\contentsline {section}{\numberline {134.2}Credits}{543}{section.134.2}%
-\contentsline {section}{\numberline {134.3}Screenshots}{543}{section.134.3}%
-\contentsline {chapter}{\numberline {135}Write Away 5}{544}{chapter.135}%
-\contentsline {section}{\numberline {135.1}Transcriptions}{546}{section.135.1}%
-\contentsline {subsection}{\numberline {135.1.1}The Lost Bear by Anna Casciari}{546}{subsection.135.1.1}%
-\contentsline {subsection}{\numberline {135.1.2}A Day in the Life of a Pioneer by Katie Stall}{547}{subsection.135.1.2}%
-\contentsline {subsection}{\numberline {135.1.3}The Pets by Mark Cervero and Cory Keeler}{547}{subsection.135.1.3}%
-\contentsline {subsection}{\numberline {135.1.4}The Dream by Erika Bassaraba}{549}{subsection.135.1.4}%
-\contentsline {subsection}{\numberline {135.1.5}Baseball by Doug Shafer}{549}{subsection.135.1.5}%
-\contentsline {subsection}{\numberline {135.1.6}The Picky Pirates by Cary McTurk}{550}{subsection.135.1.6}%
-\contentsline {subsection}{\numberline {135.1.7}The Princess by Jenae Smith}{552}{subsection.135.1.7}%
-\contentsline {subsection}{\numberline {135.1.8}The Tree House by Frank Wear}{553}{subsection.135.1.8}%
-\contentsline {subsection}{\numberline {135.1.9}Write Away Conclusion}{556}{subsection.135.1.9}%
-\contentsline {section}{\numberline {135.2}Credits}{556}{section.135.2}%
-\contentsline {section}{\numberline {135.3}Screenshots}{557}{section.135.3}%
-\contentsline {chapter}{\numberline {136}Write Away 6}{558}{chapter.136}%
-\contentsline {section}{\numberline {136.1}Transcriptions}{560}{section.136.1}%
-\contentsline {subsection}{\numberline {136.1.1}The Vulture in the Cage by Anthony Chapparone}{560}{subsection.136.1.1}%
-\contentsline {subsection}{\numberline {136.1.2}My Friend Johnny Applesed by Matthew Barkelew and Jarrad Cole}{561}{subsection.136.1.2}%
-\contentsline {subsection}{\numberline {136.1.3}The Baby's Birthday Party by Desiree Fuller}{563}{subsection.136.1.3}%
-\contentsline {subsection}{\numberline {136.1.4}The Weird Dream by Christian Hanabergh}{563}{subsection.136.1.4}%
-\contentsline {subsection}{\numberline {136.1.5}My Sister Ate My Homework by Ben Powell}{565}{subsection.136.1.5}%
-\contentsline {subsection}{\numberline {136.1.6}A Man Named Raja by Albert Ortiz}{566}{subsection.136.1.6}%
-\contentsline {subsection}{\numberline {136.1.7}Why People Don't Go to the Cemetary at Night by Alison Heller}{567}{subsection.136.1.7}%
-\contentsline {subsection}{\numberline {136.1.8}The Invention by Jared Bowles}{569}{subsection.136.1.8}%
-\contentsline {subsection}{\numberline {136.1.9}Write Away Conclusion}{571}{subsection.136.1.9}%
-\contentsline {section}{\numberline {136.2}Credits}{571}{section.136.2}%
-\contentsline {section}{\numberline {136.3}Screenshots}{573}{section.136.3}%
-\contentsline {chapter}{\numberline {137}Write Away 7}{574}{chapter.137}%
-\contentsline {section}{\numberline {137.1}Transcriptions}{576}{section.137.1}%
-\contentsline {subsection}{\numberline {137.1.1}The Boy Left Out by Jack Lee}{576}{subsection.137.1.1}%
-\contentsline {subsection}{\numberline {137.1.2}Name Poem by Samir Hussain}{577}{subsection.137.1.2}%
-\contentsline {subsection}{\numberline {137.1.3}A Treasure Hunt by Carley Moore \& Abby Mathis}{577}{subsection.137.1.3}%
-\contentsline {subsection}{\numberline {137.1.4}The Day President Clinton Came to Our School by Sara Milton}{579}{subsection.137.1.4}%
-\contentsline {subsection}{\numberline {137.1.5}Alice in Halloween Land by Jasmine Khan \& Hugh Kennedy}{581}{subsection.137.1.5}%
-\contentsline {subsection}{\numberline {137.1.6}A Whale Speaks by William Burke}{582}{subsection.137.1.6}%
-\contentsline {subsection}{\numberline {137.1.7}Dreaming on Skates by Darla Garcia}{582}{subsection.137.1.7}%
-\contentsline {subsection}{\numberline {137.1.8}Dangerous Surfing Veggies by Michael Clayton}{583}{subsection.137.1.8}%
-\contentsline {subsection}{\numberline {137.1.9}Write Away Conclusion}{584}{subsection.137.1.9}%
-\contentsline {section}{\numberline {137.2}Credits}{584}{section.137.2}%
-\contentsline {section}{\numberline {137.3}Screenshots}{586}{section.137.3}%
-\contentsline {chapter}{\numberline {138}Write Away 8}{587}{chapter.138}%
-\contentsline {section}{\numberline {138.1}Transcriptions}{589}{section.138.1}%
-\contentsline {subsection}{\numberline {138.1.1}Tracks in the Snow by Marci Rivera}{589}{subsection.138.1.1}%
-\contentsline {subsection}{\numberline {138.1.2}The Magic Ring by Aimee Lewis \& Nichole Potts}{589}{subsection.138.1.2}%
-\contentsline {subsection}{\numberline {138.1.3}A Young Woman Named Harris by Ashlee Dugger}{590}{subsection.138.1.3}%
-\contentsline {subsection}{\numberline {138.1.4}My Funny Friend \& My Special Cousin by Jeremy Begay \& Julius Martinez}{591}{subsection.138.1.4}%
-\contentsline {subsection}{\numberline {138.1.5}The Castle by Matt Manning}{592}{subsection.138.1.5}%
-\contentsline {subsection}{\numberline {138.1.6}Our School Community by Sarah Tavarez}{593}{subsection.138.1.6}%
-\contentsline {subsection}{\numberline {138.1.7}Best Friends by Madiata Messo}{594}{subsection.138.1.7}%
-\contentsline {subsection}{\numberline {138.1.8}Write Away Conclusion}{596}{subsection.138.1.8}%
-\contentsline {section}{\numberline {138.2}Credits}{597}{section.138.2}%
-\contentsline {section}{\numberline {138.3}Screenshots}{598}{section.138.3}%
-\contentsline {chapter}{\numberline {139}Write Away 9}{599}{chapter.139}%
-\contentsline {section}{\numberline {139.1}Transcriptions}{601}{section.139.1}%
-\contentsline {subsection}{\numberline {139.1.1}The MacMillain Mixup by Torri Newman}{601}{subsection.139.1.1}%
-\contentsline {subsection}{\numberline {139.1.2}A Dragon by Erikalyn Bassaraba}{602}{subsection.139.1.2}%
-\contentsline {subsection}{\numberline {139.1.3}Friendship by Candace Taylor}{603}{subsection.139.1.3}%
-\contentsline {subsection}{\numberline {139.1.4}The Pirates from Cinnabar by R. Peckham, S. Sengupta, H. Kramek and T. LaJoie}{603}{subsection.139.1.4}%
-\contentsline {subsection}{\numberline {139.1.5}Journey to the Centre of the Earth by Tranette Brunson}{604}{subsection.139.1.5}%
-\contentsline {subsection}{\numberline {139.1.6}My Husky Dog My Good Cat by Ami Benitez and Shaun Seumptewa}{604}{subsection.139.1.6}%
-\contentsline {subsection}{\numberline {139.1.7}The Lost Boy by Michael Singletary}{605}{subsection.139.1.7}%
-\contentsline {subsection}{\numberline {139.1.8}Write Away Conclusion}{607}{subsection.139.1.8}%
-\contentsline {section}{\numberline {139.2}Credits}{607}{section.139.2}%
-\contentsline {section}{\numberline {139.3}Screenshots}{608}{section.139.3}%
-\contentsline {chapter}{\numberline {140}Write Away 10}{609}{chapter.140}%
-\contentsline {section}{\numberline {140.1}Transcriptions}{611}{section.140.1}%
-\contentsline {subsection}{\numberline {140.1.1}The Sleigh Ride by Angela Dibella}{611}{subsection.140.1.1}%
-\contentsline {subsection}{\numberline {140.1.2}The Thing in the Gym by Jennifer Wisdon}{612}{subsection.140.1.2}%
-\contentsline {subsection}{\numberline {140.1.3}My Mom by Garrick Benally}{614}{subsection.140.1.3}%
-\contentsline {subsection}{\numberline {140.1.4}The Time Warp by Ashley Hudspeth}{614}{subsection.140.1.4}%
-\contentsline {subsection}{\numberline {140.1.5}The Young Man from Chile by Rogelio Ortega}{615}{subsection.140.1.5}%
-\contentsline {subsection}{\numberline {140.1.6}The Apple by Courtney Morris}{616}{subsection.140.1.6}%
-\contentsline {subsection}{\numberline {140.1.7}I Can't Wait to Play by Kristi Chitwood}{617}{subsection.140.1.7}%
-\contentsline {subsection}{\numberline {140.1.8}The Sea Monster in Elephant Butte by Vanessa Maesse}{618}{subsection.140.1.8}%
-\contentsline {subsection}{\numberline {140.1.9}Write Away Conclusion}{620}{subsection.140.1.9}%
-\contentsline {section}{\numberline {140.2}Credits}{620}{section.140.2}%
-\contentsline {section}{\numberline {140.3}Screenshots}{621}{section.140.3}%
+\contentsline {chapter}{\numberline {1}Games}{17}{chapter.1}%
+\contentsline {chapter}{\numberline {2}16 Tales - Overview}{18}{chapter.2}%
+\contentsline {chapter}{\numberline {3}16 Tales - Volume 1}{20}{chapter.3}%
+\contentsline {section}{\numberline {3.1}The Angry Moon}{21}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Audio Summary}{21}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Transcriptions}{21}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Credits}{23}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Coyote and Cottontail \& Coyote and the Beaver People}{23}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Audio Summary}{23}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Transcriptions}{23}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Credits}{26}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}The Dancing Stars \& The Friendly Wolf}{26}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Audio Summary}{26}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Transcriptions}{27}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Credits}{29}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}The Fire Bringer \& How Saynday Borought the Buffalo to the Indians}{29}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Audio Summary}{29}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Transcriptions}{30}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Credits}{32}{subsection.3.4.3}%
+\contentsline {chapter}{\numberline {4}16 Tales - Volume 2}{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}The Blind Man's Daughter}{34}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Audio Summary}{34}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Transcriptions}{34}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Credits}{36}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Jose and the Crocodile}{36}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Audio Summary}{36}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Transcriptions}{36}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Credits}{39}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Ma Liang and the Magic Brush}{39}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Audio Summary}{39}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Transcriptions}{39}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Credits}{42}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}The Tale of Urashima Taro}{42}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Audio Summary}{42}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Transcriptions}{42}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Credits}{45}{subsection.4.4.3}%
+\contentsline {chapter}{\numberline {5}16 Tales - Volume 3}{46}{chapter.5}%
+\contentsline {section}{\numberline {5.1}The Flea}{47}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Audio Summary}{47}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Transcriptions}{47}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Credits}{50}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}The Lazy Fox \& Señor Coyote and Señor Fox}{50}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Audio Summary}{50}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Transcriptions}{51}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Credits}{54}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Tepozton, the Magic Boy from the Mountains}{54}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Audio Summary}{54}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Transcriptions}{54}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Credits}{57}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}The Tiger and the Rabbit}{58}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Audio Summary}{58}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Transcriptions}{58}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Credits}{61}{subsection.5.4.3}%
+\contentsline {chapter}{\numberline {6}16 Tales - Volume 4}{62}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Anance and the Golden Box}{63}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Audio Summary}{63}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Transcriptions}{63}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Credits}{65}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Brer Rabbit and the Tar Baby}{66}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Audio Summary}{66}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Transcriptions}{66}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Credits}{69}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}How Anance Got a Thin Waist \& Ananse's Visitor Turtle}{69}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Audio Summary}{69}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Transcriptions}{69}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Credits}{72}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Wakaima and the Clay Man}{72}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Audio Summary}{72}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Transcriptions}{72}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Credits}{75}{subsection.6.4.3}%
+\contentsline {chapter}{\numberline {7}Calamity - Overview}{76}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Calamity 1: The Natural World}{77}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Calamity 2: People and Traditions}{78}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Calamity 3: Around The World}{79}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Cali's Geo Tools}{80}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Cosmic Cookoff - Overview}{81}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Cosmic Cookoff: Language Arts}{82}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Cosmic Cookoff: Mathematics}{83}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Creative - Overview}{84}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Creative Camp}{86}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Overview}{86}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Credits}{87}{section.16.2}%
+\contentsline {chapter}{\numberline {17}Creative Isle}{90}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Overview}{90}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Credits}{91}{section.17.2}%
+\contentsline {chapter}{\numberline {18}Creative Journey}{94}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Overview}{94}{section.18.1}%
+\contentsline {section}{\numberline {18.2}Credits}{95}{section.18.2}%
+\contentsline {section}{\numberline {18.3}Creative Voyage}{98}{section.18.3}%
+\contentsline {section}{\numberline {18.4}Overview}{98}{section.18.4}%
+\contentsline {section}{\numberline {18.5}Credits}{99}{section.18.5}%
+\contentsline {chapter}{\numberline {19}Every Child Can Succeed - Overview}{101}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Screenshots}{103}{section.19.1}%
+\contentsline {chapter}{\numberline {20}Every Child Can Succeed 1}{104}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Promises to Keep: Achieving Success in Our Schools}{105}{section.20.1}%
+\contentsline {subsection}{\numberline {20.1.1}Audio Summary}{105}{subsection.20.1.1}%
+\contentsline {subsection}{\numberline {20.1.2}Transcription}{105}{subsection.20.1.2}%
+\contentsline {section}{\numberline {20.2}Using Every Child Can Succeed}{110}{section.20.2}%
+\contentsline {subsection}{\numberline {20.2.1}Audio Summary}{110}{subsection.20.2.1}%
+\contentsline {subsection}{\numberline {20.2.2}Transcription}{110}{subsection.20.2.2}%
+\contentsline {chapter}{\numberline {21}Every Child Can Succeed 2}{113}{chapter.21}%
+\contentsline {section}{\numberline {21.1}Staff Development}{114}{section.21.1}%
+\contentsline {subsection}{\numberline {21.1.1}Audio Summary}{114}{subsection.21.1.1}%
+\contentsline {subsection}{\numberline {21.1.2}Transcription}{114}{subsection.21.1.2}%
+\contentsline {section}{\numberline {21.2}Instructional Leadership}{116}{section.21.2}%
+\contentsline {subsection}{\numberline {21.2.1}Audio Summary}{116}{subsection.21.2.1}%
+\contentsline {subsection}{\numberline {21.2.2}Transcription}{116}{subsection.21.2.2}%
+\contentsline {section}{\numberline {21.3}School Leadership}{120}{section.21.3}%
+\contentsline {subsection}{\numberline {21.3.1}Audio Summary}{120}{subsection.21.3.1}%
+\contentsline {subsection}{\numberline {21.3.2}Transcription}{120}{subsection.21.3.2}%
+\contentsline {chapter}{\numberline {22}Every Child Can Succeed 3}{124}{chapter.22}%
+\contentsline {section}{\numberline {22.1}High Expectations}{125}{section.22.1}%
+\contentsline {subsection}{\numberline {22.1.1}Audio Summary}{125}{subsection.22.1.1}%
+\contentsline {subsection}{\numberline {22.1.2}Transcription}{125}{subsection.22.1.2}%
+\contentsline {section}{\numberline {22.2}Parent Involvement}{128}{section.22.2}%
+\contentsline {subsection}{\numberline {22.2.1}Audio Summary}{128}{subsection.22.2.1}%
+\contentsline {subsection}{\numberline {22.2.2}Transcription}{128}{subsection.22.2.2}%
+\contentsline {section}{\numberline {22.3}Productive Climate and Culture}{132}{section.22.3}%
+\contentsline {subsection}{\numberline {22.3.1}Audio Summary}{132}{subsection.22.3.1}%
+\contentsline {subsection}{\numberline {22.3.2}Transcription}{132}{subsection.22.3.2}%
+\contentsline {chapter}{\numberline {23}Every Child Can Succeed 4}{136}{chapter.23}%
+\contentsline {section}{\numberline {23.1}Monitoring Student Progress}{137}{section.23.1}%
+\contentsline {subsection}{\numberline {23.1.1}Audio Summary}{137}{subsection.23.1.1}%
+\contentsline {subsection}{\numberline {23.1.2}Transcription}{137}{subsection.23.1.2}%
+\contentsline {section}{\numberline {23.2}Effective Instructional Stategies}{140}{section.23.2}%
+\contentsline {subsection}{\numberline {23.2.1}Audio Summary}{140}{subsection.23.2.1}%
+\contentsline {subsection}{\numberline {23.2.2}Transcription}{140}{subsection.23.2.2}%
+\contentsline {section}{\numberline {23.3}Learning Essential Skills}{144}{section.23.3}%
+\contentsline {subsection}{\numberline {23.3.1}Audio Summary}{144}{subsection.23.3.1}%
+\contentsline {subsection}{\numberline {23.3.2}Transcription}{144}{subsection.23.3.2}%
+\contentsline {chapter}{\numberline {24}Every Child Can Succeed 5}{149}{chapter.24}%
+\contentsline {section}{\numberline {24.1}The Vannn School: A History of Success in Pittsburgh}{150}{section.24.1}%
+\contentsline {subsection}{\numberline {24.1.1}Audio Summary}{150}{subsection.24.1.1}%
+\contentsline {subsection}{\numberline {24.1.2}Transcription}{150}{subsection.24.1.2}%
+\contentsline {section}{\numberline {24.2}New Suncook School: Achievement in the Woods of Maine}{154}{section.24.2}%
+\contentsline {subsection}{\numberline {24.2.1}Audio Summary}{154}{subsection.24.2.1}%
+\contentsline {subsection}{\numberline {24.2.2}Transcription}{154}{subsection.24.2.2}%
+\contentsline {chapter}{\numberline {25}Every Child Can Succeed 6}{160}{chapter.25}%
+\contentsline {section}{\numberline {25.1}Northwest Passages: Alki and Beacon Hill in Seattle}{161}{section.25.1}%
+\contentsline {subsection}{\numberline {25.1.1}Audio Summary}{161}{subsection.25.1.1}%
+\contentsline {subsection}{\numberline {25.1.2}Transcription}{161}{subsection.25.1.2}%
+\contentsline {section}{\numberline {25.2}Charles Rice Learning Center: An Oasis in Dallas}{166}{section.25.2}%
+\contentsline {subsection}{\numberline {25.2.1}Audio Summary}{166}{subsection.25.2.1}%
+\contentsline {subsection}{\numberline {25.2.2}Transcription}{167}{subsection.25.2.2}%
+\contentsline {chapter}{\numberline {26}Every Child Can Succeed 7}{173}{chapter.26}%
+\contentsline {section}{\numberline {26.1}L. A. Stories: Bennet-Kew and Euclid Avenue}{174}{section.26.1}%
+\contentsline {subsection}{\numberline {26.1.1}Audio Summary}{174}{subsection.26.1.1}%
+\contentsline {subsection}{\numberline {26.1.2}Transcription}{174}{subsection.26.1.2}%
+\contentsline {section}{\numberline {26.2}Thorncliffe Community School: Student-Centered Learning in Edmonton}{178}{section.26.2}%
+\contentsline {subsection}{\numberline {26.2.1}Audio Summary}{178}{subsection.26.2.1}%
+\contentsline {subsection}{\numberline {26.2.2}Transcription}{178}{subsection.26.2.2}%
+\contentsline {chapter}{\numberline {27}Faire Games - Overview}{184}{chapter.27}%
+\contentsline {chapter}{\numberline {28}Faire Games: Language Arts}{185}{chapter.28}%
+\contentsline {chapter}{\numberline {29}Faire Games: Mathematics}{186}{chapter.29}%
+\contentsline {chapter}{\numberline {30}Family Connection: A Guide to Lightspan}{187}{chapter.30}%
+\contentsline {section}{\numberline {30.1}List of screenshots:}{189}{section.30.1}%
+\contentsline {section}{\numberline {30.2}Main Menu audio transcription}{191}{section.30.2}%
+\contentsline {section}{\numberline {30.3}Introducing The Lightspan Partnership audio transcription}{191}{section.30.3}%
+\contentsline {section}{\numberline {30.4}Powerful Learning Programs audio transcription}{192}{section.30.4}%
+\contentsline {section}{\numberline {30.5}Lightspan Adventures: Grades K-2 audio transcription}{193}{section.30.5}%
+\contentsline {section}{\numberline {30.6}Additional Videos}{193}{section.30.6}%
+\contentsline {subsection}{\numberline {30.6.1}Reading/Language Art: Mars Moose}{193}{subsection.30.6.1}%
+\contentsline {subsubsection}{Stay \& Play}{193}{section*.35}%
+\contentsline {subsubsection}{Cosmic Quest}{194}{section*.36}%
+\contentsline {subsubsection}{Walkabout}{194}{section*.37}%
+\contentsline {subsubsection}{Liquid Books}{195}{section*.38}%
+\contentsline {subsubsection}{On Screen Activities - General}{196}{section*.39}%
+\contentsline {subsubsection}{On Screen Activities - Stay \& Play}{196}{section*.40}%
+\contentsline {subsubsection}{On Screen Activities - Cosmic Quest}{196}{section*.41}%
+\contentsline {subsubsection}{On Screen Activities - Walkabout}{196}{section*.42}%
+\contentsline {subsubsection}{On Screen Activities - Liquid Books}{196}{section*.43}%
+\contentsline {subsubsection}{Off Screen Activities - General}{197}{section*.44}%
+\contentsline {subsubsection}{Off Screen Activities - Reading}{197}{section*.45}%
+\contentsline {subsubsection}{Off Screen Activities - Learning directional words}{197}{section*.46}%
+\contentsline {subsubsection}{Off Screen Activities - The Wonders of Nature}{198}{section*.47}%
+\contentsline {subsubsection}{Off Screen Activities - Everyday Activities}{198}{section*.48}%
+\contentsline {subsubsection}{Off Screen Activities - Assisting your child with writing and spelling new words}{198}{section*.49}%
+\contentsline {subsection}{\numberline {30.6.2}Mathematics: The Secret of Googol}{198}{subsection.30.6.2}%
+\contentsline {subsubsection}{Tower}{198}{section*.50}%
+\contentsline {subsubsection}{Castle}{199}{section*.51}%
+\contentsline {subsubsection}{Ocean}{199}{section*.52}%
+\contentsline {subsubsection}{Sub}{200}{section*.53}%
+\contentsline {subsubsection}{On Screen Activities - Match shapes to written descriptions}{200}{section*.54}%
+\contentsline {subsubsection}{On Screen Activities - Reflected Images}{200}{section*.55}%
+\contentsline {subsubsection}{On Screen Activities - Recognise the pattern of shapes}{201}{section*.56}%
+\contentsline {subsubsection}{On Screen Activities - Explore Underwater Caves}{201}{section*.57}%
+\contentsline {subsubsection}{On Screen Activities - Repeating}{201}{section*.58}%
+\contentsline {subsubsection}{Off Screen Activities - Symmetry birthday card}{202}{section*.59}%
+\contentsline {subsubsection}{Off Screen Activities - Learning through everyday activities}{202}{section*.60}%
+\contentsline {subsubsection}{Off Screen Activities - Identify geometric shapes of road signs}{202}{section*.61}%
+\contentsline {subsubsection}{Off Screen Activities - Art and Geometry}{202}{section*.62}%
+\contentsline {subsubsection}{Off Screen Activities - Preparing a picnic}{202}{section*.63}%
+\contentsline {section}{\numberline {30.7}Lightspan Adventures: Grades 3 \& 4 audio transcription}{203}{section.30.7}%
+\contentsline {subsection}{\numberline {30.7.1}Reading/Language Arts: Mona \& Moki}{203}{subsection.30.7.1}%
+\contentsline {subsubsection}{On Screen Activities - Scrambled Letters}{203}{section*.64}%
+\contentsline {subsubsection}{On Screen Activities - Visualising Words}{203}{section*.65}%
+\contentsline {subsubsection}{On Screen Activities - The Meaning of Prefixes}{203}{section*.66}%
+\contentsline {subsubsection}{On Screen Activities - Using the Process of Elimination}{204}{section*.67}%
+\contentsline {subsubsection}{Off Screen Activities - Synonyms and Antonyms}{205}{section*.68}%
+\contentsline {subsubsection}{Off Screen Activities - Create a Story for your Child}{205}{section*.69}%
+\contentsline {subsubsection}{Off Screen Activities - Word Scramble Fun with Signs}{205}{section*.70}%
+\contentsline {subsubsection}{Off Screen Activities - Create Riddles}{205}{section*.71}%
+\contentsline {subsubsection}{Off Screen Activities - Magazine and Newspaper Cutting}{205}{section*.72}%
+\contentsline {subsubsection}{Off Screen Activities - }{205}{section*.73}%
+\contentsline {subsection}{\numberline {30.7.2}Mathematics: Quaddle Family Mysteries}{206}{subsection.30.7.2}%
+\contentsline {section}{\numberline {30.8}Lightspan Adventures: Grades 5 \& 6 audio transcription}{206}{section.30.8}%
+\contentsline {subsection}{\numberline {30.8.1}Mathematics: Timeless Math}{207}{subsection.30.8.1}%
+\contentsline {subsection}{\numberline {30.8.2}Reading/Language Arts: str.at.e.s}{208}{subsection.30.8.2}%
+\contentsline {chapter}{\numberline {31}Head To Toe Overview}{209}{chapter.31}%
+\contentsline {chapter}{\numberline {32}Head To Toe 1}{211}{chapter.32}%
+\contentsline {section}{\numberline {32.1}In the Beginning}{212}{section.32.1}%
+\contentsline {subsection}{\numberline {32.1.1}Audio Summary}{212}{subsection.32.1.1}%
+\contentsline {subsection}{\numberline {32.1.2}Transcription}{212}{subsection.32.1.2}%
+\contentsline {subsection}{\numberline {32.1.3}Credits}{218}{subsection.32.1.3}%
+\contentsline {section}{\numberline {32.2}Cells\dots Your Starting Place}{218}{section.32.2}%
+\contentsline {subsection}{\numberline {32.2.1}Audio Summary}{218}{subsection.32.2.1}%
+\contentsline {subsection}{\numberline {32.2.2}Transcription}{218}{subsection.32.2.2}%
+\contentsline {subsection}{\numberline {32.2.3}Credits}{222}{subsection.32.2.3}%
+\contentsline {section}{\numberline {32.3}In a Heartbeat}{222}{section.32.3}%
+\contentsline {subsection}{\numberline {32.3.1}Audio Summary}{222}{subsection.32.3.1}%
+\contentsline {subsection}{\numberline {32.3.2}Transcription}{222}{subsection.32.3.2}%
+\contentsline {subsection}{\numberline {32.3.3}Credits}{227}{subsection.32.3.3}%
+\contentsline {section}{\numberline {32.4}Muscles\dots Holding You Together}{227}{section.32.4}%
+\contentsline {subsection}{\numberline {32.4.1}Audio Summary}{227}{subsection.32.4.1}%
+\contentsline {subsection}{\numberline {32.4.2}Transcription}{227}{subsection.32.4.2}%
+\contentsline {subsection}{\numberline {32.4.3}Credits}{233}{subsection.32.4.3}%
+\contentsline {section}{\numberline {32.5}Screenshots}{234}{section.32.5}%
+\contentsline {chapter}{\numberline {33}Head To Toe 2}{235}{chapter.33}%
+\contentsline {section}{\numberline {33.1}Standing Tall}{236}{section.33.1}%
+\contentsline {subsection}{\numberline {33.1.1}Audio Summary}{236}{subsection.33.1.1}%
+\contentsline {subsection}{\numberline {33.1.2}Transcription}{236}{subsection.33.1.2}%
+\contentsline {subsection}{\numberline {33.1.3}Credits}{241}{subsection.33.1.3}%
+\contentsline {section}{\numberline {33.2}Fresh Air}{241}{section.33.2}%
+\contentsline {subsection}{\numberline {33.2.1}Audio Summary}{241}{subsection.33.2.1}%
+\contentsline {subsection}{\numberline {33.2.2}Transcription}{241}{subsection.33.2.2}%
+\contentsline {subsection}{\numberline {33.2.3}Credits}{246}{subsection.33.2.3}%
+\contentsline {section}{\numberline {33.3}Fueling Up}{246}{section.33.3}%
+\contentsline {subsection}{\numberline {33.3.1}Audio Summary}{246}{subsection.33.3.1}%
+\contentsline {subsection}{\numberline {33.3.2}Transcription}{246}{subsection.33.3.2}%
+\contentsline {subsection}{\numberline {33.3.3}Credits}{251}{subsection.33.3.3}%
+\contentsline {section}{\numberline {33.4}From Fuel to Waste}{252}{section.33.4}%
+\contentsline {subsection}{\numberline {33.4.1}Audio Summary}{252}{subsection.33.4.1}%
+\contentsline {subsection}{\numberline {33.4.2}Transcription}{252}{subsection.33.4.2}%
+\contentsline {subsection}{\numberline {33.4.3}Credits}{258}{subsection.33.4.3}%
+\contentsline {section}{\numberline {33.5}Screenshots}{259}{section.33.5}%
+\contentsline {chapter}{\numberline {34}Head To Toe 3}{260}{chapter.34}%
+\contentsline {section}{\numberline {34.1}Control Center}{261}{section.34.1}%
+\contentsline {subsection}{\numberline {34.1.1}Audio Summary}{261}{subsection.34.1.1}%
+\contentsline {subsection}{\numberline {34.1.2}Transcription}{261}{subsection.34.1.2}%
+\contentsline {subsection}{\numberline {34.1.3}Credits}{266}{subsection.34.1.3}%
+\contentsline {section}{\numberline {34.2}Fighting Germs and Diseases}{266}{section.34.2}%
+\contentsline {subsection}{\numberline {34.2.1}Audio Summary}{266}{subsection.34.2.1}%
+\contentsline {subsection}{\numberline {34.2.2}Transcription}{266}{subsection.34.2.2}%
+\contentsline {subsection}{\numberline {34.2.3}Credits}{270}{subsection.34.2.3}%
+\contentsline {section}{\numberline {34.3}Sounds}{271}{section.34.3}%
+\contentsline {subsection}{\numberline {34.3.1}Audio Summary}{271}{subsection.34.3.1}%
+\contentsline {subsection}{\numberline {34.3.2}Transcription}{271}{subsection.34.3.2}%
+\contentsline {subsection}{\numberline {34.3.3}Credits}{276}{subsection.34.3.3}%
+\contentsline {section}{\numberline {34.4}Sights}{276}{section.34.4}%
+\contentsline {subsection}{\numberline {34.4.1}Audio Summary}{276}{subsection.34.4.1}%
+\contentsline {subsection}{\numberline {34.4.2}Transcription}{276}{subsection.34.4.2}%
+\contentsline {subsection}{\numberline {34.4.3}Credits}{282}{subsection.34.4.3}%
+\contentsline {section}{\numberline {34.5}Screenshots}{283}{section.34.5}%
+\contentsline {chapter}{\numberline {35}Head To Toe 4}{284}{chapter.35}%
+\contentsline {section}{\numberline {35.1}A Healthy Smile}{285}{section.35.1}%
+\contentsline {subsection}{\numberline {35.1.1}Audio Summary}{285}{subsection.35.1.1}%
+\contentsline {subsection}{\numberline {35.1.2}Transcription}{285}{subsection.35.1.2}%
+\contentsline {subsection}{\numberline {35.1.3}Credits}{289}{subsection.35.1.3}%
+\contentsline {section}{\numberline {35.2}Staying Healthy}{289}{section.35.2}%
+\contentsline {subsection}{\numberline {35.2.1}Audio Summary}{289}{subsection.35.2.1}%
+\contentsline {subsection}{\numberline {35.2.2}Transcription}{290}{subsection.35.2.2}%
+\contentsline {subsection}{\numberline {35.2.3}Credits}{295}{subsection.35.2.3}%
+\contentsline {section}{\numberline {35.3}Safety First}{295}{section.35.3}%
+\contentsline {subsection}{\numberline {35.3.1}Audio Summary}{295}{subsection.35.3.1}%
+\contentsline {subsection}{\numberline {35.3.2}Transcription}{295}{subsection.35.3.2}%
+\contentsline {subsection}{\numberline {35.3.3}Credits}{300}{subsection.35.3.3}%
+\contentsline {section}{\numberline {35.4}Screenshots}{301}{section.35.4}%
+\contentsline {chapter}{\numberline {36}K9.5 - Overview}{302}{chapter.36}%
+\contentsline {chapter}{\numberline {37}K9.5 1: Living in Airedale}{303}{chapter.37}%
+\contentsline {chapter}{\numberline {38}K9.5 2: We are the Dogs!}{304}{chapter.38}%
+\contentsline {chapter}{\numberline {39}K9.5 3: Webtunes}{305}{chapter.39}%
+\contentsline {chapter}{\numberline {40}K9.5 4: The Tail-Wag Tour}{306}{chapter.40}%
+\contentsline {chapter}{\numberline {41}K9.5 5: The Hollywood Premiere}{307}{chapter.41}%
+\contentsline {chapter}{\numberline {42}KazMania - Overview}{308}{chapter.42}%
+\contentsline {chapter}{\numberline {43}KazMania 1: Train of Gems}{309}{chapter.43}%
+\contentsline {chapter}{\numberline {44}KazMania 2: Chaos in KazMania}{310}{chapter.44}%
+\contentsline {chapter}{\numberline {45}Liquid Books - Overview}{311}{chapter.45}%
+\contentsline {chapter}{\numberline {46}Liquid Books 1 - Letty's Favourite Stories}{312}{chapter.46}%
+\contentsline {chapter}{\numberline {47}Liquid Books 2 - Amrita's Tree Credito and The Coyote}{313}{chapter.47}%
+\contentsline {chapter}{\numberline {48}Liquid Books 3 - Far-Fetched Frontier Tales}{314}{chapter.48}%
+\contentsline {chapter}{\numberline {49}Liquid Books 4 - The Adventures of Adelita and Bo}{315}{chapter.49}%
+\contentsline {chapter}{\numberline {50}Liquid Books 5 - Pop-Out Prose}{316}{chapter.50}%
+\contentsline {chapter}{\numberline {51}Liquid Books 6 - The Wandering Path}{317}{chapter.51}%
+\contentsline {chapter}{\numberline {52}Mars Moose - Overview}{318}{chapter.52}%
+\contentsline {chapter}{\numberline {53}Mars Moose Cosmic Quest 1: City Sights}{319}{chapter.53}%
+\contentsline {chapter}{\numberline {54}Mars Moose Cosmic Quest 2: Fairy Tale Island}{320}{chapter.54}%
+\contentsline {chapter}{\numberline {55}Mars Moose Cosmic Quest 3: Race Through France}{321}{chapter.55}%
+\contentsline {chapter}{\numberline {56}Mars Moose Stay \& Play 1: In the Clubhouse}{322}{chapter.56}%
+\contentsline {chapter}{\numberline {57}Mars Moose Stay \& Play 2: In Mars' Bedroom}{323}{chapter.57}%
+\contentsline {chapter}{\numberline {58}Mars Moose Stay \& Play 3: In Lonnie's Classroom}{324}{chapter.58}%
+\contentsline {chapter}{\numberline {59}Mars Moose Walkabout 1: The Natural History Museum}{325}{chapter.59}%
+\contentsline {chapter}{\numberline {60}Mars Moose Walkabout 2: The Shakespeare Festival}{326}{chapter.60}%
+\contentsline {chapter}{\numberline {61}Mars Moose Walkabout 3: World Sports Day}{327}{chapter.61}%
+\contentsline {chapter}{\numberline {62}Math Gallery Collection - Overview}{328}{chapter.62}%
+\contentsline {chapter}{\numberline {63}Math Gallery: Collection 1}{330}{chapter.63}%
+\contentsline {section}{\numberline {63.1}Overview}{330}{section.63.1}%
+\contentsline {section}{\numberline {63.2}Transcripts}{331}{section.63.2}%
+\contentsline {subsection}{\numberline {63.2.1}Series 10}{331}{subsection.63.2.1}%
+\contentsline {subsubsection}{Introduction}{331}{section*.81}%
+\contentsline {subsubsection}{Clip 1}{331}{section*.82}%
+\contentsline {subsubsection}{Clip 2}{331}{section*.83}%
+\contentsline {subsubsection}{Clip 3}{331}{section*.84}%
+\contentsline {subsubsection}{Clip 4}{331}{section*.85}%
+\contentsline {subsubsection}{Clip 5}{331}{section*.86}%
+\contentsline {subsection}{\numberline {63.2.2}Series 20}{332}{subsection.63.2.2}%
+\contentsline {subsubsection}{Clip 1}{332}{section*.87}%
+\contentsline {subsubsection}{Clip 2}{332}{section*.88}%
+\contentsline {subsubsection}{Clip 3}{332}{section*.89}%
+\contentsline {subsubsection}{Clip 4}{332}{section*.90}%
+\contentsline {subsubsection}{Clip 5}{333}{section*.91}%
+\contentsline {subsection}{\numberline {63.2.3}Series 30}{333}{subsection.63.2.3}%
+\contentsline {subsubsection}{Introduction}{333}{section*.92}%
+\contentsline {subsubsection}{Clip 1}{333}{section*.93}%
+\contentsline {subsubsection}{Clip 2}{333}{section*.94}%
+\contentsline {subsubsection}{Clip 3}{334}{section*.95}%
+\contentsline {subsubsection}{Clip 4}{334}{section*.96}%
+\contentsline {subsubsection}{Clip 5}{334}{section*.97}%
+\contentsline {subsection}{\numberline {63.2.4}Base-10 Blocks}{334}{subsection.63.2.4}%
+\contentsline {section}{\numberline {63.3}Credits}{334}{section.63.3}%
+\contentsline {section}{\numberline {63.4}Screenshots}{336}{section.63.4}%
+\contentsline {chapter}{\numberline {64}Math Gallery Collection 2}{337}{chapter.64}%
+\contentsline {section}{\numberline {64.1}Overview}{337}{section.64.1}%
+\contentsline {section}{\numberline {64.2}Transcripts}{338}{section.64.2}%
+\contentsline {subsection}{\numberline {64.2.1}Series 10}{338}{subsection.64.2.1}%
+\contentsline {subsubsection}{Introduction}{338}{section*.100}%
+\contentsline {subsubsection}{Clip 1}{338}{section*.101}%
+\contentsline {subsubsection}{Clip 2}{338}{section*.102}%
+\contentsline {subsubsection}{Clip 3}{338}{section*.103}%
+\contentsline {subsubsection}{Clip 4}{338}{section*.104}%
+\contentsline {subsection}{\numberline {64.2.2}Series 20}{339}{subsection.64.2.2}%
+\contentsline {subsubsection}{Introduction}{339}{section*.105}%
+\contentsline {subsubsection}{Clip 1}{339}{section*.106}%
+\contentsline {subsubsection}{Clip 2}{339}{section*.107}%
+\contentsline {subsubsection}{Clip 3}{339}{section*.108}%
+\contentsline {subsubsection}{Clip 4}{339}{section*.109}%
+\contentsline {subsubsection}{Clip 5}{339}{section*.110}%
+\contentsline {subsection}{\numberline {64.2.3}Series 30}{340}{subsection.64.2.3}%
+\contentsline {subsubsection}{Introduction}{340}{section*.111}%
+\contentsline {subsubsection}{Clip 1}{340}{section*.112}%
+\contentsline {subsubsection}{Clip 2}{340}{section*.113}%
+\contentsline {subsubsection}{Clip 3}{340}{section*.114}%
+\contentsline {subsubsection}{Clip 4}{340}{section*.115}%
+\contentsline {section}{\numberline {64.3}Credits}{340}{section.64.3}%
+\contentsline {section}{\numberline {64.4}Screenshots}{342}{section.64.4}%
+\contentsline {chapter}{\numberline {65}Math On The Move!: Overview}{343}{chapter.65}%
+\contentsline {chapter}{\numberline {66}Math On The Move! 1: Addition/Subtraction Intermediate}{344}{chapter.66}%
+\contentsline {chapter}{\numberline {67}Math On The Move! 1: Addition/Subtraction Advanced}{345}{chapter.67}%
+\contentsline {chapter}{\numberline {68}Math On The Move! 2: Multiplication/Division Advanced}{346}{chapter.68}%
+\contentsline {chapter}{\numberline {69}Math On The Move! 2: Multiplication/Division Intermediate}{347}{chapter.69}%
+\contentsline {chapter}{\numberline {70}Mona \& Moki - Overview}{348}{chapter.70}%
+\contentsline {chapter}{\numberline {71}Mona \& Moki 1 - Drive Me Wild}{349}{chapter.71}%
+\contentsline {chapter}{\numberline {72}Mona \& Moki 2 - Drive Me Wilder}{350}{chapter.72}%
+\contentsline {chapter}{\numberline {73}Online Connection CD}{351}{chapter.73}%
+\contentsline {section}{\numberline {73.1}Overview}{351}{section.73.1}%
+\contentsline {chapter}{\numberline {74}P.K. - Overview}{354}{chapter.74}%
+\contentsline {chapter}{\numberline {75}P.K.'s Math Studio}{355}{chapter.75}%
+\contentsline {chapter}{\numberline {76}P.K.'s Place 1 - Party on the Patio!}{356}{chapter.76}%
+\contentsline {chapter}{\numberline {77}P.K.'s Place 2 - Hoopo at Sea!}{357}{chapter.77}%
+\contentsline {chapter}{\numberline {78}P.K.'s Place 3 - Carlos at The Races!}{358}{chapter.78}%
+\contentsline {chapter}{\numberline {79}P.K.'s Place 4 - Daphne and the Seventh Wonder!}{359}{chapter.79}%
+\contentsline {chapter}{\numberline {80}Road Writer}{360}{chapter.80}%
+\contentsline {section}{\numberline {80.1}Transcriptions}{361}{section.80.1}%
+\contentsline {subsection}{\numberline {80.1.1}Home Screen - Chaucer}{361}{subsection.80.1.1}%
+\contentsline {subsection}{\numberline {80.1.2}Home Screen - Ralph}{361}{subsection.80.1.2}%
+\contentsline {subsection}{\numberline {80.1.3}Home Screen - Gwyn}{361}{subsection.80.1.3}%
+\contentsline {subsection}{\numberline {80.1.4}Home Screen - Miguel}{362}{subsection.80.1.4}%
+\contentsline {subsection}{\numberline {80.1.5}Road Writer Song}{362}{subsection.80.1.5}%
+\contentsline {subsection}{\numberline {80.1.6}Writing Assignment - Introduction}{362}{subsection.80.1.6}%
+\contentsline {subsection}{\numberline {80.1.7}Writing Assignment - Conclusion}{362}{subsection.80.1.7}%
+\contentsline {section}{\numberline {80.2}Credits}{363}{section.80.2}%
+\contentsline {chapter}{\numberline {81}Science Is Elementary - Overview}{364}{chapter.81}%
+\contentsline {chapter}{\numberline {82}Science Is Elementary 1}{366}{chapter.82}%
+\contentsline {section}{\numberline {82.1}Let's Explore Plants}{367}{section.82.1}%
+\contentsline {subsection}{\numberline {82.1.1}Audio Summary}{367}{subsection.82.1.1}%
+\contentsline {subsection}{\numberline {82.1.2}Transcription}{367}{subsection.82.1.2}%
+\contentsline {subsection}{\numberline {82.1.3}Credits}{370}{subsection.82.1.3}%
+\contentsline {section}{\numberline {82.2}Let's Explore Animals}{370}{section.82.2}%
+\contentsline {subsection}{\numberline {82.2.1}Audio Summary}{370}{subsection.82.2.1}%
+\contentsline {subsection}{\numberline {82.2.2}Transcription}{370}{subsection.82.2.2}%
+\contentsline {subsection}{\numberline {82.2.3}Credits}{373}{subsection.82.2.3}%
+\contentsline {section}{\numberline {82.3}Let's Explore Sound}{373}{section.82.3}%
+\contentsline {subsection}{\numberline {82.3.1}Audio Summary}{373}{subsection.82.3.1}%
+\contentsline {subsection}{\numberline {82.3.2}Transcription}{373}{subsection.82.3.2}%
+\contentsline {subsection}{\numberline {82.3.3}Credits}{377}{subsection.82.3.3}%
+\contentsline {section}{\numberline {82.4}Let's Explore Light and Shadows}{377}{section.82.4}%
+\contentsline {subsection}{\numberline {82.4.1}Audio Summary}{377}{subsection.82.4.1}%
+\contentsline {subsection}{\numberline {82.4.2}Transcription}{377}{subsection.82.4.2}%
+\contentsline {subsection}{\numberline {82.4.3}Credits}{379}{subsection.82.4.3}%
+\contentsline {section}{\numberline {82.5}Screenshots}{380}{section.82.5}%
+\contentsline {chapter}{\numberline {83}Science Is Elementary 2}{381}{chapter.83}%
+\contentsline {section}{\numberline {83.1}Let's Explore Water}{382}{section.83.1}%
+\contentsline {subsection}{\numberline {83.1.1}Audio Summary}{382}{subsection.83.1.1}%
+\contentsline {subsection}{\numberline {83.1.2}Transcription}{382}{subsection.83.1.2}%
+\contentsline {subsection}{\numberline {83.1.3}Credits}{385}{subsection.83.1.3}%
+\contentsline {section}{\numberline {83.2}Let's Explore Tools and Work}{385}{section.83.2}%
+\contentsline {subsection}{\numberline {83.2.1}Audio Summary}{385}{subsection.83.2.1}%
+\contentsline {subsection}{\numberline {83.2.2}Transcription}{386}{subsection.83.2.2}%
+\contentsline {subsection}{\numberline {83.2.3}Credits}{389}{subsection.83.2.3}%
+\contentsline {section}{\numberline {83.3}Let's Explore Magnets}{389}{section.83.3}%
+\contentsline {subsection}{\numberline {83.3.1}Audio Summary}{389}{subsection.83.3.1}%
+\contentsline {subsection}{\numberline {83.3.2}Transcription}{389}{subsection.83.3.2}%
+\contentsline {subsection}{\numberline {83.3.3}Credits}{392}{subsection.83.3.3}%
+\contentsline {section}{\numberline {83.4}Screenshots}{393}{section.83.4}%
+\contentsline {chapter}{\numberline {84}Science Is Elementary 3}{394}{chapter.84}%
+\contentsline {section}{\numberline {84.1}Let's Explore Air}{395}{section.84.1}%
+\contentsline {subsection}{\numberline {84.1.1}Audio Summary}{395}{subsection.84.1.1}%
+\contentsline {subsection}{\numberline {84.1.2}Transcription}{395}{subsection.84.1.2}%
+\contentsline {subsection}{\numberline {84.1.3}Credits}{397}{subsection.84.1.3}%
+\contentsline {section}{\numberline {84.2}Let's Explore Weather and the Seasons}{397}{section.84.2}%
+\contentsline {subsection}{\numberline {84.2.1}Audio Summary}{397}{subsection.84.2.1}%
+\contentsline {subsection}{\numberline {84.2.2}Transcription}{397}{subsection.84.2.2}%
+\contentsline {subsection}{\numberline {84.2.3}Credits}{399}{subsection.84.2.3}%
+\contentsline {section}{\numberline {84.3}Let's Explore Soil and Rocks}{400}{section.84.3}%
+\contentsline {subsection}{\numberline {84.3.1}Audio Summary}{400}{subsection.84.3.1}%
+\contentsline {subsection}{\numberline {84.3.2}Transcription}{400}{subsection.84.3.2}%
+\contentsline {subsection}{\numberline {84.3.3}Credits}{402}{subsection.84.3.3}%
+\contentsline {section}{\numberline {84.4}Screenshots}{403}{section.84.4}%
+\contentsline {chapter}{\numberline {85}Story Lane Theater - Overview}{404}{chapter.85}%
+\contentsline {chapter}{\numberline {86}Story Lane Theater 1}{406}{chapter.86}%
+\contentsline {section}{\numberline {86.1}Anansi}{407}{section.86.1}%
+\contentsline {subsection}{\numberline {86.1.1}Audio Summary}{407}{subsection.86.1.1}%
+\contentsline {subsection}{\numberline {86.1.2}Transcription}{407}{subsection.86.1.2}%
+\contentsline {subsection}{\numberline {86.1.3}Credits}{413}{subsection.86.1.3}%
+\contentsline {section}{\numberline {86.2}Brer Rabbit and Boss Lion}{413}{section.86.2}%
+\contentsline {subsection}{\numberline {86.2.1}Audio Summary}{413}{subsection.86.2.1}%
+\contentsline {subsection}{\numberline {86.2.2}Transcription}{413}{subsection.86.2.2}%
+\contentsline {subsection}{\numberline {86.2.3}Credits}{419}{subsection.86.2.3}%
+\contentsline {section}{\numberline {86.3}Screenshots}{420}{section.86.3}%
+\contentsline {chapter}{\numberline {87}Story Lane Theater 2}{421}{chapter.87}%
+\contentsline {section}{\numberline {87.1}Finn McCoul}{422}{section.87.1}%
+\contentsline {subsection}{\numberline {87.1.1}Audio Summary}{422}{subsection.87.1.1}%
+\contentsline {subsection}{\numberline {87.1.2}Transcription}{422}{subsection.87.1.2}%
+\contentsline {subsection}{\numberline {87.1.3}Credits}{428}{subsection.87.1.3}%
+\contentsline {section}{\numberline {87.2}John Henry}{429}{section.87.2}%
+\contentsline {subsection}{\numberline {87.2.1}Audio Summary}{429}{subsection.87.2.1}%
+\contentsline {subsection}{\numberline {87.2.2}Transcription}{429}{subsection.87.2.2}%
+\contentsline {subsection}{\numberline {87.2.3}Credits}{434}{subsection.87.2.3}%
+\contentsline {section}{\numberline {87.3}Screenshots}{435}{section.87.3}%
+\contentsline {chapter}{\numberline {88}Story Lane Theater 3}{436}{chapter.88}%
+\contentsline {section}{\numberline {88.1}Koi and the Kola Nuts}{437}{section.88.1}%
+\contentsline {subsection}{\numberline {88.1.1}Audio Summary}{437}{subsection.88.1.1}%
+\contentsline {subsection}{\numberline {88.1.2}Transcription}{437}{subsection.88.1.2}%
+\contentsline {subsection}{\numberline {88.1.3}Credits}{443}{subsection.88.1.3}%
+\contentsline {section}{\numberline {88.2}Mose the Fireman}{444}{section.88.2}%
+\contentsline {subsection}{\numberline {88.2.1}Audio Summary}{444}{subsection.88.2.1}%
+\contentsline {subsection}{\numberline {88.2.2}Transcription}{444}{subsection.88.2.2}%
+\contentsline {subsection}{\numberline {88.2.3}Credits}{449}{subsection.88.2.3}%
+\contentsline {section}{\numberline {88.3}Screenshots}{450}{section.88.3}%
+\contentsline {chapter}{\numberline {89}Story Lane Theater 4}{451}{chapter.89}%
+\contentsline {section}{\numberline {89.1}Following the Drinking Gourd}{452}{section.89.1}%
+\contentsline {subsection}{\numberline {89.1.1}Audio Summary}{452}{subsection.89.1.1}%
+\contentsline {subsection}{\numberline {89.1.2}Transcription}{452}{subsection.89.1.2}%
+\contentsline {subsection}{\numberline {89.1.3}Credits}{458}{subsection.89.1.3}%
+\contentsline {section}{\numberline {89.2}King Midas and the Golden Touch}{458}{section.89.2}%
+\contentsline {subsection}{\numberline {89.2.1}Audio Summary}{458}{subsection.89.2.1}%
+\contentsline {subsection}{\numberline {89.2.2}Transcription}{458}{subsection.89.2.2}%
+\contentsline {subsection}{\numberline {89.2.3}Credits}{463}{subsection.89.2.3}%
+\contentsline {section}{\numberline {89.3}Screenshots}{464}{section.89.3}%
+\contentsline {chapter}{\numberline {90}Story Lane Theater 5}{465}{chapter.90}%
+\contentsline {section}{\numberline {90.1}Peachboy}{466}{section.90.1}%
+\contentsline {subsection}{\numberline {90.1.1}Audio Summary}{466}{subsection.90.1.1}%
+\contentsline {subsection}{\numberline {90.1.2}Transcription}{466}{subsection.90.1.2}%
+\contentsline {subsection}{\numberline {90.1.3}Credits}{471}{subsection.90.1.3}%
+\contentsline {section}{\numberline {90.2}The Tiger and the Brahmin}{471}{section.90.2}%
+\contentsline {subsection}{\numberline {90.2.1}Audio Summary}{471}{subsection.90.2.1}%
+\contentsline {subsection}{\numberline {90.2.2}Transcription}{472}{subsection.90.2.2}%
+\contentsline {subsection}{\numberline {90.2.3}Credits}{477}{subsection.90.2.3}%
+\contentsline {section}{\numberline {90.3}Screenshots}{478}{section.90.3}%
+\contentsline {chapter}{\numberline {91}str.at.e.s - Overview}{479}{chapter.91}%
+\contentsline {chapter}{\numberline {92}str.at.e.s 1 - Match-A-Batch!}{480}{chapter.92}%
+\contentsline {chapter}{\numberline {93}str.at.e.s 2 - Matchmania!}{481}{chapter.93}%
+\contentsline {chapter}{\numberline {94}str.at.e.s 3 - Title This! Title That!}{482}{chapter.94}%
+\contentsline {chapter}{\numberline {95}str.at.e.s 4 - Titlerama!}{483}{chapter.95}%
+\contentsline {chapter}{\numberline {96}str.at.e.s 5 - Parallel Lives!}{484}{chapter.96}%
+\contentsline {chapter}{\numberline {97}str.at.e.s 6 - Analogy-ology!}{485}{chapter.97}%
+\contentsline {chapter}{\numberline {98}str.at.e.s 7 - Riddle Roundup!}{486}{chapter.98}%
+\contentsline {chapter}{\numberline {99}str.at.e.s 8 - Riddle Wrangler!}{487}{chapter.99}%
+\contentsline {chapter}{\numberline {100}The Quaddle Family Mysteries - Overview}{488}{chapter.100}%
+\contentsline {chapter}{\numberline {101}The Quaddle Family Mysteries 1 - The Case of the Scarce Scarab - Lobby and Kitchen}{489}{chapter.101}%
+\contentsline {chapter}{\numberline {102}The Quaddle Family Mysteries 2 - The Case of the Scarce Scarab - Garden}{490}{chapter.102}%
+\contentsline {chapter}{\numberline {103}The Quaddle Family Mysteries 3 - The Case of the Scarce Scarab - Parlor and Family Room}{491}{chapter.103}%
+\contentsline {chapter}{\numberline {104}The Secret of Googol - Overview}{492}{chapter.104}%
+\contentsline {chapter}{\numberline {105}The Secret of Googol 1A: Reshaping Googol - The Submarine}{493}{chapter.105}%
+\contentsline {chapter}{\numberline {106}The Secret of Googol 1B: Reshaping Googol - The Tower}{494}{chapter.106}%
+\contentsline {chapter}{\numberline {107}The Secret of Googol 2A: Reshaping Googol - The Castle}{495}{chapter.107}%
+\contentsline {chapter}{\numberline {108}The Secret of Googol 2B: Reshaping Googol - Under the Ocean}{496}{chapter.108}%
+\contentsline {chapter}{\numberline {109}The Secret of Googol 3: The Googol Counting Fair - Midways}{497}{chapter.109}%
+\contentsline {chapter}{\numberline {110}The Secret of Googol 4: The Googol Counting Fair - Corral and Fun House}{498}{chapter.110}%
+\contentsline {chapter}{\numberline {111}The Secret of Googol 5: Googolfest - Party Isle and Toy Isle}{499}{chapter.111}%
+\contentsline {chapter}{\numberline {112}The Secret of Googol 6: Googolfest - Arcade Isle and Moon Feast Isle}{500}{chapter.112}%
+\contentsline {chapter}{\numberline {113}The Secret of Googol 7: Eggs All Around - Egg Trek and Balloon Picnic}{501}{chapter.113}%
+\contentsline {chapter}{\numberline {114}The Secret of Googol 8: Googol Gulch - General Store and Math Arcade}{502}{chapter.114}%
+\contentsline {chapter}{\numberline {115}The Three Decoders - Overview}{503}{chapter.115}%
+\contentsline {chapter}{\numberline {116}The Three Decoders 1 - Riddle of the Ring}{504}{chapter.116}%
+\contentsline {chapter}{\numberline {117}The Three Decoders 2 - Key to the Carousel}{505}{chapter.117}%
+\contentsline {chapter}{\numberline {118}Timeless Jade Trade - Overview}{506}{chapter.118}%
+\contentsline {section}{\numberline {118.1}Credits}{506}{section.118.1}%
+\contentsline {chapter}{\numberline {119}Timeless Math - Overview}{508}{chapter.119}%
+\contentsline {chapter}{\numberline {120}Timeless Math 1: Maya - Search And Rescue}{509}{chapter.120}%
+\contentsline {chapter}{\numberline {121}Timeless Math 2: Maya - Observatory}{510}{chapter.121}%
+\contentsline {chapter}{\numberline {122}Timeless Math 3: Maya - King Jaguars Village}{511}{chapter.122}%
+\contentsline {chapter}{\numberline {123}Timeless Math 4 - Lunar Race}{512}{chapter.123}%
+\contentsline {chapter}{\numberline {124}Timeless Math 5 - Space Flight Rescue}{513}{chapter.124}%
+\contentsline {chapter}{\numberline {125}Timeless Math 6 - Brainswarm}{514}{chapter.125}%
+\contentsline {chapter}{\numberline {126}Timeless Math 7 - Rover Recovery}{515}{chapter.126}%
+\contentsline {chapter}{\numberline {127}Unknown Variable - Overview}{516}{chapter.127}%
+\contentsline {chapter}{\numberline {128}Unknown Variable 1 - Masque Manor}{517}{chapter.128}%
+\contentsline {chapter}{\numberline {129}Unknown Variable 2 - Ravens Ridge}{518}{chapter.129}%
+\contentsline {chapter}{\numberline {130}Write Away - Overview}{519}{chapter.130}%
+\contentsline {chapter}{\numberline {131}Write Away 1}{522}{chapter.131}%
+\contentsline {section}{\numberline {131.1}Transcriptions}{524}{section.131.1}%
+\contentsline {subsection}{\numberline {131.1.1}The Magic Umbrella by Deeana Downes}{524}{subsection.131.1.1}%
+\contentsline {subsection}{\numberline {131.1.2}In My Desk by Jonathan Garcia}{525}{subsection.131.1.2}%
+\contentsline {subsection}{\numberline {131.1.3}Baby Nathan by Mrs. Brozda's Second Grade Class}{525}{subsection.131.1.3}%
+\contentsline {subsection}{\numberline {131.1.4}Wonder Parrot by Derek Lawson}{526}{subsection.131.1.4}%
+\contentsline {subsection}{\numberline {131.1.5}The Butterfly Basket by Anne McCorkhill}{527}{subsection.131.1.5}%
+\contentsline {subsection}{\numberline {131.1.6}Team Work by Zachary Frank}{528}{subsection.131.1.6}%
+\contentsline {subsection}{\numberline {131.1.7}The Mixed Up Googles by Anna Bell and Sarah Berry}{529}{subsection.131.1.7}%
+\contentsline {subsection}{\numberline {131.1.8}The Boy Who Went Into Space by Nicolas Allen}{530}{subsection.131.1.8}%
+\contentsline {subsection}{\numberline {131.1.9}Write Away Conclusion}{532}{subsection.131.1.9}%
+\contentsline {section}{\numberline {131.2}Credits}{532}{section.131.2}%
+\contentsline {section}{\numberline {131.3}Screenshots}{533}{section.131.3}%
+\contentsline {chapter}{\numberline {132}Write Away 2}{534}{chapter.132}%
+\contentsline {section}{\numberline {132.1}Transcriptions}{536}{section.132.1}%
+\contentsline {subsection}{\numberline {132.1.1}The Space Adventure by Emily Barkelew \& Alexandra Gibney}{536}{subsection.132.1.1}%
+\contentsline {subsection}{\numberline {132.1.2}I Hate the Fall by Stephanie Sentel}{537}{subsection.132.1.2}%
+\contentsline {subsection}{\numberline {132.1.3}The Monster That Jean Scared by Jean Lowrey}{537}{subsection.132.1.3}%
+\contentsline {subsection}{\numberline {132.1.4}How to Brush Your Teeth by John Knight}{539}{subsection.132.1.4}%
+\contentsline {subsection}{\numberline {132.1.5}Hair by Brittany Cantrell}{540}{subsection.132.1.5}%
+\contentsline {subsection}{\numberline {132.1.6}Frasier's Big Weekend by Clark Munson}{541}{subsection.132.1.6}%
+\contentsline {subsection}{\numberline {132.1.7}Chester the Crocodile by Ms. Brozda's Class}{542}{subsection.132.1.7}%
+\contentsline {subsection}{\numberline {132.1.8}Brattylocks by Meredith Sutton}{543}{subsection.132.1.8}%
+\contentsline {subsection}{\numberline {132.1.9}Write Away Conclusion}{544}{subsection.132.1.9}%
+\contentsline {section}{\numberline {132.2}Credits}{544}{section.132.2}%
+\contentsline {section}{\numberline {132.3}Screenshots}{545}{section.132.3}%
+\contentsline {chapter}{\numberline {133}Write Away 3}{546}{chapter.133}%
+\contentsline {section}{\numberline {133.1}Transcription}{548}{section.133.1}%
+\contentsline {subsection}{\numberline {133.1.1}Fluffy the Snowman by Doyle Bonaduce}{548}{subsection.133.1.1}%
+\contentsline {subsection}{\numberline {133.1.2}The Bunny That Cried by Samantha Anderson}{549}{subsection.133.1.2}%
+\contentsline {subsection}{\numberline {133.1.3}Wild Wyoming by Charles Barryman \& Ansley Stewart}{549}{subsection.133.1.3}%
+\contentsline {subsection}{\numberline {133.1.4}Pizza by Greg Hernandez}{551}{subsection.133.1.4}%
+\contentsline {subsection}{\numberline {133.1.5}Halloween Mystery by Julie Chen}{552}{subsection.133.1.5}%
+\contentsline {subsection}{\numberline {133.1.6}The Boy and the Alien by Brandon Walker}{553}{subsection.133.1.6}%
+\contentsline {subsection}{\numberline {133.1.7}The Bossy Princess by Chris Jackson}{554}{subsection.133.1.7}%
+\contentsline {subsection}{\numberline {133.1.8}Obtuse Man and Square Boy by Ryan Hammond}{556}{subsection.133.1.8}%
+\contentsline {subsection}{\numberline {133.1.9}Write Away Conclusion}{557}{subsection.133.1.9}%
+\contentsline {section}{\numberline {133.2}Credits}{558}{section.133.2}%
+\contentsline {section}{\numberline {133.3}Screenshots}{559}{section.133.3}%
+\contentsline {chapter}{\numberline {134}Write Away 4}{560}{chapter.134}%
+\contentsline {section}{\numberline {134.1}Transcriptions}{562}{section.134.1}%
+\contentsline {subsection}{\numberline {134.1.1}The Fearless Lion by Desirae Hernandez}{562}{subsection.134.1.1}%
+\contentsline {subsection}{\numberline {134.1.2}The Earth by Jasmine Walker}{563}{subsection.134.1.2}%
+\contentsline {subsection}{\numberline {134.1.3}Supersurf by James Mungo}{563}{subsection.134.1.3}%
+\contentsline {subsection}{\numberline {134.1.4}Good Night to All by Stacy Winn}{565}{subsection.134.1.4}%
+\contentsline {subsection}{\numberline {134.1.5}The Test by Brad Sherwood}{566}{subsection.134.1.5}%
+\contentsline {subsection}{\numberline {134.1.6}The Storm by Mark Herman}{568}{subsection.134.1.6}%
+\contentsline {subsection}{\numberline {134.1.7}The Dancing Princess by Tara Brechun}{569}{subsection.134.1.7}%
+\contentsline {subsection}{\numberline {134.1.8}Attack of the Ninja Junkfood by Colin Devane}{570}{subsection.134.1.8}%
+\contentsline {subsection}{\numberline {134.1.9}Write Away Conclusion}{571}{subsection.134.1.9}%
+\contentsline {section}{\numberline {134.2}Credits}{572}{section.134.2}%
+\contentsline {section}{\numberline {134.3}Screenshots}{572}{section.134.3}%
+\contentsline {chapter}{\numberline {135}Write Away 5}{573}{chapter.135}%
+\contentsline {section}{\numberline {135.1}Transcriptions}{575}{section.135.1}%
+\contentsline {subsection}{\numberline {135.1.1}The Lost Bear by Anna Casciari}{575}{subsection.135.1.1}%
+\contentsline {subsection}{\numberline {135.1.2}A Day in the Life of a Pioneer by Katie Stall}{576}{subsection.135.1.2}%
+\contentsline {subsection}{\numberline {135.1.3}The Pets by Mark Cervero and Cory Keeler}{576}{subsection.135.1.3}%
+\contentsline {subsection}{\numberline {135.1.4}The Dream by Erika Bassaraba}{578}{subsection.135.1.4}%
+\contentsline {subsection}{\numberline {135.1.5}Baseball by Doug Shafer}{578}{subsection.135.1.5}%
+\contentsline {subsection}{\numberline {135.1.6}The Picky Pirates by Cary McTurk}{579}{subsection.135.1.6}%
+\contentsline {subsection}{\numberline {135.1.7}The Princess by Jenae Smith}{581}{subsection.135.1.7}%
+\contentsline {subsection}{\numberline {135.1.8}The Tree House by Frank Wear}{582}{subsection.135.1.8}%
+\contentsline {subsection}{\numberline {135.1.9}Write Away Conclusion}{585}{subsection.135.1.9}%
+\contentsline {section}{\numberline {135.2}Credits}{585}{section.135.2}%
+\contentsline {section}{\numberline {135.3}Screenshots}{586}{section.135.3}%
+\contentsline {chapter}{\numberline {136}Write Away 6}{587}{chapter.136}%
+\contentsline {section}{\numberline {136.1}Transcriptions}{589}{section.136.1}%
+\contentsline {subsection}{\numberline {136.1.1}The Vulture in the Cage by Anthony Chapparone}{589}{subsection.136.1.1}%
+\contentsline {subsection}{\numberline {136.1.2}My Friend Johnny Applesed by Matthew Barkelew and Jarrad Cole}{590}{subsection.136.1.2}%
+\contentsline {subsection}{\numberline {136.1.3}The Baby's Birthday Party by Desiree Fuller}{592}{subsection.136.1.3}%
+\contentsline {subsection}{\numberline {136.1.4}The Weird Dream by Christian Hanabergh}{592}{subsection.136.1.4}%
+\contentsline {subsection}{\numberline {136.1.5}My Sister Ate My Homework by Ben Powell}{594}{subsection.136.1.5}%
+\contentsline {subsection}{\numberline {136.1.6}A Man Named Raja by Albert Ortiz}{595}{subsection.136.1.6}%
+\contentsline {subsection}{\numberline {136.1.7}Why People Don't Go to the Cemetary at Night by Alison Heller}{596}{subsection.136.1.7}%
+\contentsline {subsection}{\numberline {136.1.8}The Invention by Jared Bowles}{598}{subsection.136.1.8}%
+\contentsline {subsection}{\numberline {136.1.9}Write Away Conclusion}{600}{subsection.136.1.9}%
+\contentsline {section}{\numberline {136.2}Credits}{600}{section.136.2}%
+\contentsline {section}{\numberline {136.3}Screenshots}{602}{section.136.3}%
+\contentsline {chapter}{\numberline {137}Write Away 7}{603}{chapter.137}%
+\contentsline {section}{\numberline {137.1}Transcriptions}{605}{section.137.1}%
+\contentsline {subsection}{\numberline {137.1.1}The Boy Left Out by Jack Lee}{605}{subsection.137.1.1}%
+\contentsline {subsection}{\numberline {137.1.2}Name Poem by Samir Hussain}{606}{subsection.137.1.2}%
+\contentsline {subsection}{\numberline {137.1.3}A Treasure Hunt by Carley Moore \& Abby Mathis}{606}{subsection.137.1.3}%
+\contentsline {subsection}{\numberline {137.1.4}The Day President Clinton Came to Our School by Sara Milton}{608}{subsection.137.1.4}%
+\contentsline {subsection}{\numberline {137.1.5}Alice in Halloween Land by Jasmine Khan \& Hugh Kennedy}{610}{subsection.137.1.5}%
+\contentsline {subsection}{\numberline {137.1.6}A Whale Speaks by William Burke}{611}{subsection.137.1.6}%
+\contentsline {subsection}{\numberline {137.1.7}Dreaming on Skates by Darla Garcia}{611}{subsection.137.1.7}%
+\contentsline {subsection}{\numberline {137.1.8}Dangerous Surfing Veggies by Michael Clayton}{612}{subsection.137.1.8}%
+\contentsline {subsection}{\numberline {137.1.9}Write Away Conclusion}{613}{subsection.137.1.9}%
+\contentsline {section}{\numberline {137.2}Credits}{613}{section.137.2}%
+\contentsline {section}{\numberline {137.3}Screenshots}{615}{section.137.3}%
+\contentsline {chapter}{\numberline {138}Write Away 8}{616}{chapter.138}%
+\contentsline {section}{\numberline {138.1}Transcriptions}{618}{section.138.1}%
+\contentsline {subsection}{\numberline {138.1.1}Tracks in the Snow by Marci Rivera}{618}{subsection.138.1.1}%
+\contentsline {subsection}{\numberline {138.1.2}The Magic Ring by Aimee Lewis \& Nichole Potts}{618}{subsection.138.1.2}%
+\contentsline {subsection}{\numberline {138.1.3}A Young Woman Named Harris by Ashlee Dugger}{619}{subsection.138.1.3}%
+\contentsline {subsection}{\numberline {138.1.4}My Funny Friend \& My Special Cousin by Jeremy Begay \& Julius Martinez}{620}{subsection.138.1.4}%
+\contentsline {subsection}{\numberline {138.1.5}The Castle by Matt Manning}{621}{subsection.138.1.5}%
+\contentsline {subsection}{\numberline {138.1.6}Our School Community by Sarah Tavarez}{622}{subsection.138.1.6}%
+\contentsline {subsection}{\numberline {138.1.7}Best Friends by Madiata Messo}{623}{subsection.138.1.7}%
+\contentsline {subsection}{\numberline {138.1.8}Write Away Conclusion}{625}{subsection.138.1.8}%
+\contentsline {section}{\numberline {138.2}Credits}{626}{section.138.2}%
+\contentsline {section}{\numberline {138.3}Screenshots}{627}{section.138.3}%
+\contentsline {chapter}{\numberline {139}Write Away 9}{628}{chapter.139}%
+\contentsline {section}{\numberline {139.1}Transcriptions}{630}{section.139.1}%
+\contentsline {subsection}{\numberline {139.1.1}The MacMillain Mixup by Torri Newman}{630}{subsection.139.1.1}%
+\contentsline {subsection}{\numberline {139.1.2}A Dragon by Erikalyn Bassaraba}{631}{subsection.139.1.2}%
+\contentsline {subsection}{\numberline {139.1.3}Friendship by Candace Taylor}{632}{subsection.139.1.3}%
+\contentsline {subsection}{\numberline {139.1.4}The Pirates from Cinnabar by R. Peckham, S. Sengupta, H. Kramek and T. LaJoie}{632}{subsection.139.1.4}%
+\contentsline {subsection}{\numberline {139.1.5}Journey to the Centre of the Earth by Tranette Brunson}{633}{subsection.139.1.5}%
+\contentsline {subsection}{\numberline {139.1.6}My Husky Dog My Good Cat by Ami Benitez and Shaun Seumptewa}{633}{subsection.139.1.6}%
+\contentsline {subsection}{\numberline {139.1.7}The Lost Boy by Michael Singletary}{634}{subsection.139.1.7}%
+\contentsline {subsection}{\numberline {139.1.8}Write Away Conclusion}{636}{subsection.139.1.8}%
+\contentsline {section}{\numberline {139.2}Credits}{636}{section.139.2}%
+\contentsline {section}{\numberline {139.3}Screenshots}{637}{section.139.3}%
+\contentsline {chapter}{\numberline {140}Write Away 10}{638}{chapter.140}%
+\contentsline {section}{\numberline {140.1}Transcriptions}{640}{section.140.1}%
+\contentsline {subsection}{\numberline {140.1.1}The Sleigh Ride by Angela Dibella}{640}{subsection.140.1.1}%
+\contentsline {subsection}{\numberline {140.1.2}The Thing in the Gym by Jennifer Wisdon}{641}{subsection.140.1.2}%
+\contentsline {subsection}{\numberline {140.1.3}My Mom by Garrick Benally}{643}{subsection.140.1.3}%
+\contentsline {subsection}{\numberline {140.1.4}The Time Warp by Ashley Hudspeth}{643}{subsection.140.1.4}%
+\contentsline {subsection}{\numberline {140.1.5}The Young Man from Chile by Rogelio Ortega}{644}{subsection.140.1.5}%
+\contentsline {subsection}{\numberline {140.1.6}The Apple by Courtney Morris}{645}{subsection.140.1.6}%
+\contentsline {subsection}{\numberline {140.1.7}I Can't Wait to Play by Kristi Chitwood}{646}{subsection.140.1.7}%
+\contentsline {subsection}{\numberline {140.1.8}The Sea Monster in Elephant Butte by Vanessa Maesse}{647}{subsection.140.1.8}%
+\contentsline {subsection}{\numberline {140.1.9}Write Away Conclusion}{649}{subsection.140.1.9}%
+\contentsline {section}{\numberline {140.2}Credits}{649}{section.140.2}%
+\contentsline {section}{\numberline {140.3}Screenshots}{650}{section.140.3}%

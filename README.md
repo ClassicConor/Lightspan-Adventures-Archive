@@ -1,4 +1,4 @@
-# The Lightspan Partnership archival and documentation project
+# The Lightspan Partnership archival and documentation project (on hiatus)
 
 **Note: This project has been placed on an indefinite hiatus due to its enormous size, as well as its complexity. Although a significant amount has been achieved, the amount of transcripts still required to be done, as well as the numerous issues with portions of original transcriptions, has meant that I believe that it is in my best interest to pursue other goals and objectives in the meantime. If anyone would like to pick up on this work in order to adapt, expand or continue working on it more broadly, please let me know. I'm either waiting for another person to do it, or maybe in a decade or two, for an AGI to pick up the pieces, and for it to finish the job with the limited resources available to it on the internet.**
 
